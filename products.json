@@ -5799,5 +5799,428 @@
     "promos": null,
     "damage_markers": null,
     "other": null
+  },
+  {
+    "id": "product-313",
+    "name": "Twilight Masquerade Booster Pack",
+    "type": "Booster Pack",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "543843",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543843_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-314",
+    "name": "Twilight Masquerade Elite Trainer Box",
+    "type": "Elite Trainer Box",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "543845",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Elite Trainer Box contains [number] booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543845_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "9"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-123"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-315",
+    "name": "Twilight Masquerade Sleeved Booster Pack",
+    "type": "Sleeved Booster Pack",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "544170",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544170_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-316",
+    "name": "Twilight Masquerade Booster Box",
+    "type": "Booster Box",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "543846",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Box contains 36 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543846_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "36"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-317",
+    "name": "Twilight Masquerade Booster Bundle",
+    "type": "Booster Bundle",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "543852",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Bundle contains 6 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543852_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "6"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-318",
+    "name": "Twilight Masquerade Single Pack Blister [Toxel]",
+    "type": "Single Pack Blister",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "544179",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544179_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-119 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-319",
+    "name": "Twilight Masquerade Pokemon Center Elite Trainer Box",
+    "type": "Pokemon Center Elite Trainer Box",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "543844",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Pokemon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543844_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "11"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-123 (Pokémon Center Stamp)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-320",
+    "name": "Twilight Masqueade Half Booster Box",
+    "type": "Half Booster Box",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "649421",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Half Booster Box contains 18 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649421_in_1000x1000.jpg",
+    "packs": {
+      "set": "18"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-321",
+    "name": "Twilight Masquerade Single Pack Blister [Pupitar]",
+    "type": "Single Pack Blister",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "544177",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544177_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-120 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-322",
+    "name": "Twilight Masquerade Fun Pack",
+    "type": "Fun Pack",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "607501",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Fun Pack contains 3 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/607501_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-323",
+    "name": "Twilight Masquerade Elite Trainer Box Case",
+    "type": "Elite Trainer Box Case",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "544385",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544385_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "90"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-324",
+    "name": "Twilight Masquerade 3-Pack Blister [Revavroom]",
+    "type": "3-Pack Blister",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "544172",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544172_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-121 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-325",
+    "name": "Twilight Masquerade Premium Checklane Blister [Lokix]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "617190",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617190_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv04-014",
+      "sv04-122 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-326",
+    "name": "Twilight Masquerade Sleeved Booster Case",
+    "type": "Sleeved Booster Case",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "593672",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593672_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "144"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-327",
+    "name": "Twilight Masquerade Premium Checklane Blister [Steelix]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "617189",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, [3] promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617189_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv04-090",
+      "sv04-125 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-328",
+    "name": "Twilight Masquerade Build & Battle Box",
+    "type": "Build & Battle Box",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "544386",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Build & Battle Box contains a 40-card ready-to-play deck, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544386_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "4"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-329",
+    "name": "Twilight Masquerade Build & Battle Box Display",
+    "type": "Build & Battle Box Display",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "549489",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/549489_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "40"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-330",
+    "name": "Twilight Masquerade Premium Checklane Blister [Porygon]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "544180",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, [3] promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544180_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv04-142",
+      "sv04-143",
+      "sv04-144 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-331",
+    "name": "Twilight Masquerade Premium Checklane Blister [Horsea]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "544182",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, [3] promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544182_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv04-030",
+      "sv04-031",
+      "sv04-032 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-332",
+    "name": "Twilight Masquerade 3-Pack Blister [Snorlax]",
+    "type": "3-Pack Blister",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "544171",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544171_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-122"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-333",
+    "name": "Twilight Masquerade Booster Box Case",
+    "type": "Booster Box Case",
+    "release_date": "2024-05-24",
+    "tcgplayer_id": "544384",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Box Case contains 6 Booster Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544384_in_1000x1000.jpg",
+    "packs": {
+      "sv06": "216"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
   }
 ]
