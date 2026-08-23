@@ -15,4 +15,13 @@ Sets need to be added to sets.json for the autofill. |
 Run set updater ```python update_sets.py``` | 
 You will need requests ```pip install requests```
 
+To link each product's TCGplayer ID to its Cardmarket and CardTrader IDs, run:
+
+```sh
+python link_marketplace_ids.py
+```
+
+This uses the [TCG Tracking API](https://openapi.tcgtracking.com/) and updates
+`products.json`.
+
 You can use this data in any way you like for any purpose
