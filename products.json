@@ -5,6 +5,8 @@
     "type": "Booster Box",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644298",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box contains 36 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644298_in_1000x1000.jpg",
     "packs": {
@@ -22,6 +24,8 @@
     "type": "Booster Box Case",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644731",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box Case contains 6 Booster Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644731_in_1000x1000.jpg",
     "packs": {
@@ -39,6 +43,8 @@
     "type": "Half Booster Box",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644351",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Half Booster Box contains 18 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644351_in_1000x1000.jpg",
     "packs": {
@@ -56,6 +62,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2025-09-26",
     "tcgplayer_id": "648394",
+    "cardmarket_id": 834830,
+    "cardtrader_id": 341896,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/648394_in_1000x1000.jpg",
     "packs": {
@@ -82,6 +90,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644279",
+    "cardmarket_id": 834831,
+    "cardtrader_id": 341898,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644279_in_1000x1000.jpg",
     "packs": {
@@ -108,6 +118,8 @@
     "type": "Booster Pack",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644352",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644352_in_1000x1000.jpg",
     "packs": {
@@ -125,6 +137,8 @@
     "type": "Sleeved Booster Pack",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644354",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644354_in_1000x1000.jpg",
     "packs": {
@@ -142,6 +156,8 @@
     "type": "Enhanced Booster Box",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644300",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Enhanced Booster Box contains 36 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644300_in_1000x1000.jpg",
     "packs": {
@@ -161,6 +177,8 @@
     "type": "Booster Bundle",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644362",
+    "cardmarket_id": 834826,
+    "cardtrader_id": 347728,
     "description": "Each Booster Bundle contains 6 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644362_in_1000x1000.jpg",
     "packs": {
@@ -178,6 +196,8 @@
     "type": "Mini Tin",
     "release_date": "2025-09-26",
     "tcgplayer_id": "649394",
+    "cardmarket_id": 834806,
+    "cardtrader_id": 344938,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649394_in_1000x1000.jpg",
     "packs": {
@@ -195,6 +215,8 @@
     "type": "3-Pack Blister",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644357",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644357_in_1000x1000.jpg",
     "packs": {
@@ -214,6 +236,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644282",
+    "cardmarket_id": 834823,
+    "cardtrader_id": 341894,
     "description": "Each Pokémon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644282_in_1000x1000.jpg",
     "packs": {
@@ -240,6 +264,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2025-09-26",
     "tcgplayer_id": "648415",
+    "cardmarket_id": 834824,
+    "cardtrader_id": 341895,
     "description": "Each Pokémon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/648415_in_1000x1000.jpg",
     "packs": {
@@ -266,6 +292,8 @@
     "type": "Mini Tin",
     "release_date": "2025-09-26",
     "tcgplayer_id": "649400",
+    "cardmarket_id": 834808,
+    "cardtrader_id": 344941,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649400_in_1000x1000.jpg",
     "packs": {
@@ -283,6 +311,8 @@
     "type": "Single Pack Blister",
     "release_date": "2025-09-26",
     "tcgplayer_id": "657490",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657490_in_1000x1000.jpg",
     "packs": {
@@ -309,6 +339,8 @@
     "type": "3-Pack Blister",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644356",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644356_in_1000x1000.jpg",
     "packs": {
@@ -328,6 +360,8 @@
     "type": "Booster Bundle Case",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644730",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle Case contains 25 Booster Bundles.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644730_in_1000x1000.jpg",
     "packs": {
@@ -345,6 +379,8 @@
     "type": "Mini Tin",
     "release_date": "2025-09-26",
     "tcgplayer_id": "649401",
+    "cardmarket_id": 834804,
+    "cardtrader_id": 344934,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649401_in_1000x1000.jpg",
     "packs": {
@@ -362,6 +398,8 @@
     "type": "Build & Battle Box",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644363",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box contains a 40-card ready-to-play deck, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644363_in_1000x1000.jpg",
     "packs": {
@@ -381,6 +419,8 @@
     "type": "Mini Tin",
     "release_date": "2025-09-26",
     "tcgplayer_id": "649395",
+    "cardmarket_id": 834805,
+    "cardtrader_id": 344942,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649395_in_1000x1000.jpg",
     "packs": {
@@ -398,6 +438,8 @@
     "type": "Single Pack Blister",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644359",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644359_in_1000x1000.jpg",
     "packs": {
@@ -423,6 +465,8 @@
     "type": "Single Pack Blister",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644358",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644358_in_1000x1000.jpg",
     "packs": {
@@ -448,6 +492,8 @@
     "type": "Single Pack Blister",
     "release_date": "2025-09-26",
     "tcgplayer_id": "657489",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657489_in_1000x1000.jpg",
     "packs": {
@@ -474,6 +520,8 @@
     "type": "Mini Tin",
     "release_date": "2025-09-26",
     "tcgplayer_id": "649397",
+    "cardmarket_id": 834807,
+    "cardtrader_id": 344943,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649397_in_1000x1000.jpg",
     "packs": {
@@ -491,6 +539,8 @@
     "type": "Mini Tin Display",
     "release_date": "2025-09-26",
     "tcgplayer_id": "649392",
+    "cardmarket_id": 834809,
+    "cardtrader_id": 344929,
     "description": "Each Mini Tin Display contains 10 Mini Tins.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649392_in_1000x1000.jpg",
     "packs": {
@@ -508,6 +558,8 @@
     "type": "Elite Trainer Box Case",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644727",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644727_in_1000x1000.jpg",
     "packs": {
@@ -534,6 +586,8 @@
     "type": "Sleeved Booster Case",
     "release_date": "2025-09-26",
     "tcgplayer_id": "650766",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/650766_in_1000x1000.jpg",
     "packs": {
@@ -551,6 +605,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644361",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644361_in_1000x1000.jpg",
     "packs": {
@@ -578,6 +634,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644361",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644361_in_1000x1000.jpg",
     "packs": {
       "me01": 1
@@ -605,6 +663,8 @@
     "type": "Booster Pack",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654144",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654144_in_1000x1000.jpg",
     "packs": {
@@ -622,6 +682,8 @@
     "type": "Booster Box",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654137",
+    "cardmarket_id": 846746,
+    "cardtrader_id": 349984,
     "description": "Each Booster Box contains 36 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654137_in_1000x1000.jpg",
     "packs": {
@@ -639,6 +701,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654136",
+    "cardmarket_id": 846744,
+    "cardtrader_id": 349988,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654136_in_1000x1000.jpg",
     "packs": {
@@ -665,6 +729,8 @@
     "type": "Sleeved Booster Pack",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654145",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654145_in_1000x1000.jpg",
     "packs": {
@@ -682,6 +748,8 @@
     "type": "Booster Bundle",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654160",
+    "cardmarket_id": 846734,
+    "cardtrader_id": 349986,
     "description": "Each Booster Bundle contains 6 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654160_in_1000x1000.jpg",
     "packs": {
@@ -699,6 +767,8 @@
     "type": "Build & Battle Box",
     "release_date": "2025-11-14",
     "tcgplayer_id": "662725",
+    "cardmarket_id": 846742,
+    "cardtrader_id": 350027,
     "description": "Each Build & Battle Box contains a 40-card ready-to-play deck, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/662725_in_1000x1000.jpg",
     "packs": {
@@ -716,6 +786,8 @@
     "type": "Single Pack Blister",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654150",
+    "cardmarket_id": 846738,
+    "cardtrader_id": 356956,
     "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654150_in_1000x1000.jpg",
     "packs": {
@@ -741,6 +813,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654135",
+    "cardmarket_id": 846743,
+    "cardtrader_id": 349991,
     "description": "Each Pokémon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654135_in_1000x1000.jpg",
     "packs": {
@@ -767,6 +841,8 @@
     "type": "Single Pack Blister",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654151",
+    "cardmarket_id": 846737,
+    "cardtrader_id": 356955,
     "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654151_in_1000x1000.jpg",
     "packs": {
@@ -792,6 +868,8 @@
     "type": "3-Pack Blister",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654154",
+    "cardmarket_id": 846739,
+    "cardtrader_id": 356951,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654154_in_1000x1000.jpg",
     "packs": {
@@ -811,6 +889,8 @@
     "type": "Elite Trainer Box Case",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654170",
+    "cardmarket_id": 846732,
+    "cardtrader_id": 349996,
     "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654170_in_1000x1000.jpg",
     "packs": {
@@ -837,6 +917,8 @@
     "type": "3-Pack Blister",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654156",
+    "cardmarket_id": 846740,
+    "cardtrader_id": 356952,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654156_in_1000x1000.jpg",
     "packs": {
@@ -856,6 +938,8 @@
     "type": "Booster Box Case",
     "release_date": "2025-11-14",
     "tcgplayer_id": "655281",
+    "cardmarket_id": 846733,
+    "cardtrader_id": 349987,
     "description": "Each Booster Box Case contains 6 Booster Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655281_in_1000x1000.jpg",
     "packs": {
@@ -873,6 +957,8 @@
     "type": "Build & Battle Box Display",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654164",
+    "cardmarket_id": 846741,
+    "cardtrader_id": 350026,
     "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654164_in_1000x1000.jpg",
     "packs": {
@@ -890,6 +976,8 @@
     "type": "Booster Bundle Case",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654162",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle Case contains 25 Booster Bundles.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654162_in_1000x1000.jpg",
     "packs": {
@@ -907,6 +995,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654146",
+    "cardmarket_id": 846736,
+    "cardtrader_id": 356954,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654146_in_1000x1000.jpg",
     "packs": {
@@ -934,6 +1024,8 @@
     "type": "3-Pack Blister Case",
     "release_date": "2025-11-14",
     "tcgplayer_id": "685215",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Case contains 24 Blisters.  Each blister comes with 3 Phantasmal Flames booster packs and a promotional card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685215_in_1000x1000.jpg",
     "packs": {
@@ -951,6 +1043,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2025-11-14",
     "tcgplayer_id": "668931",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668931_in_1000x1000.jpg",
     "packs": {
@@ -977,6 +1071,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2025-11-14",
     "tcgplayer_id": "654147",
+    "cardmarket_id": 846735,
+    "cardtrader_id": 356953,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654147_in_1000x1000.jpg",
     "packs": {
@@ -1004,6 +1100,8 @@
     "type": "Sleeved Booster Case",
     "release_date": "2025-11-14",
     "tcgplayer_id": "655282",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655282_in_1000x1000.jpg",
     "packs": {
@@ -1021,6 +1119,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2025-11-14",
     "tcgplayer_id": "672588",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672588_in_1000x1000.jpg",
     "packs": {
@@ -1047,6 +1147,8 @@
     "type": "Enhanced Booster Case",
     "release_date": "2025-09-26",
     "tcgplayer_id": "646173",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each sealed booster box case contains 6 enhanced booster boxes of 36 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/646173_in_1000x1000.jpg",
     "packs": {
@@ -1066,6 +1168,8 @@
     "type": "Build & Battle Box Display",
     "release_date": "2025-09-26",
     "tcgplayer_id": "644733",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/644733_in_1000x1000.jpg",
     "packs": {
@@ -1083,6 +1187,8 @@
     "type": "Booster Box",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672394",
+    "cardmarket_id": 865408,
+    "cardtrader_id": 367209,
     "description": "Each Booster Box contains 36 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672394_in_1000x1000.jpg",
     "packs": {
@@ -1100,6 +1206,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672401",
+    "cardmarket_id": 865406,
+    "cardtrader_id": 367212,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672401_in_1000x1000.jpg",
     "packs": {
@@ -1117,6 +1225,8 @@
     "type": "Booster Pack",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672398",
+    "cardmarket_id": 865410,
+    "cardtrader_id": 367211,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672398_in_1000x1000.jpg",
     "packs": {
@@ -1134,6 +1244,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672404",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Pokémon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672404_in_1000x1000.jpg",
     "packs": {
@@ -1151,6 +1263,8 @@
     "type": "Sleeved Booster Pack",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672412",
+    "cardmarket_id": 865409,
+    "cardtrader_id": 367222,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672412_in_1000x1000.jpg",
     "packs": {
@@ -1168,6 +1282,8 @@
     "type": "Booster Bundle",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672396",
+    "cardmarket_id": 865404,
+    "cardtrader_id": 367215,
     "description": "Each Booster Bundle contains 6 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672396_in_1000x1000.jpg",
     "packs": {
@@ -1185,6 +1301,8 @@
     "type": "Booster Box Case",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672395",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box Case contains 6 Booster Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672395_in_1000x1000.jpg",
     "packs": {
@@ -1202,6 +1320,8 @@
     "type": "3-Pack Blister",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672393",
+    "cardmarket_id": 865398,
+    "cardtrader_id": 367216,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672393_in_1000x1000.jpg",
     "packs": {
@@ -1221,6 +1341,8 @@
     "type": "Build & Battle Box",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672400",
+    "cardmarket_id": 865397,
+    "cardtrader_id": 367214,
     "description": "Each Build & Battle Box contains a 40-card ready-to-play deck, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672400_in_1000x1000.jpg",
     "packs": {
@@ -1238,6 +1360,8 @@
     "type": "Elite Trainer Box Case",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672402",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672402_in_1000x1000.jpg",
     "packs": {
@@ -1255,6 +1379,8 @@
     "type": "Single Pack Blister",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672410",
+    "cardmarket_id": 865399,
+    "cardtrader_id": 367217,
     "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672410_in_1000x1000.jpg",
     "packs": {
@@ -1279,6 +1405,8 @@
     "type": "Sleeved Booster Case",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672411",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672411_in_1000x1000.jpg",
     "packs": {
@@ -1296,6 +1424,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672408",
+    "cardmarket_id": 865402,
+    "cardtrader_id": 367220,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672408_in_1000x1000.jpg",
     "packs": {
@@ -1321,6 +1451,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672406",
+    "cardmarket_id": 865401,
+    "cardtrader_id": 367219,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672406_in_1000x1000.jpg",
     "packs": {
@@ -1347,6 +1479,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672409",
+    "cardmarket_id": 865403,
+    "cardtrader_id": 367221,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672409_in_1000x1000.jpg",
     "packs": {
@@ -1367,6 +1501,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672407",
+    "cardmarket_id": 865400,
+    "cardtrader_id": 367218,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672407_in_1000x1000.jpg",
     "packs": {
@@ -1393,6 +1529,8 @@
     "type": "Booster Bundle Case",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672397",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle Case contains 25 Booster Bundles.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672397_in_1000x1000.jpg",
     "packs": {
@@ -1410,6 +1548,8 @@
     "type": "Build & Battle Box Display",
     "release_date": "2026-03-27",
     "tcgplayer_id": "690172",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/690172_in_1000x1000.jpg",
     "packs": {
@@ -1427,6 +1567,8 @@
     "type": "Half Booster Box",
     "release_date": "2026-03-27",
     "tcgplayer_id": "672403",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Half Booster Box contains 18 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672403_in_1000x1000.jpg",
     "packs": {
@@ -1444,6 +1586,8 @@
     "type": "Booster Pack",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684446",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684446_in_1000x1000.jpg",
     "packs": {
@@ -1461,6 +1605,8 @@
     "type": "Booster Box",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684444",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box contains 36 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_in_1000x1000.jpg",
     "packs": {
@@ -1478,6 +1624,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684450",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684450_in_1000x1000.jpg",
     "packs": {
@@ -1495,6 +1643,8 @@
     "type": "Booster Bundle",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684456",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle contains 6 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684456_in_1000x1000.jpg",
     "packs": {
@@ -1512,6 +1662,8 @@
     "type": "Sleeved Booster Pack",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684448",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684448_in_1000x1000.jpg",
     "packs": {},
@@ -1527,6 +1679,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684452",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Pokémon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684452_in_1000x1000.jpg",
     "packs": {
@@ -1544,6 +1698,8 @@
     "type": "Single Pack Blister",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684457",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684457_in_1000x1000.jpg",
     "packs": {},
@@ -1566,6 +1722,8 @@
     "type": "3-Pack Blister",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684458",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684458_in_1000x1000.jpg",
     "packs": {
@@ -1585,6 +1743,8 @@
     "type": "Booster Box Case",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684445",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box Case contains 6 Booster Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684445_in_1000x1000.jpg",
     "packs": {
@@ -1602,6 +1762,8 @@
     "type": "Elite Trainer Box Case",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684451",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684451_in_1000x1000.jpg",
     "packs": {
@@ -1619,6 +1781,8 @@
     "type": "Build & Battle Box",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684454",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box contains a 40-card ready-to-play deck, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684454_in_1000x1000.jpg",
     "packs": {
@@ -1636,6 +1800,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684459",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684459_in_1000x1000.jpg",
     "packs": {
@@ -1657,6 +1823,8 @@
     "type": "Single Pack Blister",
     "release_date": "2026-05-22",
     "tcgplayer_id": "696144",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696144_in_1000x1000.jpg",
     "packs": {
@@ -1677,6 +1845,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684460",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684460_in_1000x1000.jpg",
     "packs": {
@@ -1698,6 +1868,8 @@
     "type": "Single Pack Blister",
     "release_date": "2026-05-22",
     "tcgplayer_id": "696150",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696150_in_1000x1000.jpg",
     "packs": {
@@ -1718,6 +1890,8 @@
     "type": "Sleeved Booster Case",
     "release_date": "2026-05-22",
     "tcgplayer_id": "690684",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/690684_in_1000x1000.jpg",
     "packs": {
@@ -1735,6 +1909,8 @@
     "type": "Booster Bundle Case",
     "release_date": "2026-05-22",
     "tcgplayer_id": "688949",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle Case contains 25 Booster Bundles.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/688949_in_1000x1000.jpg",
     "packs": {
@@ -1752,6 +1928,8 @@
     "type": "Build & Battle Display",
     "release_date": "2026-05-22",
     "tcgplayer_id": "684455",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Chaos Rising Build & Battle Display contains 10 Chaos Rising Build & Battle Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684455_in_1000x1000.jpg",
     "packs": {
@@ -1769,6 +1947,8 @@
     "type": "3-Pack Blister Case",
     "release_date": "2026-05-22",
     "tcgplayer_id": "695118",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister Case includes 24 Chaos Rising 3-Pack Blisters",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695118_in_1000x1000.jpg",
     "packs": {
@@ -1786,6 +1966,8 @@
     "type": "Half Booster Box",
     "release_date": "2026-05-22",
     "tcgplayer_id": "695395",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Half Booster Box contains 18 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695395_in_1000x1000.jpg",
     "packs": {
@@ -1803,6 +1985,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692947",
+    "cardmarket_id": 885542,
+    "cardtrader_id": 389424,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692947_in_1000x1000.jpg",
     "packs": {
@@ -1822,6 +2006,8 @@
     "type": "Booster Bundle",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692942",
+    "cardmarket_id": 885539,
+    "cardtrader_id": 389421,
     "description": "Each Booster Bundle contains 6 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692942_in_1000x1000.jpg",
     "packs": {
@@ -1839,6 +2025,8 @@
     "type": "Booster Box",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692939",
+    "cardmarket_id": 885545,
+    "cardtrader_id": 389419,
     "description": "Each Booster Box contains 36 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692939_in_1000x1000.jpg",
     "packs": {
@@ -1856,6 +2044,8 @@
     "type": "Booster Pack",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692944",
+    "cardmarket_id": 885547,
+    "cardtrader_id": 389433,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692944_in_1000x1000.jpg",
     "packs": {
@@ -1873,6 +2063,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692949",
+    "cardmarket_id": 885543,
+    "cardtrader_id": 389425,
     "description": "Each Pokemon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692949_in_1000x1000.jpg",
     "packs": {
@@ -1892,6 +2084,8 @@
     "type": "Single Pack Blister",
     "release_date": null,
     "tcgplayer_id": "692955",
+    "cardmarket_id": 885534,
+    "cardtrader_id": 389428,
     "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692955_in_1000x1000.jpg",
     "packs": {
@@ -1911,6 +2105,8 @@
     "type": "Sleeved Booster Pack",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692957",
+    "cardmarket_id": 885546,
+    "cardtrader_id": 389434,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692957_in_1000x1000.jpg",
     "packs": {
@@ -1928,6 +2124,8 @@
     "type": "3-Pack Blister",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692938",
+    "cardmarket_id": 885533,
+    "cardtrader_id": 389432,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692938_in_1000x1000.jpg",
     "packs": {
@@ -1947,6 +2145,8 @@
     "type": "Build & Battle Box",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692946",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box contains a 40-card ready-to-play deck, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692946_in_1000x1000.jpg",
     "packs": {
@@ -1964,6 +2164,8 @@
     "type": "Booster Box Case",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692941",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box Case contains 6 Booster Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692941_in_1000x1000.jpg",
     "packs": {
@@ -1981,6 +2183,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692951",
+    "cardmarket_id": 885535,
+    "cardtrader_id": 389427,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692951_in_1000x1000.jpg",
     "packs": {
@@ -2002,6 +2206,8 @@
     "type": "Elite Trainer Box Case",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692948",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692948_in_1000x1000.jpg",
     "packs": {
@@ -2019,6 +2225,8 @@
     "type": "Booster Bundle Case",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692943",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle Case contains 25 Booster Bundles.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692943_in_1000x1000.jpg",
     "packs": {
@@ -2036,6 +2244,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692953",
+    "cardmarket_id": 885537,
+    "cardtrader_id": 389430,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692953_in_1000x1000.jpg",
     "packs": {
@@ -2056,6 +2266,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692954",
+    "cardmarket_id": 885538,
+    "cardtrader_id": 389431,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692954_in_1000x1000.jpg",
     "packs": {
@@ -2076,6 +2288,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692952",
+    "cardmarket_id": 885536,
+    "cardtrader_id": 389429,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692952_in_1000x1000.jpg",
     "packs": {
@@ -2097,6 +2311,8 @@
     "type": "Sleeved Booster Case",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692956",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692956_in_1000x1000.jpg",
     "packs": {
@@ -2114,6 +2330,8 @@
     "type": "Half Booster Box",
     "release_date": "2026-07-17",
     "tcgplayer_id": "692940",
+    "cardmarket_id": 885544,
+    "cardtrader_id": 389420,
     "description": "Each Half Booster Box contains 18 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692940_in_1000x1000.jpg",
     "packs": {
@@ -2131,6 +2349,8 @@
     "type": "Build & Battle Box Display",
     "release_date": "2026-07-17",
     "tcgplayer_id": "693586",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693586_in_1000x1000.jpg",
     "packs": {
@@ -2148,6 +2368,8 @@
     "type": "3-Pack Blister Case",
     "release_date": "2026-07-17",
     "tcgplayer_id": "693589",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister Case contains 24 3-Pack Blisters.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693589_in_1000x1000.jpg",
     "packs": {},
@@ -2163,6 +2385,8 @@
     "type": "Booster Pack",
     "release_date": "2026-01-30",
     "tcgplayer_id": "672434",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672434_in_1000x1000.jpg",
     "packs": {
@@ -2180,6 +2404,8 @@
     "type": "Booster Bundle",
     "release_date": "2026-04-24",
     "tcgplayer_id": "668541",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle contains 6 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668541_in_1000x1000.jpg",
     "packs": {
@@ -2197,6 +2423,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2026-02-20",
     "tcgplayer_id": "668496",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668496_in_1000x1000.jpg",
     "packs": {
@@ -2216,6 +2444,8 @@
     "type": "Premium Collection",
     "release_date": "2026-07-21",
     "tcgplayer_id": "706959",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Focused Fighters Premium Collection contains 14 Booster Packs, 4 promo cards, and 1 jumbo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706959_in_1000x1000.jpg",
     "packs": {
@@ -2237,6 +2467,8 @@
     "type": "Premium Poster Collection",
     "release_date": "2026-03-20",
     "tcgplayer_id": "668536",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Poster Collection contains 10 Booster Packs, 1 promo card, 1 double-sided poster (26.875\" × 39\"), and a code card for Pokémon TCG Live",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668536_in_1000x1000.jpg",
     "packs": {
@@ -2256,6 +2488,8 @@
     "type": "Premium Poster Collection",
     "release_date": "2026-03-20",
     "tcgplayer_id": "668537",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Poster Collection contains 10 Booster Packs, 1 promo card, 1 double-sided poster (26.875\" × 39\"), and a code card for Pokémon TCG Live",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668537_in_1000x1000.jpg",
     "packs": {
@@ -2275,6 +2509,8 @@
     "type": "Deluxe Pin Collection",
     "release_date": "2026-03-20",
     "tcgplayer_id": "672391",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each First Partners Deluxe Pin Collection contains 5 Booster Packs, 3 promo cards, and a pin",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672391_in_1000x1000.jpg",
     "packs": {
@@ -2296,6 +2532,8 @@
     "type": "ex Box",
     "release_date": "2026-04-24",
     "tcgplayer_id": "672735",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mega Feraligatr ex Box contains 4 Booster Packs, 1 promo card, and 1 jumbo lenticular card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672735_in_1000x1000.jpg",
     "packs": {
@@ -2316,6 +2554,8 @@
     "type": "ex Box",
     "release_date": "2026-04-24",
     "tcgplayer_id": "672733",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mega Meganium ex Box contains 4 Booster Packs, 1 promo card, and 1 jumbo lenticular card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672733_in_1000x1000.jpg",
     "packs": {
@@ -2336,6 +2576,8 @@
     "type": "ex Box",
     "release_date": "2026-04-24",
     "tcgplayer_id": "672734",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mega Emboar ex Box contains 4 Booster Packs, 1 promo card, and 1 jumbo lenticular card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672734_in_1000x1000.jpg",
     "packs": {
@@ -2356,6 +2598,8 @@
     "type": null,
     "release_date": "2026-02-20",
     "tcgplayer_id": "666906",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Collection contains 2 Booster Packs, 1 promo card, and 1 coin",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666906_in_1000x1000.jpg",
     "packs": {
@@ -2375,6 +2619,8 @@
     "type": null,
     "release_date": "2026-02-20",
     "tcgplayer_id": "666907",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Collection contains 2 Booster Packs, 1 promo card, and 1 coin",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666907_in_1000x1000.jpg",
     "packs": {
@@ -2411,6 +2657,8 @@
     "type": "Elite Trainer Box Case",
     "release_date": "2026-02-20",
     "tcgplayer_id": "679558",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/679558_in_1000x1000.jpg",
     "packs": {
@@ -2428,6 +2676,8 @@
     "type": "Mini Tin Display",
     "release_date": "2026-02-20",
     "tcgplayer_id": "679556",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mini Tin Display contains 10 Mini Tins.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/679556_in_1000x1000.jpg",
     "packs": {
@@ -2445,6 +2695,8 @@
     "type": "Booster Bundle Case",
     "release_date": "2026-04-24",
     "tcgplayer_id": "681339",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle Case contains 25 Booster Bundles.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/681339_in_1000x1000.jpg",
     "packs": {
@@ -2462,6 +2714,8 @@
     "type": "Tech Sticker Collection",
     "release_date": "2026-01-30",
     "tcgplayer_id": "666909",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Tech Sticker Collection contains 3 Booster Packs, 1 promo card, and stickers.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666909_in_1000x1000.jpg",
     "packs": {
@@ -2481,6 +2735,8 @@
     "type": "Tech Sticker Collection",
     "release_date": "2026-01-30",
     "tcgplayer_id": "666908",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Tech Sticker Collection contains 3 Booster Packs, 1 promo card, and stickers.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666908_in_1000x1000.jpg",
     "packs": {
@@ -2500,6 +2756,8 @@
     "type": "Mini Tin",
     "release_date": "2026-02-20",
     "tcgplayer_id": "668531",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668531_in_1000x1000.jpg",
     "packs": {},
@@ -2515,6 +2773,8 @@
     "type": "ex Box Case",
     "release_date": "2026-02-20",
     "tcgplayer_id": "672737",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Ascended Heroes Mega ex Box Case contains 2 of each Ascended Heroes Mega ex Box ",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672737_in_1000x1000.jpg",
     "packs": {
@@ -2532,6 +2792,8 @@
     "type": "Mini Tin",
     "release_date": "2026-02-20",
     "tcgplayer_id": "668534",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668534_in_1000x1000.jpg",
     "packs": {
@@ -2549,6 +2811,8 @@
     "type": "Mini Tin",
     "release_date": "2026-02-20",
     "tcgplayer_id": "668535",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668535_in_1000x1000.jpg",
     "packs": {
@@ -2566,6 +2830,8 @@
     "type": "Mini Tin",
     "release_date": "2026-02-20",
     "tcgplayer_id": "668532",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668532_in_1000x1000.jpg",
     "packs": {
@@ -2583,6 +2849,8 @@
     "type": "Mini Tin",
     "release_date": "2026-02-20",
     "tcgplayer_id": "668533",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668533_in_1000x1000.jpg",
     "packs": {
@@ -2600,6 +2868,8 @@
     "type": "Deluxe Pin Collection Case",
     "release_date": "2026-03-20",
     "tcgplayer_id": "672392",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Ascended Heroes First Partners Deluxe Pin Collection Case contains 6 Ascended Heroes First Partners Deluxe Pin Collections",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672392_in_1000x1000.jpg",
     "packs": {
@@ -2617,6 +2887,8 @@
     "type": "Premium Poster Collection Case",
     "release_date": "2026-03-20",
     "tcgplayer_id": "685000",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Ascended Heroes Premium Poster Collection Case contains 3 of each Ascended Heroes Premium Poster Collection",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685000_in_1000x1000.jpg",
     "packs": {
@@ -2634,6 +2906,8 @@
     "type": "Tin",
     "release_date": "2026-08-28",
     "tcgplayer_id": "702496",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Tin contains 4 Booster Packs and 1 promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/702496_in_1000x1000.jpg",
     "packs": {
@@ -2668,6 +2942,8 @@
     "type": "Tin",
     "release_date": "2026-08-28",
     "tcgplayer_id": "702497",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Tin contains 4 Booster Packs and 1 promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/702497_in_1000x1000.jpg",
     "packs": {
@@ -2687,6 +2963,8 @@
     "type": null,
     "release_date": "2026-02-20",
     "tcgplayer_id": "685195",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Case contains 12 of each Collection",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685195_in_1000x1000.jpg",
     "packs": {
@@ -2704,6 +2982,8 @@
     "type": "Tin",
     "release_date": "2026-08-28",
     "tcgplayer_id": "702498",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Tin contains 4 Booster Packs and 1 promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/702498_in_1000x1000.jpg",
     "packs": {
@@ -2723,6 +3003,8 @@
     "type": "Tin Case",
     "release_date": "2026-08-28",
     "tcgplayer_id": "702501",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Tin Case contains 2 of each Tin",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/702501_in_1000x1000.jpg",
     "packs": {
@@ -2740,6 +3022,8 @@
     "type": "Tech Sticker Collection Case",
     "release_date": "2026-01-30",
     "tcgplayer_id": "681333",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Tech Sticker Collection Case contains 6 of each Tech Sticker Collection.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/681333_in_1000x1000.jpg",
     "packs": {
@@ -2757,6 +3041,8 @@
     "type": "Mini Tin Display Case",
     "release_date": "2026-02-20",
     "tcgplayer_id": "689031",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mini Tin Display Case contains 4 Mini Tin Displays.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689031_in_1000x1000.jpg",
     "packs": {
@@ -2774,6 +3060,8 @@
     "type": "Booster Pack",
     "release_date": "2023-03-21",
     "tcgplayer_id": "476451",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/476451_in_1000x1000.jpg",
     "packs": {
@@ -2791,6 +3079,8 @@
     "type": "Booster Box",
     "release_date": "2023-03-21",
     "tcgplayer_id": "476452",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box contains 36 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/476452_in_1000x1000.jpg",
     "packs": {
@@ -2808,6 +3098,8 @@
     "type": "Build & Battle Stadium",
     "release_date": "2023-03-21",
     "tcgplayer_id": "478257",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Stadium contains 2 Build & Battle Boxes, 3 Booster Packs, 121 Energy cards, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 condition markers, and a box to hold everything.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/478257_in_1000x1000.jpg",
     "packs": {
@@ -2825,6 +3117,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2023-03-21",
     "tcgplayer_id": "478335",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/478335_in_1000x1000.jpg",
     "packs": {
@@ -2844,6 +3138,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2023-03-21",
     "tcgplayer_id": "478336",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/478336_in_1000x1000.jpg",
     "packs": {
@@ -2863,6 +3159,8 @@
     "type": "Build & Battle Box",
     "release_date": "2023-03-21",
     "tcgplayer_id": "478253",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box contains a 40-card ready-to-play deck, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/478253_in_1000x1000.jpg",
     "packs": {
@@ -2880,6 +3178,8 @@
     "type": "Booster Bundle",
     "release_date": "2023-03-21",
     "tcgplayer_id": "478258",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle contains 6 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/478258_in_1000x1000.jpg",
     "packs": {
@@ -2897,6 +3197,8 @@
     "type": "Booster Box Case",
     "release_date": "2023-03-21",
     "tcgplayer_id": "476453",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box Case contains 6 Booster Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/476453_in_1000x1000.jpg",
     "packs": {
@@ -2914,6 +3216,8 @@
     "type": "Fun Pack",
     "release_date": "2023-03-21",
     "tcgplayer_id": "530121",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Fun Pack contains 3 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/530121_in_1000x1000.jpg",
     "packs": {},
@@ -2929,6 +3233,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2023-03-21",
     "tcgplayer_id": "478756",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Pokemon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers,  4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/478756_in_1000x1000.jpg",
     "packs": {},
@@ -2946,6 +3252,8 @@
     "type": "Elite Trainer Box Case",
     "release_date": "2023-03-21",
     "tcgplayer_id": "488776",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/488776_in_1000x1000.jpg",
     "packs": {
@@ -2963,6 +3271,8 @@
     "type": "Sleeved Booster Pack",
     "release_date": "2023-03-21",
     "tcgplayer_id": "478273",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/478273_in_1000x1000.jpg",
     "packs": {
@@ -2980,6 +3290,8 @@
     "type": "3-Pack Blister",
     "release_date": "2023-03-21",
     "tcgplayer_id": "478761",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/478761_in_1000x1000.jpg",
     "packs": {
@@ -2999,6 +3311,8 @@
     "type": "3-Pack Blister",
     "release_date": "2023-03-21",
     "tcgplayer_id": "478762",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/478762_in_1000x1000.jpg",
     "packs": {
@@ -3018,6 +3332,8 @@
     "type": "Single Pack Blister",
     "release_date": "2023-03-21",
     "tcgplayer_id": "478765",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/478765_in_1000x1000.jpg",
     "packs": {
@@ -3037,6 +3353,8 @@
     "type": "Single Pack Blister",
     "release_date": "2023-03-21",
     "tcgplayer_id": "478766",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/478766_in_1000x1000.jpg",
     "packs": {
@@ -3056,6 +3374,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2023-03-21",
     "tcgplayer_id": "479328",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/479328_in_1000x1000.jpg",
     "packs": {
@@ -3077,6 +3397,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2023-03-21",
     "tcgplayer_id": "497167",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/497167_in_1000x1000.jpg",
     "packs": {
@@ -3097,6 +3419,8 @@
     "type": "Sleeved Booster Case",
     "release_date": "2023-03-21",
     "tcgplayer_id": "600076",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/600076_in_1000x1000.jpg",
     "packs": {
@@ -3114,6 +3438,8 @@
     "type": "Build & Battle Box Display",
     "release_date": "2023-03-21",
     "tcgplayer_id": "478254",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/478254_in_1000x1000.jpg",
     "packs": {
@@ -3131,6 +3457,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2023-03-21",
     "tcgplayer_id": "497166",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": null,
     "packs": {
@@ -3151,6 +3479,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2023-03-21",
     "tcgplayer_id": "478758",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Pokemon Center Elite Trainer Box contains [number] booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice,( 1 competition-legal coin-flip die,)( 1 plastic coin,)( 2 plastic condition markers,)  [number] dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/478758_in_1000x1000.jpg",
     "packs": {
@@ -3170,6 +3500,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2023-03-21",
     "tcgplayer_id": "479330",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, [3] promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/479330_in_1000x1000.jpg",
     "packs": {
@@ -3191,6 +3523,8 @@
     "type": "Half Booster Box",
     "release_date": "2023-03-21",
     "tcgplayer_id": "649407",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Half Booster Box contains 18 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649407_in_1000x1000.jpg",
     "packs": {
@@ -3208,6 +3542,8 @@
     "type": "Booster Pack",
     "release_date": "2023-06-09",
     "tcgplayer_id": "493976",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/493976_in_1000x1000.jpg",
     "packs": {
@@ -3225,6 +3561,8 @@
     "type": "Booster Box",
     "release_date": "2023-06-09",
     "tcgplayer_id": "493975",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box contains 36 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/493975_in_1000x1000.jpg",
     "packs": {
@@ -3242,6 +3580,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2023-06-09",
     "tcgplayer_id": "493974",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers,  4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/493974_in_1000x1000.jpg",
     "packs": {
@@ -3261,6 +3601,8 @@
     "type": "Sleeved Booster Pack",
     "release_date": "2023-06-09",
     "tcgplayer_id": "496927",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/496927_in_1000x1000.jpg",
     "packs": {
@@ -3278,6 +3620,8 @@
     "type": "Booster Bundle",
     "release_date": "2023-06-09",
     "tcgplayer_id": "496914",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle contains 6 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/496914_in_1000x1000.jpg",
     "packs": {
@@ -3295,6 +3639,8 @@
     "type": "Single Pack Blister",
     "release_date": "2023-06-09",
     "tcgplayer_id": "494001",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/494001_in_1000x1000.jpg",
     "packs": {
@@ -3314,6 +3660,8 @@
     "type": "Single Pack Blister",
     "release_date": "2023-06-09",
     "tcgplayer_id": "493999",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/493999_in_1000x1000.jpg",
     "packs": {
@@ -3333,6 +3681,8 @@
     "type": "Half Booster Box",
     "release_date": "2023-06-09",
     "tcgplayer_id": "649413",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Half Booster Box contains 18 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649413_in_1000x1000.jpg",
     "packs": {
@@ -3350,6 +3700,8 @@
     "type": "Fun Pack",
     "release_date": "2023-06-09",
     "tcgplayer_id": "530106",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Fun Pack contains 3 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/530106_in_1000x1000.jpg",
     "packs": {},
@@ -3365,6 +3717,8 @@
     "type": "3-Pack Blister",
     "release_date": "2023-06-09",
     "tcgplayer_id": "493997",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/493997_in_1000x1000.jpg",
     "packs": {
@@ -3384,6 +3738,8 @@
     "type": "Single Pack Blister",
     "release_date": "2023-06-09",
     "tcgplayer_id": "617015",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617015_in_1000x1000.jpg",
     "packs": {
@@ -3404,6 +3760,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2023-06-09",
     "tcgplayer_id": "622968",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/622968_in_1000x1000.jpg",
     "packs": {
@@ -3425,6 +3783,8 @@
     "type": "Single Pack Blister",
     "release_date": "2023-06-09",
     "tcgplayer_id": "618829",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/618829_in_1000x1000.jpg",
     "packs": {
@@ -3445,6 +3805,8 @@
     "type": "Build & Battle Box",
     "release_date": "2023-06-09",
     "tcgplayer_id": "496929",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box contains a 40-card ready-to-play deck, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/496929_in_1000x1000.jpg",
     "packs": {
@@ -3462,6 +3824,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2023-06-09",
     "tcgplayer_id": "493973",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Pokemon Center Elite Trainer Box contains [number] booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice,( 1 competition-legal coin-flip die,)( 1 plastic coin,)( 2 plastic condition markers,)  [number] dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/493973_in_1000x1000.jpg",
     "packs": {
@@ -3481,6 +3845,8 @@
     "type": "3-Pack Blister",
     "release_date": null,
     "tcgplayer_id": "493998",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/493998_in_1000x1000.jpg",
     "packs": {
@@ -3500,6 +3866,8 @@
     "type": "Build & Battle Stadium",
     "release_date": "2023-06-09",
     "tcgplayer_id": "496935",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Stadium contains 2 Build & Battle Boxes, 3 Booster Packs, 121 Energy cards, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 condition markers, and a box to hold everything.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/496935_in_1000x1000.jpg",
     "packs": {
@@ -3517,6 +3885,8 @@
     "type": "Sleeved Booster Case",
     "release_date": "2023-06-09",
     "tcgplayer_id": "609027",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/609027_in_1000x1000.jpg",
     "packs": {
@@ -3534,6 +3904,8 @@
     "type": "Build & Battle Box Display",
     "release_date": "2023-06-09",
     "tcgplayer_id": "496931",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/496931_in_1000x1000.jpg",
     "packs": {
@@ -3551,6 +3923,8 @@
     "type": "Elite Trainer Box Case",
     "release_date": "2023-06-09",
     "tcgplayer_id": "496911",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/496911_in_1000x1000.jpg",
     "packs": {
@@ -3568,6 +3942,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2023-06-09",
     "tcgplayer_id": "622967",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/622967_in_1000x1000.jpg",
     "packs": {
@@ -3589,6 +3965,8 @@
     "type": "Booster Box Case",
     "release_date": "2023-06-09",
     "tcgplayer_id": "496905",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box Case contains 6 Booster Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/496905_in_1000x1000.jpg",
     "packs": {
@@ -3606,6 +3984,8 @@
     "type": "Booster Bundle Case",
     "release_date": "2023-06-09",
     "tcgplayer_id": "656928",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle Case contains 25 Booster Bundles.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656928_in_1000x1000.jpg",
     "packs": {
@@ -3623,6 +4003,8 @@
     "type": "Booster Pack",
     "release_date": "2023-08-11",
     "tcgplayer_id": "501256",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501256_in_1000x1000.jpg",
     "packs": {
@@ -3640,6 +4022,8 @@
     "type": "Booster Box",
     "release_date": "2023-08-11",
     "tcgplayer_id": "501257",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box contains 36 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501257_in_1000x1000.jpg",
     "packs": {
@@ -3657,6 +4041,8 @@
     "type": "Sleeved Booster Pack",
     "release_date": "2023-08-11",
     "tcgplayer_id": "534087",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/534087_in_1000x1000.jpg",
     "packs": {
@@ -3674,6 +4060,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2023-08-11",
     "tcgplayer_id": "501264",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501264_in_1000x1000.jpg",
     "packs": {
@@ -3693,6 +4081,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2023-08-11",
     "tcgplayer_id": "501266",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Pokemon Center Elite Trainer Box contains [number] booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice,( 1 competition-legal coin-flip die,)( 1 plastic coin,)( 2 plastic condition markers,)  [number] dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501266_in_1000x1000.jpg",
     "packs": {
@@ -3712,6 +4102,8 @@
     "type": "3-Pack Blister",
     "release_date": "2023-08-11",
     "tcgplayer_id": "501260",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501260_in_1000x1000.jpg",
     "packs": {
@@ -3731,6 +4123,8 @@
     "type": "Build & Battle Box",
     "release_date": "2023-08-11",
     "tcgplayer_id": "501268",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box contains a 40-card ready-to-play deck, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501268_in_1000x1000.jpg",
     "packs": {
@@ -3748,6 +4142,8 @@
     "type": "Single Pack Blister",
     "release_date": "2023-08-11",
     "tcgplayer_id": "512047",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/512047_in_1000x1000.jpg",
     "packs": {
@@ -3767,6 +4163,8 @@
     "type": "Single Pack Blister",
     "release_date": "2023-08-11",
     "tcgplayer_id": "501262",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501262_in_1000x1000.jpg",
     "packs": {
@@ -3786,6 +4184,8 @@
     "type": "Booster Bundle",
     "release_date": "2023-08-11",
     "tcgplayer_id": "501263",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle contains 6 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501263_in_1000x1000.jpg",
     "packs": {
@@ -3803,6 +4203,8 @@
     "type": "Build & Battle Box Display",
     "release_date": "2023-08-11",
     "tcgplayer_id": "514193",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514193_in_1000x1000.jpg",
     "packs": {
@@ -3820,6 +4222,8 @@
     "type": "3-Pack Blister",
     "release_date": "2023-08-11",
     "tcgplayer_id": "501259",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501259_in_1000x1000.jpg",
     "packs": {
@@ -3839,6 +4243,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2023-08-11",
     "tcgplayer_id": "557085",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/557085_in_1000x1000.jpg",
     "packs": {
@@ -3860,6 +4266,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2023-08-11",
     "tcgplayer_id": "557087",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/557087_in_1000x1000.jpg",
     "packs": {
@@ -3880,6 +4288,8 @@
     "type": "Sleeved Booster Case",
     "release_date": "2023-08-11",
     "tcgplayer_id": "606743",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/606743_in_1000x1000.jpg",
     "packs": {
@@ -3897,6 +4307,8 @@
     "type": "Booster Box Case",
     "release_date": "2023-08-11",
     "tcgplayer_id": "501258",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box Case contains 6 Booster Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501258_in_1000x1000.jpg",
     "packs": {
@@ -3914,6 +4326,8 @@
     "type": "Build & Battle Stadium",
     "release_date": "2023-08-11",
     "tcgplayer_id": "501267",
+    "cardmarket_id": 728726,
+    "cardtrader_id": 258587,
     "description": "Each Build & Battle Stadium contains 2 Build & Battle Boxes, 3 Booster Packs, 121 Energy cards, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 condition markers, and a box to hold everything.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501267_in_1000x1000.jpg",
     "packs": {
@@ -3931,6 +4345,8 @@
     "type": "Elite Trainer Box Case",
     "release_date": "2023-08-11",
     "tcgplayer_id": "501265",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501265_in_1000x1000.jpg",
     "packs": {
@@ -3948,6 +4364,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2023-08-11",
     "tcgplayer_id": "557084",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/557084_in_1000x1000.jpg",
     "packs": {
@@ -3969,6 +4387,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2023-09-11",
     "tcgplayer_id": "557086",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/557086_in_1000x1000.jpg",
     "packs": {
@@ -3989,6 +4409,8 @@
     "type": "Booster Pack",
     "release_date": "2023-09-22",
     "tcgplayer_id": "504467",
+    "cardmarket_id": 719694,
+    "cardtrader_id": 258625,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/504467_in_1000x1000.jpg",
     "packs": {
@@ -4006,6 +4428,8 @@
     "type": "Booster Bundle",
     "release_date": "2023-09-22",
     "tcgplayer_id": "502000",
+    "cardmarket_id": 719695,
+    "cardtrader_id": 258621,
     "description": "Each Booster Bundle contains 6 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/502000_in_1000x1000.jpg",
     "packs": {
@@ -4023,6 +4447,8 @@
     "type": "Poster Collection",
     "release_date": "2023-09-22",
     "tcgplayer_id": "502001",
+    "cardmarket_id": 719696,
+    "cardtrader_id": 258650,
     "description": "Each 151 Poster Collection contains 3 Booster packs, 3 promo cards, and 1 poster",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/502001_in_1000x1000.jpg",
     "packs": {
@@ -4044,6 +4470,8 @@
     "type": "Ultra-Premium Collection",
     "release_date": "2023-10-06",
     "tcgplayer_id": "502005",
+    "cardmarket_id": 719698,
+    "cardtrader_id": 258646,
     "description": "Each 151 Ultra-Premium Collection contains 12 Booster Packs, 1 etched metal card, 2 promo cards, 1 playmat, 1 deck box, 1 metallis coin, 6 damage-counter dice, 2 plastic condition markers, and a code card for Pokemon TCG Live",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/502005_in_1000x1000.jpg",
     "packs": {
@@ -4064,6 +4492,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2023-09-22",
     "tcgplayer_id": "503313",
+    "cardmarket_id": 719691,
+    "cardtrader_id": 258656,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/503313_in_1000x1000.jpg",
     "packs": {
@@ -4083,6 +4513,8 @@
     "type": null,
     "release_date": "2023-10-06",
     "tcgplayer_id": "502006",
+    "cardmarket_id": 719699,
+    "cardtrader_id": 258651,
     "description": "Each 151: Alakazam ex Collection contains 4 Booster Packs and 3 promo cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/502006_in_1000x1000.jpg",
     "packs": {
@@ -4104,6 +4536,8 @@
     "type": null,
     "release_date": "2025-02-07",
     "tcgplayer_id": "609597",
+    "cardmarket_id": 807118,
+    "cardtrader_id": 315107,
     "description": "Each Blooming Waters Premium Collection contains 12 Booster Packs, 4 promo cards, and 1 jumbo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/609597_in_1000x1000.jpg",
     "packs": {
@@ -4127,6 +4561,8 @@
     "type": "Binder Collection",
     "release_date": "2023-09-22",
     "tcgplayer_id": "502004",
+    "cardmarket_id": 719697,
+    "cardtrader_id": 258653,
     "description": "Each 151 Binder Collection contains 4 Booster Packs and a binder with 20 9-pocket pages.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/502004_in_1000x1000.jpg",
     "packs": {
@@ -4144,6 +4580,8 @@
     "type": null,
     "release_date": "2025-10-28",
     "tcgplayer_id": "662302",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Bundle contains 4 Mini Tins and 4 promo cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/662302_in_1000x1000.jpg",
     "packs": {
@@ -4166,6 +4604,8 @@
     "type": null,
     "release_date": "2023-10-06",
     "tcgplayer_id": "502007",
+    "cardmarket_id": 719700,
+    "cardtrader_id": 258655,
     "description": "Each 151: Zapdos ex Collection contains 4 Booster Packs, 2 promo cards, and 1 jumbo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/502007_in_1000x1000.jpg",
     "packs": {
@@ -4187,6 +4627,8 @@
     "type": "Mini Tin",
     "release_date": "2023-10-06",
     "tcgplayer_id": "522702",
+    "cardmarket_id": 719704,
+    "cardtrader_id": 258631,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/522702_in_1000x1000.jpg",
     "packs": {
@@ -4204,6 +4646,8 @@
     "type": "Mini Tin",
     "release_date": "2023-10-06",
     "tcgplayer_id": "522707",
+    "cardmarket_id": 719709,
+    "cardtrader_id": 258641,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/522707_in_1000x1000.jpg",
     "packs": {
@@ -4221,6 +4665,8 @@
     "type": "Mini Tin",
     "release_date": "2023-10-06",
     "tcgplayer_id": "522708",
+    "cardmarket_id": 719710,
+    "cardtrader_id": 258643,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/522708_in_1000x1000.jpg",
     "packs": {
@@ -4238,6 +4684,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2023-09-22",
     "tcgplayer_id": "501999",
+    "cardmarket_id": 719693,
+    "cardtrader_id": 258659,
     "description": "Each Pokemon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501999_in_1000x1000.jpg",
     "packs": {
@@ -4257,6 +4705,8 @@
     "type": "Mini Tin",
     "release_date": "2023-10-06",
     "tcgplayer_id": "522704",
+    "cardmarket_id": 719706,
+    "cardtrader_id": 258637,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/522704_in_1000x1000.jpg",
     "packs": {
@@ -4274,6 +4724,8 @@
     "type": "Booster Bundle Display",
     "release_date": "2023-09-22",
     "tcgplayer_id": "513405",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle Display contains 10 Booster Bundles",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/513405_in_1000x1000.jpg",
     "packs": {
@@ -4291,6 +4743,8 @@
     "type": "Mini Tin",
     "release_date": "2023-10-06",
     "tcgplayer_id": "522700",
+    "cardmarket_id": 719702,
+    "cardtrader_id": 258630,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/522700_in_1000x1000.jpg",
     "packs": {
@@ -4308,6 +4762,8 @@
     "type": "Mini Tin",
     "release_date": "2023-10-06",
     "tcgplayer_id": "522706",
+    "cardmarket_id": 719708,
+    "cardtrader_id": 258640,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/522706_in_1000x1000.jpg",
     "packs": {
@@ -4325,6 +4781,8 @@
     "type": "Mini Tin",
     "release_date": "2023-10-06",
     "tcgplayer_id": "522703",
+    "cardmarket_id": 719705,
+    "cardtrader_id": 258635,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/522703_in_1000x1000.jpg",
     "packs": {
@@ -4342,6 +4800,8 @@
     "type": "Mini Tin Display",
     "release_date": "2023-10-06",
     "tcgplayer_id": "502008",
+    "cardmarket_id": 719711,
+    "cardtrader_id": 258628,
     "description": "Each Mini Tin Display contains 10 Mini Tins.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/502008_in_1000x1000.jpg",
     "packs": {
@@ -4359,6 +4819,8 @@
     "type": "Mini Tin Display Case",
     "release_date": "2023-10-06",
     "tcgplayer_id": "668357",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mini Tin Display Case contains 4 Mini Tin Displays.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668357_in_1000x1000.jpg",
     "packs": {
@@ -4376,6 +4838,8 @@
     "type": "Elite Trainer Box Case",
     "release_date": "2023-09-22",
     "tcgplayer_id": "506640",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/506640_in_1000x1000.jpg",
     "packs": {
@@ -4393,6 +4857,8 @@
     "type": "Binder Collection Case",
     "release_date": "2023-09-22",
     "tcgplayer_id": "502003",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Binder Collection Case contains 6 Binder Collections.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/502003_in_1000x1000.jpg",
     "packs": {
@@ -4410,6 +4876,8 @@
     "type": "Mini Tin",
     "release_date": "2023-10-06",
     "tcgplayer_id": "522699",
+    "cardmarket_id": 719701,
+    "cardtrader_id": 258633,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/522699_in_1000x1000.jpg",
     "packs": {
@@ -4427,6 +4895,8 @@
     "type": null,
     "release_date": "2023-10-06",
     "tcgplayer_id": "518781",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Case contains 6 151 Alakazam ex Collections.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/518781_in_1000x1000.jpg",
     "packs": {
@@ -4444,6 +4914,8 @@
     "type": "Mini Tin",
     "release_date": "2023-10-06",
     "tcgplayer_id": "522705",
+    "cardmarket_id": 719707,
+    "cardtrader_id": 258638,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/522705_in_1000x1000.jpg",
     "packs": {
@@ -4461,6 +4933,8 @@
     "type": "Booster Bundle Case",
     "release_date": "2023-09-22",
     "tcgplayer_id": "530105",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle Case contains 25 Booster Bundles.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/530105_in_1000x1000.jpg",
     "packs": {
@@ -4478,6 +4952,8 @@
     "type": "Mini Tin",
     "release_date": "2023-10-22",
     "tcgplayer_id": "522701",
+    "cardmarket_id": 719703,
+    "cardtrader_id": 258634,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/522701_in_1000x1000.jpg",
     "packs": {
@@ -4495,6 +4971,8 @@
     "type": null,
     "release_date": "2023-10-06",
     "tcgplayer_id": "518782",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each case contains 6 151 Zapdos ex Collections.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/518782_in_1000x1000.jpg",
     "packs": {
@@ -4512,6 +4990,8 @@
     "type": "",
     "release_date": "2023-10-06",
     "tcgplayer_id": "515970",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each case contains 4 151 Ultra-Premium Collections.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/515970_in_1000x1000.jpg",
     "packs": {
@@ -4529,6 +5009,8 @@
     "type": "Poster Collection Case",
     "release_date": "2023-09-22",
     "tcgplayer_id": "502002",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each case contains 6 Poster Collections.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/502002_in_1000x1000.jpg",
     "packs": {
@@ -4546,6 +5028,8 @@
     "type": "Booster Pack",
     "release_date": "2023-11-03",
     "tcgplayer_id": "512822",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/512822_in_1000x1000.jpg",
     "packs": {
@@ -4563,6 +5047,8 @@
     "type": "Booster Pack",
     "release_date": "2023-11-03",
     "tcgplayer_id": "512822",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/512822_in_1000x1000.jpg",
     "packs": {
@@ -4580,6 +5066,8 @@
     "type": "Booster Box",
     "release_date": "2023-11-03",
     "tcgplayer_id": "512821",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box contains 36 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/512821_in_1000x1000.jpg",
     "packs": {
@@ -4597,6 +5085,8 @@
     "type": "Sleeved Booster Pack",
     "release_date": "2023-11-03",
     "tcgplayer_id": "517210",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/517210_in_1000x1000.jpg",
     "packs": {
@@ -4614,6 +5104,8 @@
     "type": "Build & Battle Stadium",
     "release_date": "2023-11-03",
     "tcgplayer_id": "514070",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Stadium contains 2 Build & Battle Boxes, 3 Booster Packs, 121 Energy cards, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 condition markers, and a box to hold everything.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514070_in_1000x1000.jpg",
     "packs": {
@@ -4631,6 +5123,8 @@
     "type": "Single Pack Blister",
     "release_date": "2023-11-03",
     "tcgplayer_id": "514224",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514224_in_1000x1000.jpg",
     "packs": {
@@ -4650,6 +5144,8 @@
     "type": "Booster Box Case",
     "release_date": "2023-11-03",
     "tcgplayer_id": "512828",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box Case contains 6 Booster Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/512828_in_1000x1000.jpg",
     "packs": {
@@ -4667,6 +5163,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2023-11-03",
     "tcgplayer_id": "512813",
+    "cardmarket_id": 728730,
+    "cardtrader_id": 258593,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/512813_in_1000x1000.jpg",
     "packs": {
@@ -4686,6 +5184,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2023-11-03",
     "tcgplayer_id": "512801",
+    "cardmarket_id": 728729,
+    "cardtrader_id": 258595,
     "description": "Each Pokemon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/512801_in_1000x1000.jpg",
     "packs": {
@@ -4705,6 +5205,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2023-11-03",
     "tcgplayer_id": "512815",
+    "cardmarket_id": 728727,
+    "cardtrader_id": 258590,
     "description": "Each Elite Trainer Box contains [number] booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice,( 1 competition-legal coin-flip die,)( 1 plastic coin,)( 2 plastic condition markers,)  [number] dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/512815_in_1000x1000.jpg",
     "packs": {
@@ -4724,6 +5226,8 @@
     "type": "Single Pack Blister",
     "release_date": "2023-11-03",
     "tcgplayer_id": "514223",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514223_in_1000x1000.jpg",
     "packs": {
@@ -4743,6 +5247,8 @@
     "type": "3-Pack Blister",
     "release_date": "2023-11-03",
     "tcgplayer_id": "513434",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/513434_in_1000x1000.jpg",
     "packs": {
@@ -4762,6 +5268,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2023-11-03",
     "tcgplayer_id": "546605",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/546605_in_1000x1000.jpg",
     "packs": {
@@ -4783,6 +5291,8 @@
     "type": "3-Pack Blister",
     "release_date": "2023-11-03",
     "tcgplayer_id": "513433",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/513433_in_1000x1000.jpg",
     "packs": {
@@ -4802,6 +5312,8 @@
     "type": "Sleeved Booster Case",
     "release_date": "2023-11-03",
     "tcgplayer_id": "641808",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/641808_in_1000x1000.jpg",
     "packs": {
@@ -4819,6 +5331,8 @@
     "type": "Booster Bundle",
     "release_date": "2023-11-03",
     "tcgplayer_id": "512820",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle contains 6 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/512820_in_1000x1000.jpg",
     "packs": {
@@ -4836,6 +5350,8 @@
     "type": "Build & Battle Box Display",
     "release_date": "2023-11-03",
     "tcgplayer_id": "514069",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514069_in_1000x1000.jpg",
     "packs": {
@@ -4853,6 +5369,8 @@
     "type": "Half Booster Box",
     "release_date": "2023-11-03",
     "tcgplayer_id": "649417",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Half Booster Box contains 18 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649417_in_1000x1000.jpg",
     "packs": {
@@ -4870,6 +5388,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2023-11-03",
     "tcgplayer_id": "546606",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/546606_in_1000x1000.jpg",
     "packs": {
@@ -4891,6 +5411,8 @@
     "type": "Fun Pack",
     "release_date": "2023-11-03",
     "tcgplayer_id": "607504",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Fun Pack contains 3 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/607504_in_1000x1000.jpg",
     "packs": {},
@@ -4906,6 +5428,8 @@
     "type": "Single Pack Blister",
     "release_date": "2023-11-03",
     "tcgplayer_id": "625582",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/625582_in_1000x1000.jpg",
     "packs": {
@@ -4926,6 +5450,8 @@
     "type": "Single Pack Blister",
     "release_date": "2023-11-03",
     "tcgplayer_id": "625581",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/625581_in_1000x1000.jpg",
     "packs": {
@@ -4946,6 +5472,8 @@
     "type": "Booster Pack",
     "release_date": "2024-01-26",
     "tcgplayer_id": "528038",
+    "cardmarket_id": 745544,
+    "cardtrader_id": 270313,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528038_in_1000x1000.jpg",
     "packs": {
@@ -4963,6 +5491,8 @@
     "type": "Booster Bundle",
     "release_date": "2024-02-23",
     "tcgplayer_id": "528771",
+    "cardmarket_id": 745565,
+    "cardtrader_id": 270253,
     "description": "Each Booster Bundle contains 6 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528771_in_1000x1000.jpg",
     "packs": {
@@ -4980,6 +5510,8 @@
     "type": null,
     "release_date": "2025-12-01",
     "tcgplayer_id": "665113",
+    "cardmarket_id": null,
+    "cardtrader_id": 363307,
     "description": "Each Collection contains 11 Booster Packs, 4 promo cards, and 1 jumbo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/665113_in_1000x1000.jpg",
     "packs": {
@@ -5001,6 +5533,8 @@
     "type": "Tech Sticker Collection",
     "release_date": "2024-01-26",
     "tcgplayer_id": "528043",
+    "cardmarket_id": 745545,
+    "cardtrader_id": 270258,
     "description": "Each Tech Sticker Collection contains 3 Booster Packs, 1 promo card, and stickers.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528043_in_1000x1000.jpg",
     "packs": {
@@ -5020,6 +5554,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2024-01-26",
     "tcgplayer_id": "528039",
+    "cardmarket_id": 745549,
+    "cardtrader_id": 270266,
     "description": "Each Pokemon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528039_in_1000x1000.jpg",
     "packs": {
@@ -5039,6 +5575,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2024-01-26",
     "tcgplayer_id": "528040",
+    "cardmarket_id": 745548,
+    "cardtrader_id": 270264,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528040_in_1000x1000.jpg",
     "packs": {
@@ -5058,6 +5596,8 @@
     "type": "Booster Bundle Display",
     "release_date": "2023-02-23",
     "tcgplayer_id": "530704",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle Display contains 10 Booster Bundles",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/530704_in_1000x1000.jpg",
     "packs": {
@@ -5075,6 +5615,8 @@
     "type": "Tech Sticker Collection",
     "release_date": "2024-01-26",
     "tcgplayer_id": "528044",
+    "cardmarket_id": 745546,
+    "cardtrader_id": 270257,
     "description": "Each Tech Sticker Collection contains 3 Booster Packs, 1 promo card, and stickers.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528044_in_1000x1000.jpg",
     "packs": {
@@ -5094,6 +5636,8 @@
     "type": "Tin",
     "release_date": "2024-02-09",
     "tcgplayer_id": "528056",
+    "cardmarket_id": 745556,
+    "cardtrader_id": 270289,
     "description": "Each Tin contains 5 Booster Packs and 1 promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528056_in_1000x1000.jpg",
     "packs": {
@@ -5113,6 +5657,8 @@
     "type": "Mini Tin",
     "release_date": "2024-02-09",
     "tcgplayer_id": "528052",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528052_in_1000x1000.jpg",
     "packs": {
@@ -5130,6 +5676,8 @@
     "type": "Mini Tin",
     "release_date": "2024-02-09",
     "tcgplayer_id": "528051",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528051_in_1000x1000.jpg",
     "packs": {
@@ -5147,6 +5695,8 @@
     "type": "Tech Sticker Collection Case",
     "release_date": "2024-01-26",
     "tcgplayer_id": "654599",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Tech Sticker Collection Case contains 4 of each Tech Sticker Collection. (12 Total)",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654599_in_1000x1000.jpg",
     "packs": {
@@ -5164,6 +5714,8 @@
     "type": "Tech Sticker Collection",
     "release_date": "2024-01-26",
     "tcgplayer_id": "528045",
+    "cardmarket_id": 745547,
+    "cardtrader_id": 270256,
     "description": "Each Tech Sticker Collection contains 3 Booster Packs, 1 promo card, and stickers.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528045_in_1000x1000.jpg",
     "packs": {
@@ -5183,6 +5735,8 @@
     "type": null,
     "release_date": "2024-02-09",
     "tcgplayer_id": "528079",
+    "cardmarket_id": 745562,
+    "cardtrader_id": 270299,
     "description": "Each Collection contains 8 Booster Packs, 3 promo cards, and 1 jumbo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528079_in_1000x1000.jpg",
     "packs": {
@@ -5205,6 +5759,8 @@
     "type": "Tin",
     "release_date": "2024-02-09",
     "tcgplayer_id": "528063",
+    "cardmarket_id": 745555,
+    "cardtrader_id": 270294,
     "description": "Each Tin contains 5 Booster Packs and 1 promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528063_in_1000x1000.jpg",
     "packs": {
@@ -5224,6 +5780,8 @@
     "type": "Tin",
     "release_date": "2024-02-09",
     "tcgplayer_id": "528060",
+    "cardmarket_id": 750587,
+    "cardtrader_id": 270296,
     "description": "Each Tin contains 5 Booster Packs and 1 promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528060_in_1000x1000.jpg",
     "packs": {
@@ -5243,6 +5801,8 @@
     "type": null,
     "release_date": "2024-02-09",
     "tcgplayer_id": "528080",
+    "cardmarket_id": 745563,
+    "cardtrader_id": 270300,
     "description": "Each Collection contains 8 Booster Packs, 3 promo cards, and 1 jumbo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528080_in_1000x1000.jpg",
     "packs": {
@@ -5265,6 +5825,8 @@
     "type": "Tin",
     "release_date": "2024-02-09",
     "tcgplayer_id": "688258",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Tin contains 5 Booster Packs and 1 promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/688258_in_1000x1000.jpg",
     "packs": {
@@ -5282,6 +5844,8 @@
     "type": "Mini Tin",
     "release_date": "2024-02-09",
     "tcgplayer_id": "528055",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528055_in_1000x1000.jpg",
     "packs": {
@@ -5299,6 +5863,8 @@
     "type": "Mini Tin Display Case",
     "release_date": "2024-02-09",
     "tcgplayer_id": "693612",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mini Tin Display Case contains 4 Mini Tin Displays.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693612_in_1000x1000.jpg",
     "packs": {
@@ -5316,6 +5882,8 @@
     "type": "Booster Bundle Display",
     "release_date": "2024-02-09",
     "tcgplayer_id": "635609",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle Display contains 10 Booster Bundles",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/635609_in_1000x1000.jpg",
     "packs": {
@@ -5333,6 +5901,8 @@
     "type": "Tin",
     "release_date": "2024-02-09",
     "tcgplayer_id": "528058",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Tin contains 4 Booster Packs and 1 promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528058_in_1000x1000.jpg",
     "packs": {
@@ -5352,6 +5922,8 @@
     "type": "Tin",
     "release_date": "2024-02-09",
     "tcgplayer_id": "528057",
+    "cardmarket_id": null,
+    "cardtrader_id": 270291,
     "description": "Each Tin contains 5 Booster Packs and 1 promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528057_in_1000x1000.jpg",
     "packs": {
@@ -5371,6 +5943,8 @@
     "type": "Mini Tin",
     "release_date": "2024-02-09",
     "tcgplayer_id": "528050",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Mini Tin contains 2 booster packs and an art card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528050_in_1000x1000.jpg",
     "packs": {
@@ -5388,6 +5962,8 @@
     "type": null,
     "release_date": "2024-01-26",
     "tcgplayer_id": "693569",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each case contains 6 Collections.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693569_in_1000x1000.jpg",
     "packs": {
@@ -5405,6 +5981,8 @@
     "type": "Mini Tin Display",
     "release_date": "2024-02-09",
     "tcgplayer_id": "528047",
+    "cardmarket_id": null,
+    "cardtrader_id": 270283,
     "description": "Each Mini Tin Display contains 10 Mini Tins.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528047_in_1000x1000.jpg",
     "packs": {
@@ -5422,6 +6000,8 @@
     "type": null,
     "release_date": "2024-01-26",
     "tcgplayer_id": "528082",
+    "cardmarket_id": 745564,
+    "cardtrader_id": 270302,
     "description": "Each Collection contains 8 Booster Packs, 3 promo cards, and 1 jumbo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528082_in_1000x1000.jpg",
     "packs": {
@@ -5444,6 +6024,8 @@
     "type": "Booster Pack",
     "release_date": "2024-03-22",
     "tcgplayer_id": "532841",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/532841_in_1000x1000.jpg",
     "packs": {
@@ -5461,6 +6043,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2024-03-22",
     "tcgplayer_id": "532845",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice,1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/532845_in_1000x1000.jpg",
     "packs": {
@@ -5480,6 +6064,8 @@
     "type": "Sleeved Booster Pack",
     "release_date": "2024-03-22",
     "tcgplayer_id": "538787",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each pack contains 10 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/538787_in_1000x1000.jpg",
     "packs": {
@@ -5497,6 +6083,8 @@
     "type": "Booster Box",
     "release_date": "2024-03-22",
     "tcgplayer_id": "536225",
+    "cardmarket_id": 750403,
+    "cardtrader_id": 275351,
     "description": "Each Booster Box contains 36 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/536225_in_1000x1000.jpg",
     "packs": {
@@ -5514,6 +6102,8 @@
     "type": "Booster Bundle",
     "release_date": "2024-03-22",
     "tcgplayer_id": "541017",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Bundle contains 6 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541017_in_1000x1000.jpg",
     "packs": {
@@ -5531,6 +6121,8 @@
     "type": "Premium Checklane Blister",
     "release_date": "2024-03-22",
     "tcgplayer_id": "544687",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544687_in_1000x1000.jpg",
     "packs": {
@@ -5552,6 +6144,8 @@
     "type": "Pokemon Center Elite Trainer Box",
     "release_date": "2024-03-22",
     "tcgplayer_id": "532853",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Pokemon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/532853_in_1000x1000.jpg",
     "packs": {
@@ -5571,6 +6165,8 @@
     "type": "Elite Trainer Box",
     "release_date": "2024-03-22",
     "tcgplayer_id": "532848",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/532848_in_1000x1000.jpg",
     "packs": {
@@ -5590,6 +6186,8 @@
     "type": "3-Pack Blister",
     "release_date": "2024-03-22",
     "tcgplayer_id": "536227",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/536227_in_1000x1000.jpg",
     "packs": {
@@ -5609,6 +6207,8 @@
     "type": "Single Pack Blister",
     "release_date": "2024-03-22",
     "tcgplayer_id": "536284",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/536284_in_1000x1000.jpg",
     "packs": {
@@ -5628,6 +6228,8 @@
     "type": "Build & Battle Box",
     "release_date": "2024-03-22",
     "tcgplayer_id": "537411",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box contains a 40-card ready-to-play deck, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/537411_in_1000x1000.jpg",
     "packs": {
@@ -5645,6 +6247,8 @@
     "type": "Single Pack Blister",
     "release_date": "2024-03-22",
     "tcgplayer_id": "617011",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617011_in_1000x1000.jpg",
     "packs": {
@@ -5665,6 +6269,8 @@
     "type": "Build & Battle Box Display",
     "release_date": "2024-03-22",
     "tcgplayer_id": "537409",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/537409_in_1000x1000.jpg",
     "packs": {
@@ -5682,6 +6288,8 @@
     "type": "Elite Trainer Box Case",
     "release_date": "2024-03-22",
     "tcgplayer_id": "537418",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/537418_in_1000x1000.jpg",
     "packs": {
@@ -5699,6 +6307,8 @@
     "type": "Fun Pack",
     "release_date": "2024-03-22",
     "tcgplayer_id": "607502",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Fun Pack contains 3 cards.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/607502_in_1000x1000.jpg",
     "packs": {},
@@ -5714,6 +6324,8 @@
     "type": "3-Pack Blister",
     "release_date": "2024-03-22",
     "tcgplayer_id": "536229",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/536229_in_1000x1000.jpg",
     "packs": {
@@ -5733,6 +6345,8 @@
     "type": "Half Booster Box",
     "release_date": "2024-03-22",
     "tcgplayer_id": "649416",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Half Booster Box contains 18 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649416_in_1000x1000.jpg",
     "packs": {
@@ -5750,6 +6364,8 @@
     "type": "Single Pack Blister",
     "release_date": "2024-03-22",
     "tcgplayer_id": "617012",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, 2 promo card, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617012_in_1000x1000.jpg",
     "packs": {
@@ -5770,6 +6386,8 @@
     "type": "Single Pack Blister",
     "release_date": "2024-03-22",
     "tcgplayer_id": "536594",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/536594_in_1000x1000.jpg",
     "packs": {
@@ -5789,6 +6407,8 @@
     "type": "Booster Box Case",
     "release_date": "2024-03-22",
     "tcgplayer_id": "537417",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
     "description": "Each Booster Box Case contains 6 Booster Boxes.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/537417_in_1000x1000.jpg",
     "packs": {
@@ -5865,8 +6485,8 @@
     "type": "Booster Box",
     "release_date": "2024-05-24",
     "tcgplayer_id": "543846",
-    "cardmarket_id": null,
-    "cardtrader_id": null,
+    "cardmarket_id": 761219,
+    "cardtrader_id": 289441,
     "description": "Each Booster Box contains 36 booster packs.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543846_in_1000x1000.jpg",
     "packs": {
