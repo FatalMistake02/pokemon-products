@@ -6842,5 +6842,420 @@
     "promos": null,
     "damage_markers": null,
     "other": null
+  },
+  {
+    "id": "product-334",
+    "name": "Shrouded Fable Booster Bundle",
+    "type": "Booster Bundle",
+    "release_date": "2024-09-06",
+    "tcgplayer_id": "553031",
+    "cardmarket_id": 770955,
+    "cardtrader_id": 287986,
+    "description": "Each Booster Bundle contains 6 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553031_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "6"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-335",
+    "name": "Shrouded Fable Elite Trainer Box",
+    "type": "Elite Trainer Box",
+    "release_date": "2024-08-23",
+    "tcgplayer_id": "552999",
+    "cardmarket_id": 770958,
+    "cardtrader_id": 288001,
+    "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/552999_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "9"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-129"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-336",
+    "name": "Shrouded Fable Pokemon Center Elite Trainer Box",
+    "type": "Pokemon Center Elite Trainer Box",
+    "release_date": "2024-08-23",
+    "tcgplayer_id": "552998",
+    "cardmarket_id": 770959,
+    "cardtrader_id": 287983,
+    "description": "Each Pokemon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/552998_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "11"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-129 (Pokemon Center Stamp)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-337",
+    "name": "Shrouded Fable Booster Pack",
+    "type": "Booster Pack",
+    "release_date": "2024-08-23",
+    "tcgplayer_id": "552997",
+    "cardmarket_id": 770953,
+    "cardtrader_id": 287998,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/552997_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-338",
+    "name": "Shrouded Fable 3-Pack Blister [Pecharunt]",
+    "type": "3-Pack Blister",
+    "release_date": "2024-08-23",
+    "tcgplayer_id": "553007",
+    "cardmarket_id": 770957,
+    "cardtrader_id": 287990,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553007_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-149 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-339",
+    "name": "Kingambit Illustration Collection",
+    "type": "Illustration Collection",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "553000",
+    "cardmarket_id": 770967,
+    "cardtrader_id": 287987,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553000_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": 4
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv03-148 (Cosmos Holo)",
+      "sv03-149 (Cosmos Holo)",
+      "svp-130"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-340",
+    "name": "Greninja ex Special Illustration Collection",
+    "type": "Special Illustration Collection",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "553002",
+    "cardmarket_id": 770969,
+    "cardtrader_id": 287989,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553002_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": 5
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv03-056 (Cosmos Holo)",
+      "sv03-057 (Cosmos Holo)",
+      "svp-132"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-341",
+    "name": "Kingdra ex Special Illustration Collection",
+    "type": "Special Illustration Collection",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "553001",
+    "cardmarket_id": 770968,
+    "cardtrader_id": 287988,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553001_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": 5
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-131"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-342",
+    "name": "Shrouded Fable Mini Tin (Zoroark)",
+    "type": "Mini Tin",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "553010",
+    "cardmarket_id": 770962,
+    "cardtrader_id": 287993,
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553010_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "2"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-343",
+    "name": "Shrouded Fable Mini Tin (Okidogi)",
+    "type": "Mini Tin",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "553012",
+    "cardmarket_id": 770963,
+    "cardtrader_id": 287994,
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553012_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "2"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-344",
+    "name": "Shrouded Fable Special Illustration Collection Case",
+    "type": "Special Illustration Collection Case",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "553075",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each case contains 3 Kingdra ex Special Illustration Collections and 3 Greninja ex Special Illustration Collections.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553075_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": 30
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-345",
+    "name": "Kingambit Illustration Collection Case",
+    "type": "Illustration Collection Case",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "553094",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each case contains 6 Kingambit Illustration Collections.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553094_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": 24
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-346",
+    "name": "Shrouded Fable Mini Tin Display",
+    "type": "Mini Tin Display",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "553008",
+    "cardmarket_id": 770966,
+    "cardtrader_id": 287991,
+    "description": "Each Mini Tin Display contains 10 Mini Tins.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553008_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "20"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-347",
+    "name": "Shrouded Fable Booster Bundle Display",
+    "type": "Booster Bundle Display",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "618355",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Bundle Display contains 10 Booster Bundles",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/618355_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "60"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-348",
+    "name": "Shrouded Fable Booster Bundle Case",
+    "type": "Booster Bundle Case",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "635736",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Bundle Case contains 25 Booster Bundles.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/635736_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "150"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-349",
+    "name": "Shrouded Fable Elite Trainer Box Case",
+    "type": "Elite Trainer Box Case",
+    "release_date": "2024-08-23",
+    "tcgplayer_id": "553099",
+    "cardmarket_id": 770960,
+    "cardtrader_id": 288002,
+    "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553099_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "90"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-350",
+    "name": "Shrouded Fable Mini Tin (Fezandipiti)",
+    "type": "Mini Tin",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "553018",
+    "cardmarket_id": 770965,
+    "cardtrader_id": 287996,
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553018_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "2"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-351",
+    "name": "Shrouded Fable Mini Tin (Munkidori)",
+    "type": "Mini Tin",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "553011",
+    "cardmarket_id": 770964,
+    "cardtrader_id": 287995,
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553011_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "2"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-352",
+    "name": "Shrouded Fable Mini Tin (Dusknoir)",
+    "type": "Mini Tin",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "553023",
+    "cardmarket_id": 770961,
+    "cardtrader_id": 287992,
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/553023_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "2"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-353",
+    "name": "Shrouded Fable 3-Pack Blister Case",
+    "type": "3-Pack Blister Case",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "665643",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister Case contains 24 3-Pack Blisters.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/665643_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "72"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-354",
+    "name": "Shrouded Fable Booster Bundle Display Case",
+    "type": "Booster Bundle Display",
+    "release_date": "2024-08-02",
+    "tcgplayer_id": "635485",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Bundle Display contains 10 Booster Bundles",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/635485_in_1000x1000.jpg",
+    "packs": {
+      "sv06.5": "60"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
   }
 ]
