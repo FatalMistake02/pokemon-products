@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Database Status</title>
+</head>
+<body style="font-family: sans-serif; padding: 20px; background: #0a0a0a; color: white;">
+    <a href="index.html" style="color: white; text-decoration: underline;">Back</a>
+    <h1>Database Status</h1>
+
+    <div style="background: #333; padding: 15px; margin: 10px 0; border-radius: 5px;">
+        <strong>Products:</strong> <span id="product-count">Loading...</span>
+    </div>
+
+    <div style="background: #333; padding: 15px; margin: 10px 0; border-radius: 5px;">
+        <strong>Sets with products:</strong> <span id="set-count">Loading...</span>
+    </div>
+
+    <h2>Product Fields</h2>
+
+    <div style="overflow-x: auto;">
+        <table style="width: 100%; border-collapse: collapse; background: #333;">
+            <thead>
+                <tr>
+                    <th style="padding: 10px; text-align: left; border-bottom: 1px solid #555;">Field</th>
+                    <th style="padding: 10px; text-align: left; border-bottom: 1px solid #555;">Products</th>
+                    <th style="padding: 10px; text-align: left; border-bottom: 1px solid #555;">Percent</th>
+                </tr>
+            </thead>
+            <tbody id="field-status"></tbody>
+        </table>
+    </div>
+
+    <p id="error" style="display: none; color: #ff8080;">Could not load status data.</p>
+
+    <script>
+        const fields = [
+            { key: 'id', label: 'Product ID' },
+            { key: 'name', label: 'Name' },
+            { key: 'type', label: 'Type' },
+            { key: 'release_date', label: 'Release Date' },
+            { key: 'tcgplayer_id', label: 'TCGplayer ID' },
+            { key: 'cardmarket_id', label: 'Cardmarket ID' },
+            { key: 'cardtrader_id', label: 'CardTrader ID' },
+            { key: 'description', label: 'Description' },
+            { key: 'image_url', label: 'Image URL' },
+            {
+                key: 'packs',
+                label: 'Packs',
+                include: product => product.type?.trim().toLowerCase() !== 'fun pack'
+            }
+        ];
+
+        function hasValue(value) {
+            if (value === null || value === undefined) return false;
+            if (typeof value === 'string') return value.trim() !== '';
+            if (Array.isArray(value)) return value.length > 0;
+            if (typeof value === 'object') return Object.keys(value).length > 0;
+            return true;
+        }
+
+        function addFieldRows(products) {
+            const tbody = document.getElementById('field-status');
+
+            fields.forEach(field => {
+                const applicableProducts = field.include ? products.filter(field.include) : products;
+                const completed = applicableProducts.filter(product => hasValue(product[field.key])).length;
+                const percent = applicableProducts.length ? completed / applicableProducts.length * 100 : 0;
+                const row = document.createElement('tr');
+                const values = [
+                    field.label,
+                    `${completed} / ${applicableProducts.length}`,
+                    `${Math.round(percent * 10) / 10}%`
+                ];
+
+                values.forEach(value => {
+                    const cell = document.createElement('td');
+                    cell.style.padding = '10px';
+                    cell.style.borderBottom = '1px solid #555';
+                    cell.textContent = value;
+                    row.appendChild(cell);
+                });
+
+                tbody.appendChild(row);
+            });
+        }
+
+        async function loadStatus() {
+            try {
+                const [productsResponse, setsResponse] = await Promise.all([
+                    fetch('products.json'),
+                    fetch('sets.json')
+                ]);
+
+                if (!productsResponse.ok || !setsResponse.ok) throw new Error('Request failed');
+
+                const [products, sets] = await Promise.all([
+                    productsResponse.json(),
+                    setsResponse.json()
+                ]);
+                const setIds = new Set(sets.map(set => set.id));
+                const setsWithProducts = new Set();
+
+                products.forEach(product => {
+                    Object.keys(product.packs || {}).forEach(setId => {
+                        if (setIds.has(setId)) setsWithProducts.add(setId);
+                    });
+                });
+
+                document.getElementById('product-count').textContent = products.length;
+                document.getElementById('set-count').textContent = `${setsWithProducts.size} / ${sets.length}`;
+                addFieldRows(products);
+            } catch (error) {
+                console.error(error);
+                document.getElementById('error').style.display = 'block';
+            }
+        }
+
+        loadStatus();
+    </script>
+</body>
+</html>
