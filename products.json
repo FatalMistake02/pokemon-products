@@ -7682,5 +7682,485 @@
     "promos": null,
     "damage_markers": null,
     "other": null
+  },
+  {
+    "id": "product-376",
+    "name": "Surging Sparks Booster Pack",
+    "type": "Booster Pack",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565604",
+    "cardmarket_id": 784945,
+    "cardtrader_id": 299915,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565604_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-377",
+    "name": "Surging Sparks Booster Box",
+    "type": "Booster Box",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565606",
+    "cardmarket_id": 784949,
+    "cardtrader_id": 299916,
+    "description": "Each Booster Box contains 36 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565606_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "36"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-378",
+    "name": "Surging Sparks Elite Trainer Box",
+    "type": "Elite Trainer Box",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565630",
+    "cardmarket_id": 784963,
+    "cardtrader_id": 299925,
+    "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565630_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "9"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-159"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-379",
+    "name": "Surging Sparks Booster Bundle (Retail)",
+    "type": "Booster Bundle",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "679564",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Bundle contains 6 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/679564_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "6"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-380",
+    "name": "Surging Sparks Booster Bundle (LGS)",
+    "type": "Booster Bundle",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565629",
+    "cardmarket_id": 784953,
+    "cardtrader_id": 299928,
+    "description": "Each Booster Bundle contains 6 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565629_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "6"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-381",
+    "name": "Surging Sparks Sleeved Booster Pack",
+    "type": "Sleeved Booster Pack",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565602",
+    "cardmarket_id": 784946,
+    "cardtrader_id": 299917,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565602_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-382",
+    "name": "Surging Sparks Pokemon Center Elite Trainer Box",
+    "type": "Pokemon Center Elite Trainer Box",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565632",
+    "cardmarket_id": 784964,
+    "cardtrader_id": 299924,
+    "description": "Each Pokemon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565632_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "11"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-159 (Pokemon Center Stamp)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-383",
+    "name": "Surging Sparks Booster Box Case",
+    "type": "Booster Box Case",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "580708",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Box Case contains 6 Booster Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/580708_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "216"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-384",
+    "name": "Surging Sparks Single Pack Blister [Wooper]",
+    "type": "Single Pack Blister",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565636",
+    "cardmarket_id": 784955,
+    "cardtrader_id": 299920,
+    "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565636_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-155 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-385",
+    "name": "Surging Sparks Single Pack Blister [Pachirisu]",
+    "type": "Single Pack Blister",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565637",
+    "cardmarket_id": 784956,
+    "cardtrader_id": 299921,
+    "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565637_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-158 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-386",
+    "name": "Surging Sparks 3-Pack Blisters [Quagsire]",
+    "type": "3-Pack Blister",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565635",
+    "cardmarket_id": 784957,
+    "cardtrader_id": 299919,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565635_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-156 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-387",
+    "name": "Surging Sparks Build & Battle Box Display",
+    "type": "Build & Battle Box Display",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565600",
+    "cardmarket_id": 784967,
+    "cardtrader_id": 299923,
+    "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565600_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "40"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-388",
+    "name": "Surging Sparks Half Booster Box",
+    "type": "Half Booster Box",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "646039",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Half Booster Box contains 18 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/646039_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "18"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-389",
+    "name": "Surging Sparks 3-Pack Blisters [Zapdos]",
+    "type": "3-Pack Blister",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565634",
+    "cardmarket_id": 784958,
+    "cardtrader_id": 299918,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565634_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-157 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-390",
+    "name": "Surging Sparks Premium Checklane Blister [Alakazam]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565638",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565638_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv06-080",
+      "sv06-081",
+      "sv06-082 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-391",
+    "name": "Surging Sparks Single Pack Blister [Hisuian Arcanine]",
+    "type": "Single Pack Blister",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "606613",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/606613_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv06-099",
+      "sv06-100 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-392",
+    "name": "Surging Sparks Elite Trainer Box Case",
+    "type": "Elite Trainer Box Case",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565631",
+    "cardmarket_id": 784965,
+    "cardtrader_id": 299926,
+    "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565631_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "90"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-393",
+    "name": "Surging Sparks Booster Bundle Case (LGS)",
+    "type": "Booster Bundle Case",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "594269",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Bundle Case contains 20 Booster Bundles.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/594269_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "150"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-394",
+    "name": "Surging Sparks Sleeved Booster Case",
+    "type": "Sleeved Booster Case",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "593687",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593687_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "144"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-395",
+    "name": "Surging Sparks Single Pack Blister [Sinistcha]",
+    "type": "Single Pack Blister",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "606614",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/606614_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv06-020",
+      "sv06-022 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-396",
+    "name": "Surging Sparks Build & Battle Box",
+    "type": "Build & Battle Box",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565599",
+    "cardmarket_id": 784966,
+    "cardtrader_id": 299922,
+    "description": "Each Build & Battle Box contains a 40-card ready-to-play deck, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565599_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "4"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-397",
+    "name": "Surging Sparks Premium Checklane Blister [Chandelure]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "565639",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/565639_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv06-036",
+      "sv06-037",
+      "sv06-38 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-398",
+    "name": "Surging Sparks 3-Pack Blister Case",
+    "type": "3-Pack Blister Case",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "711388",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister Case contains 24 3-Pack Blisters.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711388_in_1000x1000.jpg",
+    "packs": {
+      "sv08": "72"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-399",
+    "name": "Surging Sparks Fun Pack",
+    "type": "Fun Pack",
+    "release_date": "2024-11-08",
+    "tcgplayer_id": "628641",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Fun Pack contains 3 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/628641_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
   }
 ]
