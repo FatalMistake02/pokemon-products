@@ -9574,5 +9574,479 @@
     ],
     "damage_markers": null,
     "other": null
+  },
+  {
+    "id": "darkness-ablaze-booster-pack",
+    "name": "Darkness Ablaze Booster Pack",
+    "type": "Booster Pack",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "216852",
+    "cardmarket_id": 462244,
+    "cardtrader_id": 144699,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/216852_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-elite-trainer-box",
+    "name": "Darkness Ablaze Elite Trainer Box",
+    "type": "Elite Trainer Box",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "216856",
+    "cardmarket_id": 462229,
+    "cardtrader_id": 144703,
+    "description": "Each Elite Trainer Box contains 8 booster packs, 65 card sleeves, 45 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 acrylic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/216856_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "8"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-sleeved-booster-pack",
+    "name": "Darkness Ablaze Sleeved Booster Pack",
+    "type": "Sleeved Booster Pack",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "257320",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/257320_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-fun-pack",
+    "name": "Darkness Ablaze Fun Pack",
+    "type": "Fun Pack",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "653206",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Fun Pack contains 3 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653206_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-booster-box",
+    "name": "Darkness Ablaze Booster Box",
+    "type": "Booster Box",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "216853",
+    "cardmarket_id": 462239,
+    "cardtrader_id": 144700,
+    "description": "Each Booster Box contains 36 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/216853_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "36"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-single-pack-blister-pikachu",
+    "name": "Darkness Ablaze Single Pack Blister [Pikachu]",
+    "type": "Single Pack Blister",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "216860",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/216860_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH039 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-premium-checklane-blister-dragapult",
+    "name": "Darkness Ablaze Premium Checklane Blister [Dragapult]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "220108",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/220108_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swsh2-089",
+      "swsh2-090",
+      "swsh2-091"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "true-steel-premium-collection-zamazenta",
+    "name": "True Steel Premium Collection [Zamazenta]",
+    "type": null,
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "218840",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/218840_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": 6
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH034"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-booster-box-case",
+    "name": "Darkness Ablaze Booster Box Case",
+    "type": "Booster Box Case",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "256971",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Box Case contains 6 Booster Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/256971_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "216"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-premium-checklane-blister-grimmsnarl",
+    "name": "Darkness Ablaze Premium Checklane Blister [Grimmsnarl]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "220109",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/220109_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swsh2-123",
+      "swsh-124",
+      "swsh-125"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-theme-deck-galarian-darmanitan",
+    "name": "Darkness Ablaze Theme Deck [Galarian Darmanitan]",
+    "type": null,
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "216865",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/216865_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "galarian-sirfetch-d-v-box",
+    "name": "Galarian Sirfetch'd V Box",
+    "type": null,
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "220272",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/220272_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": 4
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH043",
+      "swshp-SWSH043 (Jumbo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-build-battle-box",
+    "name": "Darkness Ablaze Build & Battle Box",
+    "type": "Build & Battle Box",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "216861",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Build & Battle Box contains a 23-card Evolution pack, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/216861_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "4"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "eternatus-vmax-premium-collection",
+    "name": "Eternatus VMAX Premium Collection",
+    "type": null,
+    "release_date": null,
+    "tcgplayer_id": "220277",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/220277_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH044",
+      "swshp-SWSH045",
+      "swshp-SWSH45 (Jumbo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-theme-deck-galarian-sirfetch-d",
+    "name": "Darkness Ablaze Theme Deck [Galarian Sirfetch'd]",
+    "type": null,
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "216866",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/216866_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-single-pack-blister-hatenna",
+    "name": "Darkness Ablaze Single Pack Blister [Hatenna]",
+    "type": "Single Pack Blister",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "216859",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/216859_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH040"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-2-pack-blister",
+    "name": "Darkness Ablaze 2-Pack Blister",
+    "type": "2-Pack Blister",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "216863",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 2-Pack Blister contains 2 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/216863_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-build-battle-box-display",
+    "name": "Darkness Ablaze Build & Battle Box Display",
+    "type": "Build & Battle Box Display",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "216862",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/216862_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "40"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-3-pack-blister-flareon",
+    "name": "Darkness Ablaze 3-Pack Blister [Flareon]",
+    "type": "3-Pack Blister",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "216858",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/216858_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH041 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-elite-trainer-box-case",
+    "name": "Darkness Ablaze Elite Trainer Box Case",
+    "type": "Elite Trainer Box Case",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "266951",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/266951_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "90"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "true-steel-premium-collection-zacian",
+    "name": "True Steel Premium Collection [Zacian]",
+    "type": null,
+    "release_date": null,
+    "tcgplayer_id": "218839",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/218839_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH033"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-3-pack-blister-eevee",
+    "name": "Darkness Ablaze 3-Pack Blister [Eevee]",
+    "type": "3-Pack Blister",
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "216857",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/216857_in_1000x1000.jpg",
+    "packs": {
+      "swsh3": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH042 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "darkness-ablaze-theme-deck-display",
+    "name": "Darkness Ablaze Theme Deck Display",
+    "type": null,
+    "release_date": "2020-08-14",
+    "tcgplayer_id": "216864",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/216864_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "sword-shield-single-pack-blister-silicobra-sandaconda",
+    "name": "Sword & Shield Single Pack Blister [Silicobra & Sandaconda]",
+    "type": "Single Pack Blister",
+    "release_date": "2020-02-07",
+    "tcgplayer_id": "668524",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668524_in_1000x1000.jpg",
+    "packs": {
+      "swsh1": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swsh1-107",
+      "swsh1-110"
+    ],
+    "damage_markers": null,
+    "other": null
   }
 ]
