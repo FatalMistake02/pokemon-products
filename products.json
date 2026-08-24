@@ -306,14 +306,14 @@
     "other": "1 Sticker, 1 Pokémon art card"
   },
   {
-    "id": "mega-evolution-single-pack-blister-lycanroc",
-    "name": "Mega Evolution Single Pack Blister [Lycanroc]",
-    "type": "Single Pack Blister",
+    "id": "mega-evolution-premium-checklane-blister-lycanroc",
+    "name": "Mega Evolution Premium Checklane Blister [Lycanroc]",
+    "type": "Premium Checklane Blister",
     "release_date": "2025-09-26",
     "tcgplayer_id": "657490",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657490_in_1000x1000.jpg",
     "packs": {
       "me01": 1
@@ -487,14 +487,14 @@
     "other": ""
   },
   {
-    "id": "mega-evolution-single-pack-blister-wailord",
-    "name": "Mega Evolution Single Pack Blister [Wailord]",
-    "type": "Single Pack Blister",
+    "id": "mega-evolution-premium-checklane-blister-wailord",
+    "name": "Mega Evolution Premium Checklane Blister [Wailord]",
+    "type": "Premium Checklane Blister",
     "release_date": "2025-09-26",
     "tcgplayer_id": "657489",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657489_in_1000x1000.jpg",
     "packs": {
       "me01": 1
@@ -1818,14 +1818,14 @@
     "other": null
   },
   {
-    "id": "chaos-rising-single-pack-blister-zacian-mimikyu",
-    "name": "Chaos Rising Single Pack Blister [Zacian/Mimikyu]",
-    "type": "Single Pack Blister",
+    "id": "chaos-rising-premium-checklane-blister-zacian-mimikyu",
+    "name": "Chaos Rising Premium Checklane Blister [Zacian/Mimikyu]",
+    "type": "Premium Checklane Blister",
     "release_date": "2026-05-22",
     "tcgplayer_id": "696144",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696144_in_1000x1000.jpg",
     "packs": {
       "me04": 1
@@ -1863,14 +1863,14 @@
     "other": null
   },
   {
-    "id": "chaos-rising-single-pack-blister-reshiram-moltres",
-    "name": "Chaos Rising Single Pack Blister [Reshiram/Moltres]",
-    "type": "Single Pack Blister",
+    "id": "chaos-rising-premium-checklane-blister-reshiram-moltres",
+    "name": "Chaos Rising Premium Checklane Blister [Reshiram/Moltres]",
+    "type": "Premium Checklane Blister",
     "release_date": "2026-05-22",
     "tcgplayer_id": "696150",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696150_in_1000x1000.jpg",
     "packs": {
       "me04": 1
@@ -3733,14 +3733,14 @@
     "other": null
   },
   {
-    "id": "paldea-evolved-single-pack-blister-dondonzo",
-    "name": "Paldea Evolved Single Pack Blister [Dondonzo]",
-    "type": "Single Pack Blister",
+    "id": "paldea-evolved-premium-checklane-blister-dondonzo",
+    "name": "Paldea Evolved Premium Checklane Blister [Dondonzo]",
+    "type": "Premium Checklane Blister",
     "release_date": "2023-06-09",
     "tcgplayer_id": "617015",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617015_in_1000x1000.jpg",
     "packs": {
       "sv02": "1"
@@ -3778,14 +3778,14 @@
     "other": null
   },
   {
-    "id": "paldea-evolved-single-pack-blister-armarouge",
-    "name": "Paldea Evolved Single Pack Blister [Armarouge]",
-    "type": "Single Pack Blister",
+    "id": "paldea-evolved-premium-checklane-blister-armarouge",
+    "name": "Paldea Evolved Premium Checklane Blister [Armarouge]",
+    "type": "Premium Checklane Blister",
     "release_date": "2023-06-09",
     "tcgplayer_id": "618829",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/618829_in_1000x1000.jpg",
     "packs": {
       "sv02": "1"
@@ -5404,14 +5404,14 @@
     "other": null
   },
   {
-    "id": "paradox-rift-single-pack-blister-ceruledge",
-    "name": "Paradox Rift Single Pack Blister [Ceruledge]",
-    "type": "Single Pack Blister",
+    "id": "paradox-rift-premium-checklane-blister-ceruledge",
+    "name": "Paradox Rift Premium Checklane Blister [Ceruledge]",
+    "type": "Premium Checklane Blister",
     "release_date": "2023-11-03",
     "tcgplayer_id": "625582",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/625582_in_1000x1000.jpg",
     "packs": {
       "sv04": "1"
@@ -5426,14 +5426,14 @@
     "other": null
   },
   {
-    "id": "paradox-rift-single-pack-blister-glimmora",
-    "name": "Paradox Rift Single Pack Blister [Glimmora]",
-    "type": "Single Pack Blister",
+    "id": "paradox-rift-premium-checklane-blister-glimmora",
+    "name": "Paradox Rift Premium Checklane Blister [Glimmora]",
+    "type": "Premium Checklane Blister",
     "release_date": "2023-11-03",
     "tcgplayer_id": "625581",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/625581_in_1000x1000.jpg",
     "packs": {
       "sv04": "1"
@@ -6223,14 +6223,14 @@
     "other": null
   },
   {
-    "id": "temporal-forces-single-pack-blister-scovillain",
-    "name": "Temporal Forces Single Pack Blister [Scovillain]",
-    "type": "Single Pack Blister",
+    "id": "temporal-forces-premium-checklane-blister-scovillain",
+    "name": "Temporal Forces Premium Checklane Blister [Scovillain]",
+    "type": "Premium Checklane Blister",
     "release_date": "2024-03-22",
     "tcgplayer_id": "617011",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617011_in_1000x1000.jpg",
     "packs": {
       "sv05": "1"
@@ -6340,14 +6340,14 @@
     "other": null
   },
   {
-    "id": "temporal-forces-single-pack-blister-palafin",
-    "name": "Temporal Forces Single Pack Blister [Palafin]",
-    "type": "Single Pack Blister",
+    "id": "temporal-forces-premium-checklane-blister-palafin",
+    "name": "Temporal Forces Premium Checklane Blister [Palafin]",
+    "type": "Premium Checklane Blister",
     "release_date": "2024-03-22",
     "tcgplayer_id": "617012",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo card, and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617012_in_1000x1000.jpg",
     "packs": {
       "sv05": "1"
@@ -7966,14 +7966,14 @@
     "other": null
   },
   {
-    "id": "surging-sparks-single-pack-blister-hisuian-arcanine",
-    "name": "Surging Sparks Single Pack Blister [Hisuian Arcanine]",
-    "type": "Single Pack Blister",
+    "id": "surging-sparks-premium-checklane-blister-hisuian-arcanine",
+    "name": "Surging Sparks Premium Checklane Blister [Hisuian Arcanine]",
+    "type": "Premium Checklane Blister",
     "release_date": "2024-11-08",
     "tcgplayer_id": "606613",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/606613_in_1000x1000.jpg",
     "packs": {
       "sv08": "1"
@@ -8045,14 +8045,14 @@
     "other": null
   },
   {
-    "id": "surging-sparks-single-pack-blister-sinistcha",
-    "name": "Surging Sparks Single Pack Blister [Sinistcha]",
-    "type": "Single Pack Blister",
+    "id": "surging-sparks-premium-checklane-blister-sinistcha",
+    "name": "Surging Sparks Premium Checklane Blister [Sinistcha]",
+    "type": "Premium Checklane Blister",
     "release_date": "2024-11-08",
     "tcgplayer_id": "606614",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/606614_in_1000x1000.jpg",
     "packs": {
       "sv08": "1"
@@ -8461,14 +8461,14 @@
     "other": null
   },
   {
-    "id": "journey-together-single-pack-blister-melmetal",
-    "name": "Journey Together Single Pack Blister [Melmetal]",
-    "type": "Single Pack Blister",
+    "id": "journey-together-premium-checklane-blister-melmetal",
+    "name": "Journey Together Premium Checklane Blister [Melmetal]",
+    "type": "Premium Checklane Blister",
     "release_date": "2025-03-28",
     "tcgplayer_id": "626630",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/626630_in_1000x1000.jpg",
     "packs": {
       "sv09": "1"
@@ -8483,14 +8483,14 @@
     "other": null
   },
   {
-    "id": "journey-together-single-pack-blister-archaludon",
-    "name": "Journey Together Single Pack Blister [Archaludon]",
-    "type": "Single Pack Blister",
+    "id": "journey-together-premium-checklane-blister-archaludon",
+    "name": "Journey Together Premium Checklane Blister [Archaludon]",
+    "type": "Premium Checklane Blister",
     "release_date": "2025-03-28",
     "tcgplayer_id": "626562",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/626562_in_1000x1000.jpg",
     "packs": {
       "sv09": "1"
@@ -9532,14 +9532,14 @@
     "other": null
   },
   {
-    "id": "sword-shield-single-pack-blister-galarian-meowth-galarian-perrserker",
-    "name": "Sword & Shield Single Pack Blister [Galarian Meowth & Galarian Perrserker]",
-    "type": "Single Pack Blister",
+    "id": "sword-shield-premium-checklane-blister-galarian-meowth-galarian-perrserker",
+    "name": "Sword & Shield Premium Checklane Blister [Galarian Meowth & Galarian Perrserker]",
+    "type": "Premium Checklane Blister",
     "release_date": "2020-02-07",
     "tcgplayer_id": "668520",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668520_in_1000x1000.jpg",
     "packs": {
       "swsh1": "1"
@@ -9554,14 +9554,14 @@
     "other": null
   },
   {
-    "id": "sword-shield-single-pack-blister-yamper-boltund",
-    "name": "Sword & Shield Single Pack Blister [Yamper & Boltund]",
-    "type": "Single Pack Blister",
+    "id": "sword-shield-premium-checklane-blister-yamper-boltund",
+    "name": "Sword & Shield Premium Checklane Blister [Yamper & Boltund]",
+    "type": "Premium Checklane Blister",
     "release_date": "2020-02-07",
     "tcgplayer_id": "668516",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668516_in_1000x1000.jpg",
     "packs": {
       "swsh1": "1"
@@ -10028,14 +10028,14 @@
     "other": null
   },
   {
-    "id": "sword-shield-single-pack-blister-silicobra-sandaconda",
-    "name": "Sword & Shield Single Pack Blister [Silicobra & Sandaconda]",
-    "type": "Single Pack Blister",
+    "id": "sword-shield-premium-checklane-blister-silicobra-sandaconda",
+    "name": "Sword & Shield Premium Checklane Blister [Silicobra & Sandaconda]",
+    "type": "Premium Checklane Blister",
     "release_date": "2020-02-07",
     "tcgplayer_id": "668524",
     "cardmarket_id": null,
     "cardtrader_id": null,
-    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
     "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668524_in_1000x1000.jpg",
     "packs": {
       "swsh1": "1"
