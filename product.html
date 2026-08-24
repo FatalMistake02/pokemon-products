@@ -11,6 +11,14 @@
     
     <div id="edit-form">
         <div style="margin-bottom: 15px; background: white; padding: 15px; border-radius: 8px;">
+            <label style="display: block; font-weight: bold; margin-bottom: 5px;">Product ID</label>
+            <input type="text" id="id" readonly style="width: 90%; padding: 8px; background: #eee;">
+        </div>
+        <div style="margin-bottom: 15px; background: white; padding: 15px; border-radius: 8px;">
+            <label style="display: block; font-weight: bold; margin-bottom: 5px;">Product Name</label>
+            <input type="text" id="name" oninput="document.getElementById('product-name').innerText = this.value || 'Product'" style="width: 90%; padding: 8px;">
+        </div>
+        <div style="margin-bottom: 15px; background: white; padding: 15px; border-radius: 8px;">
             <label style="display: block; font-weight: bold; margin-bottom: 5px;">Type</label>
             <input type="text" id="type" style="width: 90%; padding: 8px;">
         </div> 
@@ -24,11 +32,11 @@
         </div>
         <div style="margin-bottom: 15px; background: white; padding: 15px; border-radius: 8px;">
             <label style="display: block; font-weight: bold; margin-bottom: 5px;">Cardmarket ID</label>
-            <input type="text" id="tcgplayer_id" style="width: 90%; padding: 8px;">
+            <input type="text" id="cardmarket_id" style="width: 90%; padding: 8px;">
         </div>
         <div style="margin-bottom: 15px; background: white; padding: 15px; border-radius: 8px;">
             <label style="display: block; font-weight: bold; margin-bottom: 5px;">CardTrader ID</label>
-            <input type="text" id="tcgplayer_id" style="width: 90%; padding: 8px;">
+            <input type="text" id="cardtrader_id" style="width: 90%; padding: 8px;">
         </div>
         <div style="margin-bottom: 15px; background: white; padding: 15px; border-radius: 8px;">
             <label style="display: block; font-weight: bold; margin-bottom: 5px;">Image URL</label>
@@ -83,6 +91,8 @@
                 }
 
                 document.getElementById('product-name').innerText = p.name;
+                document.getElementById('id').value = p.id || productId || "";
+                document.getElementById('name').value = p.name || "";
                 document.getElementById('type').value = p.type || "";
                 document.getElementById('date').value = p.release_date || "";
                 document.getElementById('product-image').src = p.image_url;
@@ -105,8 +115,8 @@
         async function generateJson() {
             try {
                 const updated = {
-                    id: productId,
-                    name: document.getElementById('product-name').innerText,
+                    id: document.getElementById('id').value || productId,
+                    name: document.getElementById('name').value,
                     type: document.getElementById('type').value,
                     release_date: document.getElementById('date').value,
                     tcgplayer_id: document.getElementById('tcgplayer_id').value,
