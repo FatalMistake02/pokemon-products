@@ -34,7 +34,7 @@ def fetch_links(
     api_base: str,
     timeout: float,
     retries: int,
-) -> tuple[int | None, int | None]:
+) -> tuple[str | None, str | None]:
     """Return ``(cardmarket_id, cardtrader_id)`` for a TCGplayer product."""
     url = f"{api_base.rstrip('/')}/products/{tcgplayer_id}"
     request = Request(
@@ -62,7 +62,15 @@ def fetch_links(
                     f"API returned product {response_id!r} for TCGplayer ID {tcgplayer_id}"
                 )
 
-            return product.get("cardmarket_id"), product.get("cardtrader_id")
+            try:
+                cardmarket_id = normalize_marketplace_id(product.get("cardmarket_id"))
+                cardtrader_id = normalize_marketplace_id(product.get("cardtrader_id"))
+            except ValueError as error:
+                raise ApiError(
+                    f"Unexpected API response for TCGplayer ID {tcgplayer_id}: {error}"
+                ) from error
+
+            return cardmarket_id, cardtrader_id
         except HTTPError as error:
             if error.code == 404:
                 raise ApiError(f"TCGplayer ID {tcgplayer_id} was not found") from error
@@ -81,8 +89,8 @@ def fetch_links(
 
 def add_link_fields(
     product: dict[str, Any],
-    cardmarket_id: int | None,
-    cardtrader_id: int | None,
+    cardmarket_id: str | None,
+    cardtrader_id: str | None,
 ) -> dict[str, Any]:
     """Place marketplace IDs directly after ``tcgplayer_id`` in a record."""
     linked: dict[str, Any] = {}
@@ -105,6 +113,18 @@ def normalize_tcgplayer_id(raw_id: Any) -> str | None:
     if not tcgplayer_id.isdecimal():
         raise ValueError(f"invalid TCGplayer ID {raw_id!r}")
     return tcgplayer_id
+
+
+def normalize_marketplace_id(raw_id: Any) -> str | None:
+    """Normalize a marketplace ID to the string representation used in JSON."""
+    if raw_id is None:
+        return None
+    marketplace_id = str(raw_id).strip()
+    if not marketplace_id or marketplace_id.lower() in {"none", "null", "n/a"}:
+        return None
+    if not marketplace_id.isdecimal():
+        raise ValueError(f"invalid marketplace ID {raw_id!r}")
+    return marketplace_id
 
 
 def has_marketplace_id(raw_id: Any) -> bool:
@@ -230,7 +250,7 @@ def main() -> int:
         "a TCGplayer ID will be skipped)..."
     )
 
-    links: dict[str, tuple[int | None, int | None]] = {}
+    links: dict[str, tuple[str | None, str | None]] = {}
     errors: list[str] = []
     with ThreadPoolExecutor(max_workers=args.workers) as executor:
         futures = {
