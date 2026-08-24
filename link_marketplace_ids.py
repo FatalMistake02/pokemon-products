@@ -1,8 +1,9 @@
 """Link TCGplayer, Cardmarket, and CardTrader IDs in a product JSON file.
 
-TCG Tracking uses the TCGplayer product ID as its product identifier. For every
-product in the input file, this script calls ``/v1/products/{tcgplayer_id}``
-and copies the returned Cardmarket and CardTrader IDs into the local record.
+TCG Tracking uses the TCGplayer product ID as its product identifier. For each
+product that still needs a marketplace ID, this script calls
+``/v1/products/{tcgplayer_id}`` and copies the returned Cardmarket and
+CardTrader IDs into the local record.
 """
 
 from __future__ import annotations
@@ -106,6 +107,13 @@ def normalize_tcgplayer_id(raw_id: Any) -> str | None:
     return tcgplayer_id
 
 
+def has_marketplace_id(raw_id: Any) -> bool:
+    """Return whether a marketplace ID contains a usable value."""
+    if raw_id is None:
+        return False
+    return str(raw_id).strip().lower() not in {"", "none", "null", "n/a"}
+
+
 def atomic_json_dump(data: Any, output_path: Path) -> None:
     """Write JSON without exposing a partially written destination file."""
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -143,6 +151,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--workers", type=int, default=8)
     parser.add_argument("--timeout", type=float, default=20.0)
     parser.add_argument("--retries", type=int, default=3)
+    parser.add_argument(
+        "--set",
+        dest="set_id",
+        metavar="SET_ID",
+        help="Only link products containing packs from this set",
+    )
     parser.add_argument("--api-base", default=DEFAULT_API_BASE, help=argparse.SUPPRESS)
     parser.add_argument(
         "--dry-run",
@@ -175,7 +189,21 @@ def main() -> int:
     products_by_tcgplayer_id: dict[str, list[int]] = {}
     invalid_ids: list[str] = []
     missing_id_count = 0
+    already_linked_count = 0
+    outside_set_count = 0
     for index, product in enumerate(products):
+        packs = product.get("packs")
+        if args.set_id and (
+            not isinstance(packs, dict) or args.set_id not in packs
+        ):
+            outside_set_count += 1
+            continue
+        if (
+            has_marketplace_id(product.get("cardmarket_id"))
+            and has_marketplace_id(product.get("cardtrader_id"))
+        ):
+            already_linked_count += 1
+            continue
         try:
             tcgplayer_id = normalize_tcgplayer_id(product.get("tcgplayer_id"))
         except ValueError as error:
@@ -191,10 +219,15 @@ def main() -> int:
             print(f"error: {error}", file=sys.stderr)
         return 1
 
+    selected_count = len(products) - outside_set_count
+    lookup_count = sum(len(indexes) for indexes in products_by_tcgplayer_id.values())
+    scope = f" in set {args.set_id}" if args.set_id else ""
+    print(f"Selected {selected_count} products{scope}.")
     print(
         f"Looking up {len(products_by_tcgplayer_id)} unique TCGplayer IDs "
-        f"for {len(products) - missing_id_count} products "
-        f"({missing_id_count} without an ID will be skipped)..."
+        f"for {lookup_count} products "
+        f"({already_linked_count} already linked and {missing_id_count} without "
+        "a TCGplayer ID will be skipped)..."
     )
 
     links: dict[str, tuple[int | None, int | None]] = {}

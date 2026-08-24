@@ -22,7 +22,12 @@ python link_marketplace_ids.py
 ```
 
 This uses the [TCG Tracking API](https://openapi.tcgtracking.com/) and updates
-`products.json`.
+`products.json`. Products that already have both marketplace IDs are skipped.
+To link products from only one set, pass its set ID:
+
+```sh
+python link_marketplace_ids.py --set sv01
+```
 
 You can use this data in any way you like for any purpose
 
