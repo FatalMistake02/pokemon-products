@@ -10048,5 +10048,433 @@
     ],
     "damage_markers": null,
     "other": null
+  },
+  {
+    "id": "vivid-voltage-booster-pack",
+    "name": "Vivid Voltage Booster Pack",
+    "type": "Booster Pack",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "221312",
+    "cardmarket_id": 494514,
+    "cardtrader_id": 149522,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/221312_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-sleeved-booster-pack",
+    "name": "Vivid Voltage Sleeved Booster Pack",
+    "type": "Sleeved Booster Pack",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "245143",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/245143_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-booster-box",
+    "name": "Vivid Voltage Booster Box",
+    "type": "Booster Box",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "221313",
+    "cardmarket_id": 494509,
+    "cardtrader_id": 149517,
+    "description": "Each Booster Box contains 36 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/221313_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "36"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-elite-trainer-box",
+    "name": "Vivid Voltage Elite Trainer Box",
+    "type": "Elite Trainer Box",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "221752",
+    "cardmarket_id": 494499,
+    "cardtrader_id": 149518,
+    "description": "Each Elite Trainer Box contains 8 booster packs, 65 card sleeves, 45 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 acrylic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/221752_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "9"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-build-battle-box",
+    "name": "Vivid Voltage Build & Battle Box",
+    "type": "Build & Battle Box",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "221748",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Build & Battle Box contains a 23-card Evolution pack, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/221748_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "4"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-theme-deck-charizard",
+    "name": "Vivid Voltage Theme Deck [Charizard]",
+    "type": null,
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "221750",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/221750_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "alakazam-v-box",
+    "name": "Alakazam V Box",
+    "type": null,
+    "release_date": null,
+    "tcgplayer_id": "228979",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/228979_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": 4
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH083",
+      "swshp-SWSH083 (Jumbo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-theme-deck-drednaw",
+    "name": "Vivid Voltage Theme Deck [Drednaw]",
+    "type": null,
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "221751",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/221751_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "orbeetle-v-box",
+    "name": "Orbeetle V Box",
+    "type": null,
+    "release_date": null,
+    "tcgplayer_id": "226137",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/226137_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": 4
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH078",
+      "swshp-SWSH078 (Jumbo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "fall-2020-collector-s-chest",
+    "name": "Fall 2020 Collector's Chest",
+    "type": null,
+    "release_date": null,
+    "tcgplayer_id": "222985",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/222985_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-build-battle-box-display",
+    "name": "Vivid Voltage Build & Battle Box Display",
+    "type": "Build & Battle Box Display",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "221749",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/221749_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "40"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-single-pack-blister-grookey",
+    "name": "Vivid Voltage Single Pack Blister [Grookey]",
+    "type": "Single Pack Blister",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "221746",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/221746_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH070 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-premium-checklane-blister-appletun",
+    "name": "Vivid Voltage Premium Checklane Blister [Appletun]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "230087",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/230087_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swsh4-020",
+      "swsh4-023"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-3-pack-blister-vaporeon",
+    "name": "Vivid Voltage 3-Pack Blister [Vaporeon]",
+    "type": "3-Pack Blister",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "221745",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/221745_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH072"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-booster-box-case",
+    "name": "Vivid Voltage Booster Box Case",
+    "type": "Booster Box Case",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "243051",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Box Case contains 6 Booster Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/243051_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "216"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-sleeved-booster-case",
+    "name": "Vivid Voltage Sleeved Booster Case",
+    "type": "Sleeved Booster Case",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "653200",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653200_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "144"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-theme-deck-display",
+    "name": "Vivid Voltage Theme Deck Display",
+    "type": null,
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "231693",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/231693_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-single-pack-blister-scorbunny",
+    "name": "Vivid Voltage Single Pack Blister [Scorbunny]",
+    "type": "Single Pack Blister",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "221747",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/221747_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH071"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-elite-trainer-box-case",
+    "name": "Vivid Voltage Elite Trainer Box Case",
+    "type": "Elite Trainer Box Case",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "278642",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/278642_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "90"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-3-pack-blister-sobble",
+    "name": "Vivid Voltage 3-Pack Blister [Sobble]",
+    "type": "3-Pack Blister",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "221744",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/221744_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH073 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "alakazam-v-box-case",
+    "name": "Alakazam V Box Case",
+    "type": null,
+    "release_date": null,
+    "tcgplayer_id": "683003",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/683003_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "vivid-voltage-premium-checklane-blister-weezing",
+    "name": "Vivid Voltage Premium Checklane Blister [Weezing]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2020-11-13",
+    "tcgplayer_id": "230088",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/230088_in_1000x1000.jpg",
+    "packs": {
+      "swsh4": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swsh2-122",
+      "swsh2-133"
+    ],
+    "damage_markers": null,
+    "other": null
   }
 ]
