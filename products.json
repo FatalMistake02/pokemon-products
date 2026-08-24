@@ -8162,5 +8162,487 @@
     "promos": null,
     "damage_markers": null,
     "other": null
+  },
+  {
+    "id": "product-400",
+    "name": "Journey Together Booster Pack",
+    "type": "Booster Pack",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "610935",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/610935_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-401",
+    "name": "Journey Together Booster Bundle",
+    "type": "Booster Bundle",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "610953",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Bundle contains 6 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/610953_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "6"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-402",
+    "name": "Journey Together Elite Trainer Box",
+    "type": "Elite Trainer Box",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "610930",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/610930_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "9"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-189"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-403",
+    "name": "Journey Together Enhanced Booster Box",
+    "type": "Enhanced Booster Box",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "623628",
+    "cardmarket_id": 805580,
+    "cardtrader_id": 316517,
+    "description": "Each Enhanced Booster Box contains 36 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/623628_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "36"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv09-167 (Expansion Stamp)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-404",
+    "name": "Journey Together Sleeved Booster Pack",
+    "type": "Sleeved Booster Pack",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "610934",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/610934_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-405",
+    "name": "Journey Together Booster Box",
+    "type": "Booster Box",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "610931",
+    "cardmarket_id": 805579,
+    "cardtrader_id": 316516,
+    "description": "Each Booster Box contains 36 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/610931_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "36"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-406",
+    "name": "Journey Together Fun Pack",
+    "type": "Fun Pack",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "647762",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Fun Pack contains 3 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/647762_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-407",
+    "name": "Journey Together Pokemon Center Elite Trainer Box (Exclusive)",
+    "type": "Pokemon Center Elite Trainer Box",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "610929",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Pokemon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/610929_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "11"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-189 (Pokemon Center Stamp)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-408",
+    "name": "Journey Together Build & Battle Box",
+    "type": "Build & Battle Box",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "610954",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Build & Battle Box contains a 40-card ready-to-play deck, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/610954_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "4"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-409",
+    "name": "Journey Together 3-Pack Blister [Scrafty]",
+    "type": "3-Pack Blister",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "610948",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/610948_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-188 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-410",
+    "name": "Journey Together 3-Pack Blister [Yanmega]",
+    "type": "3-Pack Blister",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "610940",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/610940_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-187 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-411",
+    "name": "Journey Together Single Pack Blister [Scraggy]",
+    "type": "Single Pack Blister",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "610949",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/610949_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-186 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-412",
+    "name": "Journey Together Enhanced Booster Box Case",
+    "type": "Enhanced Booster Box Case",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "625583",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Enhanced Booster Box Case contains 6 Enhanced Booster Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/625583_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "216"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-413",
+    "name": "Journey Together Single Pack Blister [Yanma]",
+    "type": "Single Pack Blister",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "610950",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/610950_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-185 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-414",
+    "name": "Journey Together Sleeved Booster Case",
+    "type": "Sleeved Booster Case",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "624925",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/624925_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "144"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-415",
+    "name": "Journey Together Build & Battle Box Display",
+    "type": "Build & Battle Box Display",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "629568",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629568_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "40"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-416",
+    "name": "Journey Together Single Pack Blister [Melmetal]",
+    "type": "Single Pack Blister",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "626630",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/626630_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv07-103",
+      "sv07-104 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-417",
+    "name": "Journey Together Single Pack Blister [Archaludon]",
+    "type": "Single Pack Blister",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "626562",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/626562_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv07-106",
+      "sv07-107 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-418",
+    "name": "Journey Together Elite Trainer Box Case",
+    "type": "Elite Trainer Box Case",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "614450",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/614450_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "90"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-419",
+    "name": "Journey Together Half Booster Box",
+    "type": "Half Booster Box",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "649492",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Half Booster Box contains 18 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649492_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "18"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-420",
+    "name": "Journey Together Premium Checklane Blister [Rhyperior]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "610951",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/610951_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv07-074",
+      "sv07-075",
+      "sv07-076 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-421",
+    "name": "Journey Together Premium Checklane Blister [Klinklang]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "610952",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/610952_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv07-099",
+      "sv07-100",
+      "sv07-101 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-422",
+    "name": "Journey Together Booster Box Case",
+    "type": "Booster Box Case",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "614449",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Box Case contains 6 Booster Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/614449_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "216"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-423",
+    "name": "Journey Together Booster Bundle Case",
+    "type": "Booster Bundle Case",
+    "release_date": "2025-03-28",
+    "tcgplayer_id": "625584",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Bundle Case contains 25 Booster Bundles.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/625584_in_1000x1000.jpg",
+    "packs": {
+      "sv09": "150"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
   }
 ]
