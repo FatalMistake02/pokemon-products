@@ -1,4 +1,4 @@
-Database of Pokémon products. View it [here](https://fatalmistake02.github.io/pokemon-products/) or download the products.json file.
+Database of Pokémon products. View it [here](https://fatalmistake02.github.io/pokemon-products/) or download the products.json file. [Status page](https://fatalmistake02.github.io/pokemon-products/status)
 
 For easily creating products run the server.
 You will need nodejs. |
