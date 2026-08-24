@@ -10,12 +10,12 @@
 
     <div style="margin-bottom: 15px; background: white; padding: 15px; border-radius: 8px; color: black;">
         <label style="display: block; font-weight: bold; margin-bottom: 5px;">Product ID (Auto-generated)</label>
-        <input type="text" id="id" style="width: 90%; padding: 8px;">
+        <input type="text" id="id" readonly style="width: 90%; padding: 8px; background: #eee;">
     </div >
 
     <div style="margin-bottom: 15px; background: white; padding: 15px; border-radius: 8px; color: black;">
         <label style="display: block; font-weight: bold; margin-bottom: 5px;">Product Name</label>
-        <input type="text" id="name" onblur="handleNameBlur()" style="width: 90%; padding: 8px;">
+        <input type="text" id="name" oninput="handleNameInput()" onblur="handleNameBlur()" style="width: 90%; padding: 8px;">
     </div >
 
     <div style="margin-bottom: 15px; background: white; padding: 15px; border-radius: 8px; color: black;">
@@ -88,6 +88,39 @@
     <script>
         let autofillData = [];
         let setsData = [];
+        let allProducts = [];
+
+        function slugifyProductName(name) {
+            return String(name || "")
+                .normalize('NFD')
+                .replace(/[\u0300-\u036f]/g, '')
+                .toLowerCase()
+                .replace(/[^a-z0-9]+/g, '-')
+                .replace(/^-+|-+$/g, '');
+        }
+
+        function generateUniqueProductId(name) {
+            const baseId = slugifyProductName(name);
+            if (!baseId) return "";
+
+            const existingIds = new Set(allProducts.map(product => product.id).filter(Boolean));
+            if (!existingIds.has(baseId)) return baseId;
+
+            let suffix = 2;
+            while (existingIds.has(`${baseId}-${suffix}`)) {
+                suffix += 1;
+            }
+            return `${baseId}-${suffix}`;
+        }
+
+        function updateProductIdFromName() {
+            const nameValue = document.getElementById('name').value;
+            document.getElementById('id').value = generateUniqueProductId(nameValue);
+        }
+
+        function handleNameInput() {
+            updateProductIdFromName();
+        }
 
         function safeParseJson(id, defaultValue = null) {
             const val = document.getElementById(id).value;
@@ -141,6 +174,8 @@
         }
 
         function handleNameBlur() {
+            updateProductIdFromName();
+
             const nameValue = document.getElementById('name').value.trim();
             if (!nameValue) return;
 
@@ -197,20 +232,9 @@
             try {
                 const response = await fetch('products.json'); 
                 const products = await response.json();
-                if (Array.isArray(products) && products.length > 0) {
-                    let maxId = 0;
-                    products.forEach(product => {
-                        const idMatch = product.id.match(/\d+/); 
-                        if (idMatch) {
-                            const idNumber = parseInt(idMatch[0]);
-                            if (idNumber > maxId) maxId = idNumber;
-                        }
-                    });
-                    document.getElementById('id').value = `product-${maxId + 1}`;
-                } else {
-                    document.getElementById('id').value = 'product-1';
-                }
-            } catch (e) { document.getElementById('id').value = 'product-1'; }
+                allProducts = Array.isArray(products) ? products : [];
+                updateProductIdFromName();
+            } catch (e) { allProducts = []; }
 
             try {
                 const autofillResponse = await fetch('autofill.json');
@@ -226,7 +250,7 @@
         async function generateJson() {
             try {
                 const newProduct = {
-                    id: document.getElementById('id').value || null,
+                    id: generateUniqueProductId(document.getElementById('name').value) || null,
                     name: document.getElementById('name').value || null,
                     type: document.getElementById('type').value || null,
                     release_date: document.getElementById('date').value || null,

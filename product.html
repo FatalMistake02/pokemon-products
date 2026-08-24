@@ -16,7 +16,7 @@
         </div>
         <div style="margin-bottom: 15px; background: white; padding: 15px; border-radius: 8px;">
             <label style="display: block; font-weight: bold; margin-bottom: 5px;">Product Name</label>
-            <input type="text" id="name" oninput="document.getElementById('product-name').innerText = this.value || 'Product'" style="width: 90%; padding: 8px;">
+            <input type="text" id="name" oninput="handleNameInput()" style="width: 90%; padding: 8px;">
         </div>
         <div style="margin-bottom: 15px; background: white; padding: 15px; border-radius: 8px;">
             <label style="display: block; font-weight: bold; margin-bottom: 5px;">Type</label>
@@ -78,11 +78,48 @@
     <script>
         const params = new URLSearchParams(window.location.search);
         const productId = params.get('id');
+        let allProducts = [];
+        let originalProductId = productId;
+
+        function slugifyProductName(name) {
+            return String(name || "")
+                .normalize('NFD')
+                .replace(/[\u0300-\u036f]/g, '')
+                .toLowerCase()
+                .replace(/[^a-z0-9]+/g, '-')
+                .replace(/^-+|-+$/g, '');
+        }
+
+        function generateUniqueProductId(name, currentId = null) {
+            const baseId = slugifyProductName(name);
+            if (!baseId) return "";
+
+            const existingIds = new Set(
+                allProducts
+                    .filter(product => product.id !== currentId)
+                    .map(product => product.id)
+                    .filter(Boolean)
+            );
+            if (!existingIds.has(baseId)) return baseId;
+
+            let suffix = 2;
+            while (existingIds.has(`${baseId}-${suffix}`)) {
+                suffix += 1;
+            }
+            return `${baseId}-${suffix}`;
+        }
+
+        function handleNameInput() {
+            const nameValue = document.getElementById('name').value;
+            document.getElementById('product-name').innerText = nameValue || 'Product';
+            document.getElementById('id').value = generateUniqueProductId(nameValue, originalProductId);
+        }
 
         async function loadProduct() {
             try {
                 const response = await fetch('products.json');
                 const products = await response.json();
+                allProducts = Array.isArray(products) ? products : [];
                 const p = products.find(product => product.id === productId);
 
                 if (!p) {
@@ -90,6 +127,7 @@
                     return;
                 }
 
+                originalProductId = p.id || productId;
                 document.getElementById('product-name').innerText = p.name;
                 document.getElementById('id').value = p.id || productId || "";
                 document.getElementById('name').value = p.name || "";
@@ -107,6 +145,7 @@
                 document.getElementById('damage_markers').value = p.damage_markers || "";
                 document.getElementById('promos').value = p.promos ? p.promos.join(', ') : "";
                 document.getElementById('other').value = p.other || "";
+                handleNameInput();
             } catch (e) {
                 console.error("Error loading product:", e);
             }
@@ -115,7 +154,7 @@
         async function generateJson() {
             try {
                 const updated = {
-                    id: document.getElementById('id').value || productId,
+                    id: generateUniqueProductId(document.getElementById('name').value, originalProductId) || productId,
                     name: document.getElementById('name').value,
                     type: document.getElementById('type').value,
                     release_date: document.getElementById('date').value,
@@ -138,7 +177,7 @@
                     const response = await fetch('http://localhost:3000/update-products', {
                         method: 'POST',
                         headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify(updated)
+                        body: JSON.stringify({ ...updated, original_id: originalProductId })
                     });
 
                     if (response.ok) {
