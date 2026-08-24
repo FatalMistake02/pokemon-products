@@ -101,19 +101,27 @@
             return val.split(',').map(s => s.trim()).filter(s => s !== "");
         }
 
-        function findSetIdByName(name) {
+        function findSetByName(name) {
             if (!name) return null;
             const lowercaseName = name.toLowerCase();
-            const match = setsData.find(set => lowercaseName.includes(set.name.toLowerCase()));
-            return match ? match.id : null;
+            return [...setsData]
+                .sort((a, b) => b.name.length - a.name.length)
+                .find(set => lowercaseName.includes(set.name.toLowerCase())) || null;
+        }
+
+        function updateReleaseDateWithSet(set) {
+            if (!set || set.id.includes('.5') || !set.releaseDate) return;
+            document.getElementById('date').value = set.releaseDate;
         }
 
         // UPDATED: This now replaces the KEY "set" with the set ID
         function updatePacksWithSetId() {
             const currentProductName = document.getElementById('name').value;
-            const setId = findSetIdByName(currentProductName);
+            const set = findSetByName(currentProductName);
             
-            if (setId) {
+            if (set) {
+                updateReleaseDateWithSet(set);
+
                 const packsField = document.getElementById('packs');
                 try {
                     let packsObj = JSON.parse(packsField.value || "{}");
@@ -122,7 +130,7 @@
                     if (packsObj && typeof packsObj === 'object' && packsObj.hasOwnProperty('set')) {
                         const count = packsObj['set']; // Store the number (e.g. 150)
                         delete packsObj['set'];        // Remove the key "set"
-                        packsObj[setId] = count;       // Create a new key using the setId (e.g. "me01")
+                        packsObj[set.id] = count;      // Create a new key using the set ID (e.g. "me01")
                         
                         packsField.value = JSON.stringify(packsObj);
                     }

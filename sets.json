@@ -1,123 +1,153 @@
 [
   {
     "id": "miscp",
-    "name": "Miscellaneous Promos"
+    "name": "Miscellaneous Promos",
+    "releaseDate": "1996-01-01"
   },
   {
     "id": "base1",
-    "name": "Base Set"
+    "name": "Base Set",
+    "releaseDate": "1999-01-09"
   },
   {
     "id": "base2",
-    "name": "Jungle"
+    "name": "Jungle",
+    "releaseDate": "1999-06-16"
   },
   {
     "id": "basep",
-    "name": "Wizards Black Star Promos"
+    "name": "Wizards Black Star Promos",
+    "releaseDate": "1999-07-01"
   },
   {
     "id": "wp",
-    "name": "W Promotional"
+    "name": "W Promotional",
+    "releaseDate": "1999-09-01"
   },
   {
     "id": "base3",
-    "name": "Fossil"
+    "name": "Fossil",
+    "releaseDate": "1999-10-10"
   },
   {
     "id": "jumbo",
-    "name": "Jumbo cards"
+    "name": "Jumbo cards",
+    "releaseDate": "2000-02-01"
   },
   {
     "id": "base4",
-    "name": "Base Set 2"
+    "name": "Base Set 2",
+    "releaseDate": "2000-02-24"
   },
   {
     "id": "base5",
-    "name": "Team Rocket"
+    "name": "Team Rocket",
+    "releaseDate": "2000-04-24"
   },
   {
     "id": "gym1",
-    "name": "Gym Heroes"
+    "name": "Gym Heroes",
+    "releaseDate": "2000-08-14"
   },
   {
     "id": "gym2",
-    "name": "Gym Challenge"
+    "name": "Gym Challenge",
+    "releaseDate": "2000-10-16"
   },
   {
     "id": "neo1",
-    "name": "Neo Genesis"
+    "name": "Neo Genesis",
+    "releaseDate": "2000-12-16"
   },
   {
     "id": "neo2",
-    "name": "Neo Discovery"
+    "name": "Neo Discovery",
+    "releaseDate": "2001-06-01"
   },
   {
     "id": "si1",
-    "name": "Southern Islands"
+    "name": "Southern Islands",
+    "releaseDate": "2001-07-31"
   },
   {
     "id": "neo3",
-    "name": "Neo Revelation"
+    "name": "Neo Revelation",
+    "releaseDate": "2001-09-21"
   },
   {
     "id": "neo4",
-    "name": "Neo Destiny"
+    "name": "Neo Destiny",
+    "releaseDate": "2002-02-28"
   },
   {
     "id": "lc",
-    "name": "Legendary Collection"
+    "name": "Legendary Collection",
+    "releaseDate": "2002-05-24"
   },
   {
     "id": "sp",
-    "name": "Sample"
+    "name": "Sample",
+    "releaseDate": "2002-08-01"
   },
   {
     "id": "ecard1",
-    "name": "Expedition Base Set"
+    "name": "Expedition Base Set",
+    "releaseDate": "2002-09-15"
   },
   {
     "id": "bog",
-    "name": "Best of game"
+    "name": "Best of game",
+    "releaseDate": "2002-12-01"
   },
   {
     "id": "ecard2",
-    "name": "Aquapolis"
+    "name": "Aquapolis",
+    "releaseDate": "2003-01-15"
   },
   {
     "id": "ecard3",
-    "name": "Skyridge"
+    "name": "Skyridge",
+    "releaseDate": "2003-05-12"
   },
   {
     "id": "ex1",
-    "name": "Ruby & Sapphire"
+    "name": "Ruby & Sapphire",
+    "releaseDate": "2003-07-01"
   },
   {
     "id": "ex2",
-    "name": "Sandstorm"
+    "name": "Sandstorm",
+    "releaseDate": "2003-09-18"
   },
   {
     "id": "np",
-    "name": "Nintendo Black Star Promos"
+    "name": "Nintendo Black Star Promos",
+    "releaseDate": "2003-10-01"
   },
   {
     "id": "ex3",
-    "name": "Dragon"
+    "name": "Dragon",
+    "releaseDate": "2003-11-24"
   },
   {
     "id": "ex4",
-    "name": "Team Magma vs Team Aqua"
+    "name": "Team Magma vs Team Aqua",
+    "releaseDate": "2004-03-01"
   },
   {
     "id": "ex5",
-    "name": "Hidden Legends"
+    "name": "Hidden Legends",
+    "releaseDate": "2004-06-01"
   },
   {
     "id": "tk-ex-latia",
-    "name": "EX trainer Kit (Latias)"
+    "name": "EX trainer Kit (Latias)",
+    "releaseDate": "2004-07-01"
   },
   {
     "id": "tk-ex-latio",
-    "name": "EX trainer Kit (Latios)"
+    "name": "EX trainer Kit (Latios)",
+    "releaseDate": "2004-07-01"
   },
   {
     "id": "ex5.5",
@@ -125,399 +155,498 @@
   },
   {
     "id": "pop1",
-    "name": "POP Series 1"
+    "name": "POP Series 1",
+    "releaseDate": "2004-09-01"
   },
   {
     "id": "ex6",
-    "name": "FireRed & LeafGreen"
+    "name": "FireRed & LeafGreen",
+    "releaseDate": "2004-09-01"
   },
   {
     "id": "ex7",
-    "name": "Team Rocket Returns"
+    "name": "Team Rocket Returns",
+    "releaseDate": "2004-11-01"
   },
   {
     "id": "ex8",
-    "name": "Deoxys"
+    "name": "Deoxys",
+    "releaseDate": "2005-02-01"
   },
   {
     "id": "ex9",
-    "name": "Emerald"
+    "name": "Emerald",
+    "releaseDate": "2005-05-09"
   },
   {
     "id": "pop2",
-    "name": "POP Series 2"
+    "name": "POP Series 2",
+    "releaseDate": "2005-08-01"
   },
   {
     "id": "ex10",
-    "name": "Unseen Forces"
+    "name": "Unseen Forces",
+    "releaseDate": "2005-08-22"
   },
   {
     "id": "exu",
-    "name": "Unseen Forces Unown Collection"
+    "name": "Unseen Forces Unown Collection",
+    "releaseDate": "2005-08-22"
   },
   {
     "id": "ex11",
-    "name": "Delta Species"
+    "name": "Delta Species",
+    "releaseDate": "2005-10-31"
   },
   {
     "id": "ex12",
-    "name": "Legend Maker"
+    "name": "Legend Maker",
+    "releaseDate": "2006-02-13"
   },
   {
     "id": "tk-ex-m",
-    "name": "EX trainer Kit 2 (Minun)"
+    "name": "EX trainer Kit 2 (Minun)",
+    "releaseDate": "2006-03-01"
   },
   {
     "id": "tk-ex-p",
-    "name": "EX trainer Kit 2 (Plusle)"
+    "name": "EX trainer Kit 2 (Plusle)",
+    "releaseDate": "2006-03-01"
   },
   {
     "id": "pop3",
-    "name": "POP Series 3"
+    "name": "POP Series 3",
+    "releaseDate": "2006-04-01"
   },
   {
     "id": "ex13",
-    "name": "Holon Phantoms"
+    "name": "Holon Phantoms",
+    "releaseDate": "2006-05-03"
   },
   {
     "id": "pop4",
-    "name": "POP Series 4"
+    "name": "POP Series 4",
+    "releaseDate": "2006-08-01"
   },
   {
     "id": "ex14",
-    "name": "Crystal Guardians"
+    "name": "Crystal Guardians",
+    "releaseDate": "2006-08-30"
   },
   {
     "id": "ex15",
-    "name": "Dragon Frontiers"
+    "name": "Dragon Frontiers",
+    "releaseDate": "2006-11-08"
   },
   {
     "id": "ex16",
-    "name": "Power Keepers"
+    "name": "Power Keepers",
+    "releaseDate": "2007-02-17"
   },
   {
     "id": "pop5",
-    "name": "POP Series 5"
+    "name": "POP Series 5",
+    "releaseDate": "2007-03-01"
   },
   {
     "id": "dpp",
-    "name": "DP Black Star Promos"
+    "name": "DP Black Star Promos",
+    "releaseDate": "2007-05-01"
   },
   {
     "id": "dp1",
-    "name": "Diamond & Pearl"
+    "name": "Diamond & Pearl",
+    "releaseDate": "2007-05-01"
   },
   {
     "id": "dp2",
-    "name": "Mysterious Treasures"
+    "name": "Mysterious Treasures",
+    "releaseDate": "2007-08-01"
   },
   {
     "id": "tk-dp-l",
-    "name": "DP trainer Kit (Lucario)"
+    "name": "DP trainer Kit (Lucario)",
+    "releaseDate": "2007-09-01"
   },
   {
     "id": "tk-dp-m",
-    "name": "DP trainer Kit (Manaphy)"
+    "name": "DP trainer Kit (Manaphy)",
+    "releaseDate": "2007-09-01"
   },
   {
     "id": "pop6",
-    "name": "POP Series 6"
+    "name": "POP Series 6",
+    "releaseDate": "2007-09-01"
   },
   {
     "id": "dp3",
-    "name": "Secret Wonders"
+    "name": "Secret Wonders",
+    "releaseDate": "2007-11-01"
   },
   {
     "id": "dp4",
-    "name": "Great Encounters"
+    "name": "Great Encounters",
+    "releaseDate": "2008-02-01"
   },
   {
     "id": "pop7",
-    "name": "POP Series 7"
+    "name": "POP Series 7",
+    "releaseDate": "2008-03-01"
   },
   {
     "id": "dp5",
-    "name": "Majestic Dawn"
+    "name": "Majestic Dawn",
+    "releaseDate": "2008-05-01"
   },
   {
     "id": "dp6",
-    "name": "Legends Awakened"
+    "name": "Legends Awakened",
+    "releaseDate": "2008-08-01"
   },
   {
     "id": "pop8",
-    "name": "POP Series 8"
+    "name": "POP Series 8",
+    "releaseDate": "2008-09-01"
   },
   {
     "id": "dp7",
-    "name": "Stormfront"
+    "name": "Stormfront",
+    "releaseDate": "2008-11-01"
   },
   {
     "id": "pl1",
-    "name": "Platinum"
+    "name": "Platinum",
+    "releaseDate": "2009-02-11"
   },
   {
     "id": "pop9",
-    "name": "POP Series 9"
+    "name": "POP Series 9",
+    "releaseDate": "2009-03-01"
   },
   {
     "id": "pl2",
-    "name": "Rising Rivals"
+    "name": "Rising Rivals",
+    "releaseDate": "2009-05-16"
   },
   {
     "id": "pl3",
-    "name": "Supreme Victors"
+    "name": "Supreme Victors",
+    "releaseDate": "2009-08-19"
   },
   {
     "id": "pl4",
-    "name": "Arceus"
+    "name": "Arceus",
+    "releaseDate": "2009-11-04"
   },
   {
     "id": "ru1",
-    "name": "Pok\u00e9mon Rumble"
+    "name": "Pok\u00e9mon Rumble",
+    "releaseDate": "2009-12-02"
   },
   {
     "id": "hgss1",
-    "name": "HeartGold SoulSilver"
+    "name": "HeartGold SoulSilver",
+    "releaseDate": "2010-02-10"
   },
   {
     "id": "hgssp",
-    "name": "HGSS Black Star Promos"
+    "name": "HGSS Black Star Promos",
+    "releaseDate": "2010-02-11"
   },
   {
     "id": "tk-hs-r",
-    "name": "HS trainer Kit (Raichu)"
+    "name": "HS trainer Kit (Raichu)",
+    "releaseDate": "2010-05-01"
   },
   {
     "id": "tk-hs-g",
-    "name": "HS trainer Kit (Gyarados)"
+    "name": "HS trainer Kit (Gyarados)",
+    "releaseDate": "2010-05-01"
   },
   {
     "id": "hgss2",
-    "name": "Unleashed"
+    "name": "Unleashed",
+    "releaseDate": "2010-05-12"
   },
   {
     "id": "hgss3",
-    "name": "Undaunted"
+    "name": "Undaunted",
+    "releaseDate": "2010-08-18"
   },
   {
     "id": "hgss4",
-    "name": "Triumphant"
+    "name": "Triumphant",
+    "releaseDate": "2010-11-03"
   },
   {
     "id": "col1",
-    "name": "Call of Legends"
+    "name": "Call of Legends",
+    "releaseDate": "2011-02-09"
   },
   {
     "id": "bw1",
-    "name": "Black & White"
+    "name": "Black & White",
+    "releaseDate": "2011-04-25"
   },
   {
     "id": "bwp",
-    "name": "BW Black Star Promos"
+    "name": "BW Black Star Promos",
+    "releaseDate": "2011-04-26"
   },
   {
     "id": "2011bw",
-    "name": "McDonald's Collection 2011"
+    "name": "McDonald's Collection 2011",
+    "releaseDate": "2011-06-17"
   },
   {
     "id": "bw2",
-    "name": "Emerging Powers"
+    "name": "Emerging Powers",
+    "releaseDate": "2011-08-31"
   },
   {
     "id": "tk-bw-z",
-    "name": "BW trainer Kit (Zoroark)"
+    "name": "BW trainer Kit (Zoroark)",
+    "releaseDate": "2011-09-01"
   },
   {
     "id": "tk-bw-e",
-    "name": "BW trainer Kit (Excadrill)"
+    "name": "BW trainer Kit (Excadrill)",
+    "releaseDate": "2011-09-01"
   },
   {
     "id": "bw3",
-    "name": "Noble Victories"
+    "name": "Noble Victories",
+    "releaseDate": "2011-11-16"
   },
   {
     "id": "bw4",
-    "name": "Next Destinies"
+    "name": "Next Destinies",
+    "releaseDate": "2012-02-08"
   },
   {
     "id": "bw5",
-    "name": "Dark Explorers"
+    "name": "Dark Explorers",
+    "releaseDate": "2012-05-09"
   },
   {
     "id": "2012bw",
-    "name": "McDonald's Collection 2012"
+    "name": "McDonald's Collection 2012",
+    "releaseDate": "2012-06-15"
   },
   {
     "id": "bw6",
-    "name": "Dragons Exalted"
+    "name": "Dragons Exalted",
+    "releaseDate": "2012-08-15"
   },
   {
     "id": "dv1",
-    "name": "Dragon Vault"
+    "name": "Dragon Vault",
+    "releaseDate": "2012-10-05"
   },
   {
     "id": "bw7",
-    "name": "Boundaries Crossed"
+    "name": "Boundaries Crossed",
+    "releaseDate": "2012-11-07"
   },
   {
     "id": "bw8",
-    "name": "Plasma Storm"
+    "name": "Plasma Storm",
+    "releaseDate": "2013-02-06"
   },
   {
     "id": "bw9",
-    "name": "Plasma Freeze"
+    "name": "Plasma Freeze",
+    "releaseDate": "2013-05-08"
   },
   {
     "id": "bw10",
-    "name": "Plasma Blast"
+    "name": "Plasma Blast",
+    "releaseDate": "2013-08-14"
   },
   {
     "id": "xyp",
-    "name": "XY Black Star Promos"
+    "name": "XY Black Star Promos",
+    "releaseDate": "2013-10-12"
   },
   {
     "id": "rc",
-    "name": "Radiant Collection"
+    "name": "Radiant Collection",
+    "releaseDate": "2013-11-06"
   },
   {
     "id": "bw11",
-    "name": "Legendary Treasures"
+    "name": "Legendary Treasures",
+    "releaseDate": "2013-11-06"
   },
   {
     "id": "xy0",
-    "name": "Kalos Starter Set"
+    "name": "Kalos Starter Set",
+    "releaseDate": "2013-11-08"
   },
   {
     "id": "xya",
-    "name": "Yellow A Alternate"
+    "name": "Yellow A Alternate",
+    "releaseDate": "2014-02-05"
   },
   {
     "id": "xy1",
-    "name": "XY"
+    "name": "XY",
+    "releaseDate": "2014-02-05"
   },
   {
     "id": "tk-xy-sy",
-    "name": "XY trainer Kit (Sylveon)"
+    "name": "XY trainer Kit (Sylveon)",
+    "releaseDate": "2014-03-12"
   },
   {
     "id": "tk-xy-n",
-    "name": "XY trainer Kit (Noivern)"
+    "name": "XY trainer Kit (Noivern)",
+    "releaseDate": "2014-03-12"
   },
   {
     "id": "xy2",
-    "name": "Flashfire"
+    "name": "Flashfire",
+    "releaseDate": "2014-05-07"
   },
   {
     "id": "2014xy",
-    "name": "McDonald's Collection 2014"
+    "name": "McDonald's Collection 2014",
+    "releaseDate": "2014-05-23"
   },
   {
     "id": "xy3",
-    "name": "Furious Fists"
+    "name": "Furious Fists",
+    "releaseDate": "2014-08-13"
   },
   {
     "id": "tk-xy-b",
-    "name": "XY trainer Kit (Bisharp)"
+    "name": "XY trainer Kit (Bisharp)",
+    "releaseDate": "2014-11-01"
   },
   {
     "id": "tk-xy-w",
-    "name": "XY trainer Kit (Wigglytuff)"
+    "name": "XY trainer Kit (Wigglytuff)",
+    "releaseDate": "2014-11-01"
   },
   {
     "id": "xy4",
-    "name": "Phantom Forces"
+    "name": "Phantom Forces",
+    "releaseDate": "2014-11-05"
   },
   {
     "id": "xy5",
-    "name": "Primal Clash"
+    "name": "Primal Clash",
+    "releaseDate": "2015-02-04"
   },
   {
     "id": "dc1",
-    "name": "Double Crisis"
+    "name": "Double Crisis",
+    "releaseDate": "2015-03-25"
   },
   {
     "id": "tk-xy-latia",
-    "name": "XY trainer Kit (Latias)"
+    "name": "XY trainer Kit (Latias)",
+    "releaseDate": "2015-04-29"
   },
   {
     "id": "tk-xy-latio",
-    "name": "XY trainer Kit (Latios)"
+    "name": "XY trainer Kit (Latios)",
+    "releaseDate": "2015-04-29"
   },
   {
     "id": "xy6",
-    "name": "Roaring Skies"
+    "name": "Roaring Skies",
+    "releaseDate": "2015-05-06"
   },
   {
     "id": "xy7",
-    "name": "Ancient Origins"
+    "name": "Ancient Origins",
+    "releaseDate": "2015-08-12"
   },
   {
     "id": "xy8",
-    "name": "BREAKthrough"
+    "name": "BREAKthrough",
+    "releaseDate": "2015-11-04"
   },
   {
     "id": "2015xy",
-    "name": "McDonald's Collection 2015"
+    "name": "McDonald's Collection 2015",
+    "releaseDate": "2015-11-27"
   },
   {
     "id": "xy9",
-    "name": "BREAKpoint"
+    "name": "BREAKpoint",
+    "releaseDate": "2016-02-03"
   },
   {
     "id": "g1",
-    "name": "Generations"
+    "name": "Generations",
+    "releaseDate": "2016-02-22"
   },
   {
     "id": "tk-xy-su",
-    "name": "XY trainer Kit (Suicune)"
+    "name": "XY trainer Kit (Suicune)",
+    "releaseDate": "2016-04-27"
   },
   {
     "id": "tk-xy-p",
-    "name": "XY trainer Kit (Pikachu Libre)"
+    "name": "XY trainer Kit (Pikachu Libre)",
+    "releaseDate": "2016-04-27"
   },
   {
     "id": "xy10",
-    "name": "Fates Collide"
+    "name": "Fates Collide",
+    "releaseDate": "2016-05-02"
   },
   {
     "id": "xy11",
-    "name": "Steam Siege"
+    "name": "Steam Siege",
+    "releaseDate": "2016-08-03"
   },
   {
     "id": "2016xy",
-    "name": "McDonald's Collection 2016"
+    "name": "McDonald's Collection 2016",
+    "releaseDate": "2016-08-20"
   },
   {
     "id": "xy12",
-    "name": "Evolutions"
+    "name": "Evolutions",
+    "releaseDate": "2016-11-02"
   },
   {
     "id": "smp",
-    "name": "SM Black Star Promos"
+    "name": "SM Black Star Promos",
+    "releaseDate": "2017-02-03"
   },
   {
     "id": "sm1",
-    "name": "Sun & Moon"
+    "name": "Sun & Moon",
+    "releaseDate": "2017-02-03"
   },
   {
     "id": "tk-sm-r",
-    "name": "SM trainer Kit (Alolan Raichu)"
+    "name": "SM trainer Kit (Alolan Raichu)",
+    "releaseDate": "2017-04-21"
   },
   {
     "id": "tk-sm-l",
-    "name": "SM trainer Kit (Lycanroc)"
+    "name": "SM trainer Kit (Lycanroc)",
+    "releaseDate": "2017-04-21"
   },
   {
     "id": "sm2",
-    "name": "Guardians Rising"
+    "name": "Guardians Rising",
+    "releaseDate": "2017-05-05"
   },
   {
     "id": "2017sm",
-    "name": "McDonald's Collection 2017"
+    "name": "McDonald's Collection 2017",
+    "releaseDate": "2017-08-03"
   },
   {
     "id": "sm3",
-    "name": "Burning Shadows"
+    "name": "Burning Shadows",
+    "releaseDate": "2017-08-04"
   },
   {
     "id": "sm3.5",
@@ -525,19 +654,23 @@
   },
   {
     "id": "sm4",
-    "name": "Crimson Invasion"
+    "name": "Crimson Invasion",
+    "releaseDate": "2017-11-03"
   },
   {
     "id": "sm5",
-    "name": "Ultra Prism"
+    "name": "Ultra Prism",
+    "releaseDate": "2018-02-02"
   },
   {
     "id": "sm6",
-    "name": "Forbidden Light"
+    "name": "Forbidden Light",
+    "releaseDate": "2018-05-04"
   },
   {
     "id": "sm7",
-    "name": "Celestial Storm"
+    "name": "Celestial Storm",
+    "releaseDate": "2018-08-03"
   },
   {
     "id": "sm7.5",
@@ -545,63 +678,78 @@
   },
   {
     "id": "2018sm",
-    "name": "McDonald's Collection 2018"
+    "name": "McDonald's Collection 2018",
+    "releaseDate": "2018-10-19"
   },
   {
     "id": "sm8",
-    "name": "Lost Thunder"
+    "name": "Lost Thunder",
+    "releaseDate": "2018-11-02"
   },
   {
     "id": "sm9",
-    "name": "Team Up"
+    "name": "Team Up",
+    "releaseDate": "2019-01-31"
   },
   {
     "id": "det1",
-    "name": "Detective Pikachu"
+    "name": "Detective Pikachu",
+    "releaseDate": "2019-03-29"
   },
   {
     "id": "sm10",
-    "name": "Unbroken Bonds"
+    "name": "Unbroken Bonds",
+    "releaseDate": "2019-05-03"
   },
   {
     "id": "sm11",
-    "name": "Unified Minds"
+    "name": "Unified Minds",
+    "releaseDate": "2019-08-02"
   },
   {
     "id": "sma",
-    "name": "Hidden Fates Shiny Vault"
+    "name": "Hidden Fates Shiny Vault",
+    "releaseDate": "2019-08-23"
   },
   {
     "id": "sm115",
-    "name": "Hidden Fates"
+    "name": "Hidden Fates",
+    "releaseDate": "2019-08-23"
   },
   {
     "id": "2019sm",
-    "name": "McDonald's Collection 2019"
+    "name": "McDonald's Collection 2019",
+    "releaseDate": "2019-10-15"
   },
   {
     "id": "sm12",
-    "name": "Cosmic Eclipse"
+    "name": "Cosmic Eclipse",
+    "releaseDate": "2019-11-01"
   },
   {
     "id": "swshp",
-    "name": "SWSH Black Star Promos"
+    "name": "SWSH Black Star Promos",
+    "releaseDate": "2019-11-15"
   },
   {
     "id": "swsh1",
-    "name": "Sword & Shield"
+    "name": "Sword & Shield",
+    "releaseDate": "2020-02-07"
   },
   {
     "id": "swsh2",
-    "name": "Rebel Clash"
+    "name": "Rebel Clash",
+    "releaseDate": "2020-05-01"
   },
   {
     "id": "swsh3",
-    "name": "Darkness Ablaze"
+    "name": "Darkness Ablaze",
+    "releaseDate": "2020-08-14"
   },
   {
     "id": "fut2020",
-    "name": "Pok\u00e9mon Futsal 2020"
+    "name": "Pok\u00e9mon Futsal 2020",
+    "releaseDate": "2020-09-11"
   },
   {
     "id": "swsh3.5",
@@ -609,11 +757,13 @@
   },
   {
     "id": "swsh4",
-    "name": "Vivid Voltage"
+    "name": "Vivid Voltage",
+    "releaseDate": "2020-11-13"
   },
   {
     "id": "2021swsh",
-    "name": "McDonald's Collection 2021"
+    "name": "McDonald's Collection 2021",
+    "releaseDate": "2021-02-09"
   },
   {
     "id": "swsh4.5sv",
@@ -625,31 +775,38 @@
   },
   {
     "id": "swsh5",
-    "name": "Battle Styles"
+    "name": "Battle Styles",
+    "releaseDate": "2021-03-19"
   },
   {
     "id": "swsh6",
-    "name": "Chilling Reign"
+    "name": "Chilling Reign",
+    "releaseDate": "2021-06-18"
   },
   {
     "id": "swsh7",
-    "name": "Evolving Skies"
+    "name": "Evolving Skies",
+    "releaseDate": "2021-08-27"
   },
   {
     "id": "cel25cc",
-    "name": "Celebrations Classic Collection"
+    "name": "Celebrations Classic Collection",
+    "releaseDate": "2021-10-08"
   },
   {
     "id": "cel25",
-    "name": "Celebrations"
+    "name": "Celebrations",
+    "releaseDate": "2021-10-08"
   },
   {
     "id": "swsh8",
-    "name": "Fusion Strike"
+    "name": "Fusion Strike",
+    "releaseDate": "2021-11-12"
   },
   {
     "id": "swsh9",
-    "name": "Brilliant Stars"
+    "name": "Brilliant Stars",
+    "releaseDate": "2022-02-25"
   },
   {
     "id": "swsh9.5tg",
@@ -661,7 +818,8 @@
   },
   {
     "id": "swsh10",
-    "name": "Astral Radiance"
+    "name": "Astral Radiance",
+    "releaseDate": "2022-05-27"
   },
   {
     "id": "swsh10.5",
@@ -669,11 +827,13 @@
   },
   {
     "id": "2022swsh",
-    "name": "McDonald's Collection 2022"
+    "name": "McDonald's Collection 2022",
+    "releaseDate": "2022-08-03"
   },
   {
     "id": "swsh11",
-    "name": "Lost Origin"
+    "name": "Lost Origin",
+    "releaseDate": "2022-09-09"
   },
   {
     "id": "swsh11.5tg",
@@ -685,7 +845,8 @@
   },
   {
     "id": "swsh12",
-    "name": "Silver Tempest"
+    "name": "Silver Tempest",
+    "releaseDate": "2022-11-11"
   },
   {
     "id": "swsh12.5",
@@ -697,27 +858,33 @@
   },
   {
     "id": "svp",
-    "name": "SVP Black Star Promos"
+    "name": "SVP Black Star Promos",
+    "releaseDate": "2023-03-31"
   },
   {
     "id": "sve",
-    "name": "Scarlet & Violet Energy"
+    "name": "Scarlet & Violet Energy",
+    "releaseDate": "2023-03-31"
   },
   {
     "id": "sv01",
-    "name": "Scarlet & Violet"
+    "name": "Scarlet & Violet",
+    "releaseDate": "2023-03-31"
   },
   {
     "id": "sv02",
-    "name": "Paldea Evolved"
+    "name": "Paldea Evolved",
+    "releaseDate": "2023-06-09"
   },
   {
     "id": "2023sv",
-    "name": "McDonald's Collection 2023"
+    "name": "McDonald's Collection 2023",
+    "releaseDate": "2023-08-01"
   },
   {
     "id": "sv03",
-    "name": "Obsidian Flames"
+    "name": "Obsidian Flames",
+    "releaseDate": "2023-08-11"
   },
   {
     "id": "sv03.5",
@@ -725,11 +892,13 @@
   },
   {
     "id": "mfb",
-    "name": "My First Battle"
+    "name": "My First Battle",
+    "releaseDate": "2023-09-29"
   },
   {
     "id": "sv04",
-    "name": "Paradox Rift"
+    "name": "Paradox Rift",
+    "releaseDate": "2023-11-03"
   },
   {
     "id": "sv04.5",
@@ -737,11 +906,13 @@
   },
   {
     "id": "sv05",
-    "name": "Temporal Forces"
+    "name": "Temporal Forces",
+    "releaseDate": "2024-03-22"
   },
   {
     "id": "sv06",
-    "name": "Twilight Masquerade"
+    "name": "Twilight Masquerade",
+    "releaseDate": "2024-05-24"
   },
   {
     "id": "sv06.5",
@@ -749,27 +920,33 @@
   },
   {
     "id": "sv07",
-    "name": "Stellar Crown"
+    "name": "Stellar Crown",
+    "releaseDate": "2024-09-13"
   },
   {
     "id": "P-A",
-    "name": "Promos-A"
+    "name": "Promos-A",
+    "releaseDate": "2024-10-30"
   },
   {
     "id": "A1",
-    "name": "Genetic Apex"
+    "name": "Genetic Apex",
+    "releaseDate": "2024-10-30"
   },
   {
     "id": "sv08",
-    "name": "Surging Sparks"
+    "name": "Surging Sparks",
+    "releaseDate": "2024-11-08"
   },
   {
     "id": "2024sv",
-    "name": "McDonald's Collection 2024"
+    "name": "McDonald's Collection 2024",
+    "releaseDate": "2024-12-04"
   },
   {
     "id": "A1a",
-    "name": "Mythical Island"
+    "name": "Mythical Island",
+    "releaseDate": "2024-12-17"
   },
   {
     "id": "sv08.5",
@@ -777,35 +954,43 @@
   },
   {
     "id": "A2",
-    "name": "Space-Time Smackdown"
+    "name": "Space-Time Smackdown",
+    "releaseDate": "2025-01-30"
   },
   {
     "id": "A2a",
-    "name": "Triumphant Light"
+    "name": "Triumphant Light",
+    "releaseDate": "2025-02-28"
   },
   {
     "id": "A2b",
-    "name": "Shining Revelry"
+    "name": "Shining Revelry",
+    "releaseDate": "2025-03-27"
   },
   {
     "id": "sv09",
-    "name": "Journey Together"
+    "name": "Journey Together",
+    "releaseDate": "2025-03-28"
   },
   {
     "id": "A3",
-    "name": "Celestial Guardians"
+    "name": "Celestial Guardians",
+    "releaseDate": "2025-04-30"
   },
   {
     "id": "A3a",
-    "name": "Extradimensional Crisis"
+    "name": "Extradimensional Crisis",
+    "releaseDate": "2025-05-29"
   },
   {
     "id": "sv10",
-    "name": "Destined Rivals"
+    "name": "Destined Rivals",
+    "releaseDate": "2025-05-30"
   },
   {
     "id": "A3b",
-    "name": "Eevee Grove"
+    "name": "Eevee Grove",
+    "releaseDate": "2025-06-26"
   },
   {
     "id": "sv10.5w",
@@ -817,39 +1002,48 @@
   },
   {
     "id": "A4",
-    "name": "Wisdom of Sea and Sky"
+    "name": "Wisdom of Sea and Sky",
+    "releaseDate": "2025-07-30"
   },
   {
     "id": "A4a",
-    "name": "Secluded Springs"
+    "name": "Secluded Springs",
+    "releaseDate": "2025-08-28"
   },
   {
     "id": "mee",
-    "name": "Mega Evolution Energy"
+    "name": "Mega Evolution Energy",
+    "releaseDate": "2025-09-25"
   },
   {
     "id": "me01",
-    "name": "Mega Evolution"
+    "name": "Mega Evolution",
+    "releaseDate": "2025-09-26"
   },
   {
     "id": "mep",
-    "name": "MEP Black Star Promos"
+    "name": "MEP Black Star Promos",
+    "releaseDate": "2025-09-26"
   },
   {
     "id": "B1",
-    "name": "Mega Rising"
+    "name": "Mega Rising",
+    "releaseDate": "2025-10-30"
   },
   {
     "id": "me02",
-    "name": "Phantasmal Flames"
+    "name": "Phantasmal Flames",
+    "releaseDate": "2025-11-14"
   },
   {
     "id": "B1a",
-    "name": "Crimson Blaze"
+    "name": "Crimson Blaze",
+    "releaseDate": "2025-12-17"
   },
   {
     "id": "B2",
-    "name": "Fantastical Parade"
+    "name": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
   },
   {
     "id": "me02.5",
@@ -857,18 +1051,22 @@
   },
   {
     "id": "B2a",
-    "name": "Paldean Wonders"
+    "name": "Paldean Wonders",
+    "releaseDate": "2026-02-26"
   },
   {
     "id": "me03",
-    "name": "Perfect Order"
+    "name": "Perfect Order",
+    "releaseDate": "2026-03-27"
   },
   {
     "id": "me04",
-    "name": "Chaos Rising"
+    "name": "Chaos Rising",
+    "releaseDate": "2026-05-22"
   },
   {
     "id": "me05",
-    "name": "Pitch Black"
+    "name": "Pitch Black",
+    "releaseDate": "2026-07-17"
   }
 ]

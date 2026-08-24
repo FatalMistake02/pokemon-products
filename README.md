@@ -9,6 +9,7 @@ For autofill to work you must type the name correctly. They are usually correct 
 Type will be auto-filled when possible. |
 Descriptions will be auto-filled when possible. Some will need changing. |
 Packs will be auto-filled when possible and will only need the set id changed if the set isn't found. |
+Release dates will be auto-filled for products of regular sets. Special sets will not be auto-filled. |
 Image url will be auto-filled from the tcgplayer id.
 
 Sets need to be added to sets.json for the autofill. | 
