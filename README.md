@@ -25,3 +25,11 @@ This uses the [TCG Tracking API](https://openapi.tcgtracking.com/) and updates
 `products.json`.
 
 You can use this data in any way you like for any purpose
+
+Pokémon and Pokémon character names, card images, and related assets are © Nintendo, Creatures, and GAME FREAK.
+
+Pokémon TCG is a registered trademark of The Pokémon Company International.
+
+This database is not affiliated with, endorsed by, sponsored by, or associated with Nintendo, Creatures, GAME FREAK, or The Pokémon Company.
+
+All Pokémon-related content belongs to its respective owners.
