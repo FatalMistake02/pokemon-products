@@ -9067,5 +9067,512 @@
     ],
     "damage_markers": null,
     "other": null
+  },
+  {
+    "id": "rebel-clash-booster-pack",
+    "name": "Rebel Clash Booster Pack",
+    "type": "Booster Pack",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "210562",
+    "cardmarket_id": 453278,
+    "cardtrader_id": 109187,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/210562_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-sleeved-booster-pack",
+    "name": "Rebel Clash Sleeved Booster Pack",
+    "type": "Sleeved Booster Pack",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "264421",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/264421_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-booster-box",
+    "name": "Rebel Clash Booster Box",
+    "type": "Booster Box",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "210561",
+    "cardmarket_id": 453273,
+    "cardtrader_id": 109188,
+    "description": "Each Booster Box contains 36 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/210561_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "36"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-single-pack-blister-noctowl",
+    "name": "Rebel Clash Single Pack Blister [Noctowl]",
+    "type": "Single Pack Blister",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "210565",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, 1 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/210565_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH027 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "legends-of-galar-tin-zamazenta-v",
+    "name": "Legends of Galar Tin [Zamazenta V]",
+    "type": "Tin",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "214231",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Tin contains 4 Booster Packs and 1 promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/214231_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "4"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH019"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-3-pack-blister-rayquaza",
+    "name": "Rebel Clash 3-Pack Blister [Rayquaza]",
+    "type": "3-Pack Blister",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "210568",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/210568_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH029"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "legends-of-galar-tin-zacian-v",
+    "name": "Legends of Galar Tin [Zacian V]",
+    "type": "Tin",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "214230",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Tin contains 4 Booster Packs and 1 promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/214230_in_1000x1000.jpg",
+    "packs": {
+      "set": "4"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH018"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "copperajah-v-box",
+    "name": "Copperajah V Box",
+    "type": null,
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "214227",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/214227_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": 4
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH030",
+      "swshp-SWSH030 (Jumbo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-premium-checklane-blister-galarian-obstagoon",
+    "name": "Rebel Clash Premium Checklane Blister [Galarian Obstagoon]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "276576",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/276576_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swsh1-117",
+      "swsh1-118",
+      "swsh1-119"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-elite-trainer-box",
+    "name": "Rebel Clash Elite Trainer Box",
+    "type": "Elite Trainer Box",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "210572",
+    "cardmarket_id": 453283,
+    "cardtrader_id": 109193,
+    "description": "Each Elite Trainer Box contains 8 booster packs, 65 card sleeves, 45 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 acrylic condition markers,  4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/210572_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "8"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "polteageist-v-box",
+    "name": "Polteageist V Box",
+    "type": null,
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "210563",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/210563_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": 4
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH021",
+      "swshp-SWSH021 (Jumbo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-build-battle-box-display",
+    "name": "Rebel Clash Build & Battle Box Display",
+    "type": "Build & Battle Box Display",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "212820",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/212820_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "40"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "sword-shield-figure-collection",
+    "name": "Sword & Shield Figure Collection",
+    "type": null,
+    "release_date": "2020-02-07",
+    "tcgplayer_id": "210566",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/210566_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": 2
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH020"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-theme-deck-zamazenta",
+    "name": "Rebel Clash Theme Deck [Zamazenta]",
+    "type": null,
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "210570",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/210570_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-build-battle-box",
+    "name": "Rebel Clash Build & Battle Box",
+    "type": "Build & Battle Box",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "212821",
+    "cardmarket_id": 453468,
+    "cardtrader_id": 109192,
+    "description": "Each Build & Battle Box contains a 23-card Evolution pack, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/212821_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "4"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-theme-deck-zacian",
+    "name": "Rebel Clash Theme Deck [Zacian]",
+    "type": null,
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "210571",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/210571_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-premium-checklane-blister-gengar",
+    "name": "Rebel Clash Premium Checklane Blister [Gengar]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "276575",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/276575_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swsh1-083",
+      "swsh1-084",
+      "swsh1-085"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-single-pack-blister-mantine",
+    "name": "Rebel Clash Single Pack Blister [Mantine]",
+    "type": "Single Pack Blister",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "210564",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/210564_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH026"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-3-pack-blister-duraludon",
+    "name": "Rebel Clash 3-Pack Blister [Duraludon]",
+    "type": "3-Pack Blister",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "210567",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/210567_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH028"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-booster-box-case",
+    "name": "Rebel Clash Booster Box Case",
+    "type": "Booster Box Case",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "240182",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Box Case contains 6 Booster Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/240182_in_1000x1000.jpg",
+    "packs": {
+      "swsh2": "216"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "rebel-clash-theme-deck-display",
+    "name": "Rebel Clash Theme Deck Display",
+    "type": null,
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "210569",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": null,
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/210569_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "legends-of-galar-tin-zacian-v-international-version",
+    "name": "Legends of Galar Tin [Zacian V] (International Version)",
+    "type": "Tin",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "279257",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Tin contains 4 Booster Packs and 1 promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/279257_in_1000x1000.jpg",
+    "packs": {
+      "set": "4"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH018"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "legends-of-galar-tin-zamazenta-v-international-version",
+    "name": "Legends of Galar Tin [Zamazenta V] (International Version)",
+    "type": "Tin",
+    "release_date": "2020-05-01",
+    "tcgplayer_id": "279258",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Tin contains 4 Booster Packs and 1 promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/279258_in_1000x1000.jpg",
+    "packs": {
+      "set": "4"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swshp-SWSH019"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "sword-shield-single-pack-blister-galarian-meowth-galarian-perrserker",
+    "name": "Sword & Shield Single Pack Blister [Galarian Meowth & Galarian Perrserker]",
+    "type": "Single Pack Blister",
+    "release_date": "2020-02-07",
+    "tcgplayer_id": "668520",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668520_in_1000x1000.jpg",
+    "packs": {
+      "swsh1": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swsh1-127",
+      "swsh1-128"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "sword-shield-single-pack-blister-yamper-boltund",
+    "name": "Sword & Shield Single Pack Blister [Yamper & Boltund]",
+    "type": "Single Pack Blister",
+    "release_date": "2020-02-07",
+    "tcgplayer_id": "668516",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668516_in_1000x1000.jpg",
+    "packs": {
+      "swsh1": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "swsh1-073",
+      "swsh1-075"
+    ],
+    "damage_markers": null,
+    "other": null
   }
 ]
