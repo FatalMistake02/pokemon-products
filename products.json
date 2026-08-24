@@ -8644,5 +8644,447 @@
     "promos": null,
     "damage_markers": null,
     "other": null
+  },
+  {
+    "id": "product-424",
+    "name": "Destined Rivals Elite Trainer Box",
+    "type": "Elite Trainer Box",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "624676",
+    "cardmarket_id": 818585,
+    "cardtrader_id": 326997,
+    "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/624676_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "9"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-203"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-425",
+    "name": "Destined Rivals Booster Pack",
+    "type": "Booster Pack",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "624683",
+    "cardmarket_id": 818570,
+    "cardtrader_id": 326988,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/624683_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-426",
+    "name": "Destined Rivals Booster Box",
+    "type": "Booster Box",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "624679",
+    "cardmarket_id": 818574,
+    "cardtrader_id": 326985,
+    "description": "Each Booster Box contains 36 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/624679_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "36"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-427",
+    "name": "Destined Rivals Booster Bundle",
+    "type": "Booster Bundle",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "625670",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Bundle contains 6 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/625670_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "6"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-428",
+    "name": "Destined Rivals Sleeved Booster Pack",
+    "type": "Sleeved Booster Pack",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "624684",
+    "cardmarket_id": 818573,
+    "cardtrader_id": 326992,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/624684_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-429",
+    "name": "Destined Rivals Single Pack Blister [Eevee]",
+    "type": "Single Pack Blister",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "633105",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, [1] promo card(s), and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/633105_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-200 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-430",
+    "name": "Destined Rivals Elite Trainer Box Case",
+    "type": "Elite Trainer Box Case",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "628398",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/628398_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "90"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-431",
+    "name": "Destined Rivals Booster Box Case",
+    "type": "Booster Box Case",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "624678",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Box Case contains 6 Booster Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/624678_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "216"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-432",
+    "name": "Destined Rivals Fun Pack",
+    "type": "Fun Pack",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "650765",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Fun Pack contains 3 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/650765_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-433",
+    "name": "Destined Rivals Pokemon Center Elite Trainer Box",
+    "type": "Pokemon Center Elite Trainer Box",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "624675",
+    "cardmarket_id": 818586,
+    "cardtrader_id": 327000,
+    "description": "Each Pokemon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 40 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 plastic condition markers, 4 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/624675_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "11"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-203 (Pokemon Center Stamp"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-434",
+    "name": "Destined Rivals Single Pack Blister [Zarude]",
+    "type": "Single Pack Blister",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "633106",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Single Pack Blister contains 1 booster pack, 1 promo card, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/633106_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-199 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-435",
+    "name": "Destined Rivals Premium Checklane Blister [Rabsca]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "628396",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/628396_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv08-013",
+      "sv08-014 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-436",
+    "name": "Destined Rivals Sleeved Booster Case",
+    "type": "Sleeved Booster Case",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "628413",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/628413_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "144"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-437",
+    "name": "Destined Rivals 3-Pack Blister [Kangaskhan]",
+    "type": "3-Pack Blister",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "625683",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/625683_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-202 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-438",
+    "name": "Destined Rivals Premium Checklane Blister [Gastrodon]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "628395",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 2 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/628395_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv08-046",
+      "sv08-107 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-439",
+    "name": "Destined Rivals Booster Bundle Case",
+    "type": "Booster Bundle Case",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "628428",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Bundle Case contains 25 Booster Bundles.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/628428_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "150"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-440",
+    "name": "Destined Rivals Build & Battle Box",
+    "type": "Build & Battle Box",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "625677",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Build & Battle Box contains a 40-card ready-to-play deck, 4 booster packs, 1 promo card, and a code card for Pokémon TCG Live.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/625677_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "4"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-441",
+    "name": "Destined Rivals 3-Pack Blister [Zebstrika]",
+    "type": "3-Pack Blister",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "625684",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each 3-Pack Blister contains 3 booster packs and a promo card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/625684_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "3"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "svp-201 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-442",
+    "name": "Destined Rivals Half Booster Box",
+    "type": "Half Booster Box",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "624681",
+    "cardmarket_id": 818575,
+    "cardtrader_id": 326995,
+    "description": "Each Half Booster Box contains 18 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/624681_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "18"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-443",
+    "name": "Destined Rivals Premium Checklane Blister [Skeledirge]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "625687",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/625687_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv08-029",
+      "sv08-030",
+      "sv08-031 (Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-444",
+    "name": "Destined Rivals Build & Battle Box Display",
+    "type": "Build & Battle Box Display",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "634383",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/634383_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "40"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": null,
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "product-445",
+    "name": "Destined Rivals Premium Checklane Blister [Togekiss]",
+    "type": "Premium Checklane Blister",
+    "release_date": "2025-05-30",
+    "tcgplayer_id": "625688",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Premium Checklane Blister contains 1 booster pack, 3 promo cards, and a coin.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/625688_in_1000x1000.jpg",
+    "packs": {
+      "sv10": "1"
+    },
+    "coins": [],
+    "sleeves": null,
+    "promos": [
+      "sv08-070",
+      "sv08-071",
+      "sv08-072(Cosmos Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
   }
 ]
