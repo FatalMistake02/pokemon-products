@@ -154,13 +154,13 @@
     "name": "Pok\u00e9 Card Creator Pack"
   },
   {
-    "id": "pop1",
-    "name": "POP Series 1",
+    "id": "ex6",
+    "name": "FireRed & LeafGreen",
     "releaseDate": "2004-09-01"
   },
   {
-    "id": "ex6",
-    "name": "FireRed & LeafGreen",
+    "id": "pop1",
+    "name": "POP Series 1",
     "releaseDate": "2004-09-01"
   },
   {
@@ -404,13 +404,13 @@
     "releaseDate": "2011-08-31"
   },
   {
-    "id": "tk-bw-z",
-    "name": "BW trainer Kit (Zoroark)",
+    "id": "tk-bw-e",
+    "name": "BW trainer Kit (Excadrill)",
     "releaseDate": "2011-09-01"
   },
   {
-    "id": "tk-bw-e",
-    "name": "BW trainer Kit (Excadrill)",
+    "id": "tk-bw-z",
+    "name": "BW trainer Kit (Zoroark)",
     "releaseDate": "2011-09-01"
   },
   {
@@ -484,23 +484,23 @@
     "releaseDate": "2013-11-08"
   },
   {
-    "id": "xya",
-    "name": "Yellow A Alternate",
-    "releaseDate": "2014-02-05"
-  },
-  {
     "id": "xy1",
     "name": "XY",
     "releaseDate": "2014-02-05"
   },
   {
-    "id": "tk-xy-sy",
-    "name": "XY trainer Kit (Sylveon)",
-    "releaseDate": "2014-03-12"
+    "id": "xya",
+    "name": "Yellow A Alternate",
+    "releaseDate": "2014-02-05"
   },
   {
     "id": "tk-xy-n",
     "name": "XY trainer Kit (Noivern)",
+    "releaseDate": "2014-03-12"
+  },
+  {
+    "id": "tk-xy-sy",
+    "name": "XY trainer Kit (Sylveon)",
     "releaseDate": "2014-03-12"
   },
   {
@@ -544,13 +544,13 @@
     "releaseDate": "2015-03-25"
   },
   {
-    "id": "tk-xy-latia",
-    "name": "XY trainer Kit (Latias)",
+    "id": "tk-xy-latio",
+    "name": "XY trainer Kit (Latios)",
     "releaseDate": "2015-04-29"
   },
   {
-    "id": "tk-xy-latio",
-    "name": "XY trainer Kit (Latios)",
+    "id": "tk-xy-latia",
+    "name": "XY trainer Kit (Latias)",
     "releaseDate": "2015-04-29"
   },
   {
@@ -584,13 +584,13 @@
     "releaseDate": "2016-02-22"
   },
   {
-    "id": "tk-xy-su",
-    "name": "XY trainer Kit (Suicune)",
+    "id": "tk-xy-p",
+    "name": "XY trainer Kit (Pikachu Libre)",
     "releaseDate": "2016-04-27"
   },
   {
-    "id": "tk-xy-p",
-    "name": "XY trainer Kit (Pikachu Libre)",
+    "id": "tk-xy-su",
+    "name": "XY trainer Kit (Suicune)",
     "releaseDate": "2016-04-27"
   },
   {
@@ -614,13 +614,13 @@
     "releaseDate": "2016-11-02"
   },
   {
-    "id": "smp",
-    "name": "SM Black Star Promos",
+    "id": "sm1",
+    "name": "Sun & Moon",
     "releaseDate": "2017-02-03"
   },
   {
-    "id": "sm1",
-    "name": "Sun & Moon",
+    "id": "smp",
+    "name": "SM Black Star Promos",
     "releaseDate": "2017-02-03"
   },
   {
@@ -766,12 +766,12 @@
     "releaseDate": "2021-02-09"
   },
   {
-    "id": "swsh4.5sv",
-    "name": "Shining Fates Shiny Vault"
-  },
-  {
     "id": "swsh4.5",
     "name": "Shining Fates"
+  },
+  {
+    "id": "swsh4.5sv",
+    "name": "Shining Fates Shiny Vault"
   },
   {
     "id": "swsh5",
@@ -804,21 +804,23 @@
     "releaseDate": "2021-11-12"
   },
   {
+    "id": "swsh9tg",
+    "name": "Brilliant Stars Trainer Gallery",
+    "releaseDate": "2022-02-25"
+  },
+  {
     "id": "swsh9",
     "name": "Brilliant Stars",
     "releaseDate": "2022-02-25"
   },
   {
-    "id": "swsh9.5tg",
-    "name": "Brilliant Stars Trainer Gallery"
-  },
-  {
-    "id": "swsh10.5tg",
-    "name": "Astral Radiance Trainer Gallery"
-  },
-  {
     "id": "swsh10",
     "name": "Astral Radiance",
+    "releaseDate": "2022-05-27"
+  },
+  {
+    "id": "swsh10tg",
+    "name": "Astral Radiance Trainer Gallery",
     "releaseDate": "2022-05-27"
   },
   {
@@ -836,16 +838,18 @@
     "releaseDate": "2022-09-09"
   },
   {
-    "id": "swsh11.5tg",
-    "name": "Lost Origin Trainer Gallery"
-  },
-  {
-    "id": "swsh12.5tg",
-    "name": "Silver Tempest Trainer Gallery"
+    "id": "swsh11tg",
+    "name": "Lost Origin Trainer Gallery",
+    "releaseDate": "2022-09-09"
   },
   {
     "id": "swsh12",
     "name": "Silver Tempest",
+    "releaseDate": "2022-11-11"
+  },
+  {
+    "id": "swsh12tg",
+    "name": "Silver Tempest Trainer Gallery",
     "releaseDate": "2022-11-11"
   },
   {
@@ -857,8 +861,8 @@
     "name": "Crown Zenith Galarian Gallery"
   },
   {
-    "id": "svp",
-    "name": "SVP Black Star Promos",
+    "id": "sv01",
+    "name": "Scarlet & Violet",
     "releaseDate": "2023-03-31"
   },
   {
@@ -867,8 +871,8 @@
     "releaseDate": "2023-03-31"
   },
   {
-    "id": "sv01",
-    "name": "Scarlet & Violet",
+    "id": "svp",
+    "name": "SVP Black Star Promos",
     "releaseDate": "2023-03-31"
   },
   {
@@ -993,12 +997,12 @@
     "releaseDate": "2025-06-26"
   },
   {
-    "id": "sv10.5w",
-    "name": "White Flare"
-  },
-  {
     "id": "sv10.5b",
     "name": "Black Bolt"
+  },
+  {
+    "id": "sv10.5w",
+    "name": "White Flare"
   },
   {
     "id": "A4",
@@ -1068,5 +1072,15 @@
     "id": "me05",
     "name": "Pitch Black",
     "releaseDate": "2026-07-17"
+  },
+  {
+    "id": "30th",
+    "name": "30th Celebration",
+    "releaseDate": "2026-09-16"
+  },
+  {
+    "id": "30th-c",
+    "name": "30th Classic Collection",
+    "releaseDate": "2026-09-16"
   }
 ]
