@@ -10476,5 +10476,1106 @@
     ],
     "damage_markers": null,
     "other": null
+  },
+  {
+    "id": "30th-celebration-booster-pack",
+    "name": "30th Celebration Booster Pack",
+    "type": "Booster Pack",
+    "release_date": "2026-09-16",
+    "tcgplayer_id": "696613",
+    "cardmarket_id": "890360",
+    "cardtrader_id": "395476",
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696613_in_1000x1000.jpg",
+    "packs": {
+      "30th": "1"
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-binder-collection",
+    "name": "30th Celebration Binder Collection",
+    "type": "Binder Collection",
+    "release_date": "2026-12-04",
+    "tcgplayer_id": "704169",
+    "cardmarket_id": "895560",
+    "cardtrader_id": "399232",
+    "description": "Each Binder Collection contains 5 Booster Packs and a 9-pocket binder.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704169_in_1000x1000.jpg",
+    "packs": {
+      "30th": 5
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-booster-bundle",
+    "name": "30th Celebration Booster Bundle",
+    "type": "Booster Bundle",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "704171",
+    "cardmarket_id": "895561",
+    "cardtrader_id": "399248",
+    "description": "Each Booster Bundle contains 6 booster packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704171_in_1000x1000.jpg",
+    "packs": {
+      "30th": "6"
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-mini-tin-espeon",
+    "name": "30th Celebration Mini Tin [Espeon]",
+    "type": "Mini Tin",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "704176",
+    "cardmarket_id": "895565",
+    "cardtrader_id": "399252",
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704176_in_1000x1000.jpg",
+    "packs": {
+      "30th": 2
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-mini-tin-day-pikachu",
+    "name": "30th Celebration Mini Tin [Day Pikachu]",
+    "type": "Mini Tin",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "704177",
+    "cardmarket_id": "895572",
+    "cardtrader_id": "399253",
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704177_in_1000x1000.jpg",
+    "packs": {
+      "30th": 2
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-mini-tin-mew",
+    "name": "30th Celebration Mini Tin [Mew]",
+    "type": "Mini Tin",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "704178",
+    "cardmarket_id": "895564",
+    "cardtrader_id": "399255",
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704178_in_1000x1000.jpg",
+    "packs": {
+      "30th": 2
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-mini-tin-lapras",
+    "name": "30th Celebration Mini Tin [Lapras]",
+    "type": "Mini Tin",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "704179",
+    "cardmarket_id": "895567",
+    "cardtrader_id": "399254",
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704179_in_1000x1000.jpg",
+    "packs": {
+      "30th": 2
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-mini-tin-moltres",
+    "name": "30th Celebration Mini Tin [Moltres]",
+    "type": "Mini Tin",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "704180",
+    "cardmarket_id": "895569",
+    "cardtrader_id": "399256",
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704180_in_1000x1000.jpg",
+    "packs": {
+      "30th": 2
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-mini-tin-zapdos",
+    "name": "30th Celebration Mini Tin [Zapdos]",
+    "type": "Mini Tin",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "704181",
+    "cardmarket_id": "895573",
+    "cardtrader_id": "399257",
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704181_in_1000x1000.jpg",
+    "packs": {
+      "30th": 2
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-mini-tin-umbreon",
+    "name": "30th Celebration Mini Tin [Umbreon]",
+    "type": "Mini Tin",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "704182",
+    "cardmarket_id": "895571",
+    "cardtrader_id": "399258",
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704182_in_1000x1000.jpg",
+    "packs": {
+      "30th": 2
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-mini-tin-mewtwo",
+    "name": "30th Celebration Mini Tin [Mewtwo]",
+    "type": "Mini Tin",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "704183",
+    "cardmarket_id": "895568",
+    "cardtrader_id": "399259",
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704183_in_1000x1000.jpg",
+    "packs": {
+      "30th": 2
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-mini-tin-night-pikachu",
+    "name": "30th Celebration Mini Tin [Night Pikachu]",
+    "type": "Mini Tin",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "704184",
+    "cardmarket_id": "895570",
+    "cardtrader_id": "399260",
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704184_in_1000x1000.jpg",
+    "packs": {
+      "30th": 2
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-mini-tin-greninja",
+    "name": "30th Celebration Mini Tin [Greninja]",
+    "type": "Mini Tin",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "704185",
+    "cardmarket_id": "895566",
+    "cardtrader_id": "399261",
+    "description": "Each Mini Tin contains 2 booster packs and an art card.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704185_in_1000x1000.jpg",
+    "packs": {
+      "30th": 2
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-mini-tin-display",
+    "name": "30th Celebration Mini Tin Display",
+    "type": "Mini Tin Display",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "704186",
+    "cardmarket_id": "895584",
+    "cardtrader_id": "399249",
+    "description": "Each Mini Tin Display contains 10 Mini Tins.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704186_in_1000x1000.jpg",
+    "packs": {
+      "30th": 20
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-booster-bundle-case",
+    "name": "30th Celebration Booster Bundle Case",
+    "type": "Booster Bundle Case",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "709017",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Bundle Case contains 25 Booster Bundles.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709017_in_1000x1000.jpg",
+    "packs": {
+      "30th": "150"
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-mini-tin-display-case",
+    "name": "30th Celebration Mini Tin Display Case",
+    "type": "Mini Tin Display Case",
+    "release_date": "2026-10-02",
+    "tcgplayer_id": "709030",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Mini Tin Display Case contains 4 Mini Tin Displays.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709030_in_1000x1000.jpg",
+    "packs": {
+      "30th": 80
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "30th-celebration-binder-collection-case",
+    "name": "30th Celebration Binder Collection Case",
+    "type": "Binder Collection Case",
+    "release_date": "2026-12-04",
+    "tcgplayer_id": "709032",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Binder Collection Case contains 6 Binder Collections.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709032_in_1000x1000.jpg",
+    "packs": {
+      "30th": 30
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Elite Trainer Box contains 9 booster packs, a promo card, 65 card sleeves, 16 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "id": "30th-celebration-elite-trainer-box",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704143_in_1000x1000.jpg",
+    "name": "30th Celebration Elite Trainer Box",
+    "other": null,
+    "packs": {
+      "30th": 9
+    },
+    "promos": [
+      "mep-101"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "704143",
+    "cardmarket_id": "895551",
+    "cardtrader_id": "399230",
+    "type": "Elite Trainer Box"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Pokemon Center Elite Trainer Box contains 11 booster packs, a promo card, 65 card sleeves, 16 Energy cards, A player's guide, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 plastic coin, 6 dividers, a collector's box to hold everything, and a code card for Pokémon TCG Live.",
+    "id": "30th-celebration-pokemon-center-elite-trainer-box",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704144_in_1000x1000.jpg",
+    "name": "30th Celebration Pokemon Center Elite Trainer Box",
+    "other": null,
+    "packs": {
+      "30th": 11
+    },
+    "promos": [
+      "mep-101 (Pokémon Center Stamp)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "704144",
+    "cardmarket_id": "895552",
+    "cardtrader_id": "399231",
+    "type": "Pokemon Center Elite Trainer Box"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Tech Sticker Collection contains 3 Booster Packs, 1 promo card, and stickers.",
+    "id": "30th-celebration-tech-sticker-collection-alolan-exeggutor",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704145_in_1000x1000.jpg",
+    "name": "30th Celebration Tech Sticker Collection [Alolan Exeggutor]",
+    "other": null,
+    "packs": {
+      "30th": 3
+    },
+    "promos": [
+      "mep-094 (30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "704145",
+    "cardmarket_id": "895554",
+    "cardtrader_id": "399244",
+    "type": "Tech Sticker Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Tech Sticker Collection contains 3 Booster Packs, 1 promo card, and stickers.",
+    "id": "30th-celebration-tech-sticker-collection-lucario",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704146_in_1000x1000.jpg",
+    "name": "30th Celebration Tech Sticker Collection [Lucario]",
+    "other": null,
+    "packs": {
+      "30th": 3
+    },
+    "promos": [
+      "mep-095 (30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "704146",
+    "cardmarket_id": "895555",
+    "cardtrader_id": "399243",
+    "type": "Tech Sticker Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Tech Sticker Collection contains 3 Booster Packs, 1 promo card, and stickers.",
+    "id": "30th-celebration-tech-sticker-collection-set-of-2",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704147_in_1000x1000.jpg",
+    "name": "30th Celebration Tech Sticker Collection [Set of 2]",
+    "other": null,
+    "packs": {
+      "30th": 6
+    },
+    "promos": [
+      "mep-095 (30th Anniversary)",
+      "mep-094 (30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "704147",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Tech Sticker Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each 2-Pack Blister contains 2 Booster Packs, 1 promo card, and 1 plastic coin.",
+    "id": "30th-celebration-2-pack-blister",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704148_in_1000x1000.jpg",
+    "name": "30th Celebration 2-Pack Blister",
+    "other": null,
+    "packs": {
+      "30th": 2
+    },
+    "promos": [
+      "30th-116 (Cosmos Holo 30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "704148",
+    "cardmarket_id": "895556",
+    "cardtrader_id": "399242",
+    "type": "2-Pack Blister"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Tin contains 4 Booster Packs and 1 promo card.",
+    "id": "30th-celebration-ex-tin-sylveon-ex-international-version",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704149_in_1000x1000.jpg",
+    "name": "30th Celebration ex Tin [Sylveon ex] (International Version)",
+    "other": null,
+    "packs": {
+      "30th": 4
+    },
+    "promos": [
+      "mep-100 (30th Anniversary)"
+    ],
+    "release_date": "2026-12-04",
+    "sleeves": [],
+    "tcgplayer_id": "704149",
+    "cardmarket_id": "895746",
+    "cardtrader_id": "399251",
+    "type": "Tin"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Tin contains 5 Booster Packs and 1 promo card.",
+    "id": "30th-celebration-ex-tin-sylveon-ex-retail-version",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/718674_in_1000x1000.jpg",
+    "name": "30th Celebration ex Tin [Sylveon ex] (Retail Version)",
+    "other": null,
+    "packs": {
+      "30th": 5
+    },
+    "promos": [
+      "mep-100 (30th Anniversary)"
+    ],
+    "release_date": "2026-12-04",
+    "sleeves": [],
+    "tcgplayer_id": "718674",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Tin"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Tin contains 4 Booster Packs and 1 promo card.",
+    "id": "30th-celebration-ex-tin-set-of-2-international-version",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704151_in_1000x1000.jpg",
+    "name": "30th Celebration ex Tin [Set of 2] (International Version)",
+    "other": null,
+    "packs": {
+      "30th": 8
+    },
+    "promos": [
+      "mep-100 (30th Anniversary)",
+      "mep-099 (30th Anniversary)"
+    ],
+    "release_date": "2026-12-04",
+    "sleeves": [],
+    "tcgplayer_id": "704151",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Tin"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Tin contains 4 Booster Packs and 1 promo card.",
+    "id": "30th-celebration-ex-tin-greninja-ex-international-version",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704150_in_1000x1000.jpg",
+    "name": "30th Celebration ex Tin [Greninja ex] (International Version)",
+    "other": null,
+    "packs": {
+      "30th": 4
+    },
+    "promos": [
+      "mep-099 (30th Anniversary)"
+    ],
+    "release_date": "2026-12-04",
+    "sleeves": [],
+    "tcgplayer_id": "704150",
+    "cardmarket_id": "895745",
+    "cardtrader_id": "399250",
+    "type": "Tin"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Tin contains 5 Booster Packs and 1 promo card.",
+    "id": "30th-celebration-ex-tin-greninja-ex-retail-version",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/718673_in_1000x1000.jpg",
+    "name": "30th Celebration ex Tin [Greninja ex] (Retail Version)",
+    "other": null,
+    "packs": {
+      "30th": 5
+    },
+    "promos": [
+      "mep-099 (30th Anniversary)"
+    ],
+    "release_date": "2026-12-04",
+    "sleeves": [],
+    "tcgplayer_id": "718673",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Tin"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Knock Out Collection contains 2 Booster Packs, 1 promo card, and 1 plastic coin.",
+    "id": "30th-celebration-knock-out-collection",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704152_in_1000x1000.jpg",
+    "name": "30th Celebration Knock Out Collection",
+    "other": null,
+    "packs": {
+      "30th": 2
+    },
+    "promos": [
+      "30th-116 (Cosmos Holo 30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "704152",
+    "cardmarket_id": "895559",
+    "cardtrader_id": "399235",
+    "type": "Knock Out Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Knock Out Collection Case contains 24 Knock Out Collections.",
+    "id": "30th-celebration-knock-out-collection-case",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709035_in_1000x1000.jpg",
+    "name": "30th Celebration Knock Out Collection Case",
+    "other": null,
+    "packs": {
+      "30th": 48
+    },
+    "promos": [
+      "30th-116 (Cosmos Holo 30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "709035",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Knock Out Collection Case"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Tin Case contains 3 of each Tin.",
+    "id": "30th-celebration-ex-tin-case-international-version",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709031_in_1000x1000.jpg",
+    "name": "30th Celebration ex Tin Case (International Version)",
+    "other": null,
+    "packs": {
+      "30th": 24
+    },
+    "promos": [
+      "mep-099 (30th Anniversary)",
+      "mep-100 (30th Anniversary)"
+    ],
+    "release_date": "2026-12-04",
+    "sleeves": [],
+    "tcgplayer_id": "709031",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Tin Case"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Poster Collection contains 3 Booster Packs, 3 promo cards, and 1 double-sided poster.",
+    "id": "30th-celebration-poster-collection",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704153_in_1000x1000.jpg",
+    "name": "30th Celebration Poster Collection",
+    "other": null,
+    "packs": {
+      "30th": 3
+    },
+    "promos": [
+      "mep-096 (30th Anniversary)",
+      "mep-097 (30th Anniversary)",
+      "mep-098 (30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "704153",
+    "cardmarket_id": "895553",
+    "cardtrader_id": "399233",
+    "type": "Poster Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Poster Collection Case contains 6 Poster Collections.",
+    "id": "30th-celebration-poster-collection-case",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709033_in_1000x1000.jpg",
+    "name": "30th Celebration Poster Collection Case",
+    "other": null,
+    "packs": {
+      "30th": 18
+    },
+    "promos": [
+      "mep-096 (30th Anniversary)",
+      "mep-097 (30th Anniversary)",
+      "mep-098 (30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "709033",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Poster Collection Case"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each ex Box contains 4 Booster Packs, 1 promo card, and 1 jumbo card.",
+    "id": "30th-celebration-sylveon-ex-box",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704155_in_1000x1000.jpg",
+    "name": "30th Celebration Sylveon ex Box",
+    "other": null,
+    "packs": {
+      "30th": 4
+    },
+    "promos": [
+      "mep-100 (30th Anniversary)",
+      "mep-100 (Jumbo 30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "704155",
+    "cardmarket_id": "895557",
+    "cardtrader_id": "399236",
+    "type": "ex Box"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each ex Box contains 4 Booster Packs, 1 promo card, and 1 jumbo card.",
+    "id": "30th-celebration-greninja-ex-box",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704168_in_1000x1000.jpg",
+    "name": "30th Celebration Greninja ex Box",
+    "other": null,
+    "packs": {
+      "30th": 4
+    },
+    "promos": [
+      "mep-099 (30th Anniversary)",
+      "mep-099 (Jumbo 30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "704168",
+    "cardmarket_id": "895558",
+    "cardtrader_id": "399237",
+    "type": "ex Box"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Ditto Premium Collection contains 8 Booster Packs, 1 promo card, 1 acrylic card display, and a code card for Pokémon TCG Live.",
+    "id": "30th-celebration-ditto-premium-collection",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704189_in_1000x1000.jpg",
+    "name": "30th Celebration Ditto Premium Collection",
+    "other": null,
+    "packs": {
+      "30th": 8
+    },
+    "promos": [
+      "mep-106 (30th Anniversary)"
+    ],
+    "release_date": "2026-11-06",
+    "sleeves": [],
+    "tcgplayer_id": "704189",
+    "cardmarket_id": "895574",
+    "cardtrader_id": "399234",
+    "type": "Premium Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Ditto Premium Collection Case contains 6 Ditto Premium Collections.",
+    "id": "30th-celebration-ditto-premium-collection-case",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709018_in_1000x1000.jpg",
+    "name": "30th Celebration Ditto Premium Collection Case",
+    "other": null,
+    "packs": {
+      "30th": 48
+    },
+    "promos": [
+      "mep-106 (30th Anniversary)"
+    ],
+    "release_date": "2026-11-06",
+    "sleeves": [],
+    "tcgplayer_id": "709018",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Premium Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Ultra-Premium Collection contains 30 Booster Packs, 1 playmat, 65 card sleeves, 1 deck box, 1 metal coin, and 6 damage-counter dice.",
+    "id": "30th-celebration-ultra-premium-collection-day",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704190_in_1000x1000.jpg",
+    "name": "30th Celebration Ultra-Premium Collection [Day]",
+    "other": null,
+    "packs": {
+      "30th": 29,
+      "30th-c": 1
+    },
+    "promos": [
+      "mep-107 (30th Anniversary)",
+      "mep-108 (30th Anniversary)"
+    ],
+    "release_date": "2026-11-06",
+    "sleeves": [],
+    "tcgplayer_id": "704190",
+    "cardmarket_id": "895577",
+    "cardtrader_id": "399239",
+    "type": "Ultra-Premium Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Ultra-Premium Collection contains 30 Booster Packs, 1 playmat, 65 card sleeves, 1 deck box, 1 metal coin, and 6 damage-counter dice.",
+    "id": "30th-celebration-ultra-premium-collection-night",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704191_in_1000x1000.jpg",
+    "name": "30th Celebration Ultra-Premium Collection [Night]",
+    "other": null,
+    "packs": {
+      "30th": 29,
+      "30th-c": 1
+    },
+    "promos": [
+      "mep-109 (30th Anniversary)",
+      "mep-110 (30th Anniversary)"
+    ],
+    "release_date": "2026-11-06",
+    "sleeves": [],
+    "tcgplayer_id": "704191",
+    "cardmarket_id": "895578",
+    "cardtrader_id": "399238",
+    "type": "Ultra-Premium Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Ultra-Premium Collection contains 30 Booster Packs, 1 playmat, 65 card sleeves, 1 deck box, 1 metal coin, and 6 damage-counter dice.",
+    "id": "30th-celebration-ultra-premium-collection-case",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709029_in_1000x1000.jpg",
+    "name": "30th Celebration Ultra-Premium Collection Case",
+    "other": null,
+    "packs": {
+      "30th": 58,
+      "30th-c": 2
+    },
+    "promos": [
+      "mep-107 (30th Anniversary)",
+      "mep-108 (30th Anniversary)",
+      "mep-109 (30th Anniversary)",
+      "mep-110 (30th Anniversary)"
+    ],
+    "release_date": "2026-11-06",
+    "sleeves": [],
+    "tcgplayer_id": "709029",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Ultra-Premium Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Figure Collection contains 5 Booster Packs, 1 promo card, 1 jumbo card, and 1 figure.",
+    "id": "30th-celebration-figure-collection-mew",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704193_in_1000x1000.jpg",
+    "name": "30th Celebration Figure Collection [Mew]",
+    "other": null,
+    "packs": {
+      "30th": 5
+    },
+    "promos": [
+      "mep-105 (30th Anniversary)",
+      "mep-105 (Jumbo 30th Anniversary)"
+    ],
+    "release_date": "2026-11-06",
+    "sleeves": [],
+    "tcgplayer_id": "704193",
+    "cardmarket_id": "895576",
+    "cardtrader_id": "399241",
+    "type": "Figure Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Figure Collection contains 5 Booster Packs, 1 promo card, 1 jumbo card, and 1 figure.",
+    "id": "30th-celebration-figure-collection-mewtwo",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704194_in_1000x1000.jpg",
+    "name": "30th Celebration Figure Collection [Mewtwo]",
+    "other": null,
+    "packs": {
+      "30th": 5
+    },
+    "promos": [
+      "mep-104 (30th Anniversary)",
+      "mep-104 (Jumbo 30th Anniversary)"
+    ],
+    "release_date": "2026-11-06",
+    "sleeves": [],
+    "tcgplayer_id": "704194",
+    "cardmarket_id": "895575",
+    "cardtrader_id": "399240",
+    "type": "Figure Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Figure Collection Case contains 3 of each Figure Collection.",
+    "id": "30th-celebration-figure-collection-case",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709019_in_1000x1000.jpg",
+    "name": "30th Celebration Figure Collection Case",
+    "other": null,
+    "packs": {
+      "30th": 30
+    },
+    "promos": [
+      "mep-104 (30th Anniversary)",
+      "mep-104 (Jumbo 30th Anniversary)",
+      "mep-105 (30th Anniversary)",
+      "mep-105 (Jumbo 30th Anniversary)"
+    ],
+    "release_date": "2026-11-06",
+    "sleeves": [],
+    "tcgplayer_id": "709019",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Figure Collection Case"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Tech Sticker Collection Case contains 6 of each Tech Sticker Collection. (12 Total)",
+    "id": "30th-celebration-tech-sticker-collection-case",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709034_in_1000x1000.jpg",
+    "name": "30th Celebration Tech Sticker Collection Case",
+    "other": null,
+    "packs": {
+      "30th": 36
+    },
+    "promos": [
+      "mep-094 (30th Anniversary)",
+      "mep-095 (30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "709034",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Tech Sticker Collection Case"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
+    "id": "30th-celebration-elite-trainer-box-case",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709036_in_1000x1000.jpg",
+    "name": "30th Celebration Elite Trainer Box Case",
+    "other": null,
+    "packs": {
+      "30th": 90
+    },
+    "promos": [
+      "mep-101 (30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "709036",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Elite Trainer Box Case"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each ex Box Case contains 6 ex Boxes.",
+    "id": "30th-celebration-ex-box-case",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709037_in_1000x1000.jpg",
+    "name": "30th Celebration ex Box Case",
+    "other": null,
+    "packs": {
+      "30th": 24
+    },
+    "promos": [
+      "mep-099 (30th Anniversary)",
+      "mep-099 (Jumbo 30th Anniversary)",
+      "mep-100 (30th Anniversary)",
+      "mep-100 (Jumbo 30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "709037",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "ex Box Case"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Tin contains 5 Booster Packs and 1 promo card.",
+    "id": "30th-celebration-ex-tin-set-of-2-retail-version",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/718675_in_1000x1000.jpg",
+    "name": "30th Celebration ex Tin [Set of 2] (Retail Version)",
+    "other": null,
+    "packs": {
+      "30th": 10
+    },
+    "promos": [
+      "mep-099 (30th Anniversary)",
+      "mep-100 (30th Anniversary)"
+    ],
+    "release_date": "2026-12-04",
+    "sleeves": [],
+    "tcgplayer_id": "718675",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Tin"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each ex Box Set of 2 contains 1 Sylveon ex Box and 1 Greninja ex Box.",
+    "id": "30th-celebration-ex-box-set-of-2",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/722832_in_1000x1000.jpg",
+    "name": "30th Celebration ex Box [Set of 2]",
+    "other": null,
+    "packs": {
+      "30th": 8
+    },
+    "promos": [
+      "mep-099 (30th Anniversary)",
+      "mep-099 (Jumbo 30th Anniversary)",
+      "mep-100 (30th Anniversary)",
+      "mep-100 (Jumbo 30th Anniversary)"
+    ],
+    "release_date": "2026-09-16",
+    "sleeves": [],
+    "tcgplayer_id": "722832",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "ex Box"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Battle Deck contains a ready-to-play 60-card foil deck, 1 set of damage counters, 1 plastic coin, 1 deck box, 1 double-sided playmat and strategy sheet, and a code card for Pokémon TCG Live.",
+    "id": "30th-celebration-battle-deck-espeon-ex",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704187_in_1000x1000.jpg",
+    "name": "30th Celebration Battle Deck [Espeon ex]",
+    "other": null,
+    "packs": {},
+    "promos": [
+      "mep-102 (30th Anniversary)"
+    ],
+    "release_date": null,
+    "sleeves": [],
+    "tcgplayer_id": "704187",
+    "cardmarket_id": "895562",
+    "cardtrader_id": "399246",
+    "type": "Battle Deck"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Battle Deck contains a ready-to-play 60-card foil deck, 1 set of damage counters, 1 plastic coin, 1 deck box, 1 double-sided playmat and strategy sheet, and a code card for Pokémon TCG Live.",
+    "id": "30th-celebration-battle-deck-umbreon-ex",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704188_in_1000x1000.jpg",
+    "name": "30th Celebration Battle Deck [Umbreon ex]",
+    "other": null,
+    "packs": {},
+    "promos": [
+      "mep-103 (30th Anniversary)"
+    ],
+    "release_date": null,
+    "sleeves": [],
+    "tcgplayer_id": "704188",
+    "cardmarket_id": "895563",
+    "cardtrader_id": "399245",
+    "type": "Battle Deck"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Battle Deck Case contains 6 Battle Decks.",
+    "id": "30th-celebration-battle-deck-case",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/709016_in_1000x1000.jpg",
+    "name": "30th Celebration Battle Deck Case",
+    "other": null,
+    "packs": {},
+    "promos": [
+      "mep-102 (30th Anniversary)",
+      "mep-103 (30th Anniversary)"
+    ],
+    "release_date": null,
+    "sleeves": [],
+    "tcgplayer_id": "709016",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Battle Deck Case"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Battle Deck Set of 2 contains 1 Espeon ex Battle Deck and 1 Umbreon ex Battle Deck.",
+    "id": "30th-celebration-battle-deck-umbreon-ex-espeon-ex-set-of-two",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/726826_in_1000x1000.jpg",
+    "name": "30th Celebration Battle Deck: Umbreon ex/Espeon ex [Set of two]",
+    "other": null,
+    "packs": {},
+    "promos": [
+      "mep-102 (30th Anniversary)",
+      "mep-103 (30th Anniversary)"
+    ],
+    "release_date": null,
+    "sleeves": [],
+    "tcgplayer_id": "726826",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Battle Deck: Umbreon ex/Espeon ex"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each pack contains 3 Classic Collection cards.",
+    "id": "30th-celebration-classic-collection-pack",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704192_in_1000x1000.jpg",
+    "name": "30th Celebration Classic Collection Pack",
+    "other": null,
+    "packs": {
+      "30th-c": 1
+    },
+    "promos": [],
+    "release_date": null,
+    "sleeves": [],
+    "tcgplayer_id": "704192",
+    "cardmarket_id": "895603",
+    "cardtrader_id": "399247",
+    "type": "Classic Collection Pack"
   }
 ]
