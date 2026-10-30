@@ -11577,5 +11577,691 @@
     "cardmarket_id": "895603",
     "cardtrader_id": "399247",
     "type": "Classic Collection Pack"
+  },
+  {
+    "id": "fusion-strike-booster-pack",
+    "name": "Fusion Strike Booster Pack",
+    "type": "Booster Pack",
+    "release_date": "2021-11-12",
+    "tcgplayer_id": "247646",
+    "cardmarket_id": "574591",
+    "cardtrader_id": "167195",
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247646_in_1000x1000.jpg",
+    "packs": {
+      "swsh8": "1"
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "fusion-strike-booster-pack-art-bundle-set-of-4",
+    "name": "Fusion Strike Booster Pack Art Bundle [Set of 4]",
+    "type": "Booster Pack",
+    "release_date": "2021-11-12",
+    "tcgplayer_id": "247651",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each bundle contains 4 Booster Packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247651_in_1000x1000.jpg",
+    "packs": {
+      "swsh8": 4
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "fusion-strike-booster-box",
+    "name": "Fusion Strike Booster Box",
+    "type": "Booster Box",
+    "release_date": "2021-11-12",
+    "tcgplayer_id": "247654",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Box contains 36 Booster Packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247654_in_1000x1000.jpg",
+    "packs": {
+      "swsh8": "36"
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "fusion-strike-booster-box-case",
+    "name": "Fusion Strike Booster Box Case",
+    "type": "Booster Box Case",
+    "release_date": "2021-11-12",
+    "tcgplayer_id": "247655",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Booster Box Case contains 6 Booster Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247655_in_1000x1000.jpg",
+    "packs": {
+      "swsh8": "216"
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "fusion-strike-sleeved-booster-pack",
+    "name": "Fusion Strike Sleeved Booster Pack",
+    "type": "Sleeved Booster Pack",
+    "release_date": "2021-11-12",
+    "tcgplayer_id": "247656",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each pack contains 10 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247656_in_1000x1000.jpg",
+    "packs": {
+      "swsh8": "1"
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "fusion-strike-sleeved-booster-pack-art-bundle-set-of-4",
+    "name": "Fusion Strike Sleeved Booster Pack Art Bundle [Set of 4]",
+    "type": "Sleeved Booster Pack",
+    "release_date": "2021-11-12",
+    "tcgplayer_id": "247657",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each bundle contains 4 Booster Packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247657_in_1000x1000.jpg",
+    "packs": {
+      "swsh8": 4
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "fusion-strike-sleeved-booster-pack-bundle-set-of-8",
+    "name": "Fusion Strike Sleeved Booster Pack Bundle [Set of 8]",
+    "type": "Sleeved Booster Pack",
+    "release_date": "2021-11-12",
+    "tcgplayer_id": "247658",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each bundle contains 8 Booster Packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247658_in_1000x1000.jpg",
+    "packs": {
+      "swsh8": 8
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "fusion-strike-build-battle-box-display",
+    "name": "Fusion Strike Build & Battle Box Display",
+    "type": "Build & Battle Box Display",
+    "release_date": "2021-11-12",
+    "tcgplayer_id": "247660",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Build & Battle Box Display contains 10 Build & Battle Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247660_in_1000x1000.jpg",
+    "packs": {
+      "swsh8": "40"
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [
+      "swshp-SWSH168 (Set Stamp) or swshp-SWSH169 (Set Stamp) or swshp-SWSH170 (Set Stamp) or swshp-SWSH171 (Set Stamp)",
+      "swsh8-130 (Non Holo)",
+      "swsh1-178 (Non Holo)"
+    ],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "fusion-strike-elite-trainer-box-case",
+    "name": "Fusion Strike Elite Trainer Box Case",
+    "type": "Elite Trainer Box Case",
+    "release_date": "2021-11-12",
+    "tcgplayer_id": "256271",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Elite Trainer Box Case contains 10 Elite Trainer Boxes.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/256271_in_1000x1000.jpg",
+    "packs": {
+      "swsh8": 80
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "fusion-strike-fun-pack",
+    "name": "Fusion Strike Fun Pack",
+    "type": "Fun Pack",
+    "release_date": "2021-11-12",
+    "tcgplayer_id": "509886",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Fun Pack contains 3 cards.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/509886_in_1000x1000.jpg",
+    "packs": {},
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "id": "fusion-strike-sleeved-booster-case",
+    "name": "Fusion Strike Sleeved Booster Case",
+    "type": "Sleeved Booster Case",
+    "release_date": "2021-11-12",
+    "tcgplayer_id": "547703",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "description": "Each Sleeved Booster Case contains 144 Sleeved Booster Packs.",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/547703_in_1000x1000.jpg",
+    "packs": {
+      "swsh8": "144"
+    },
+    "coins": [],
+    "sleeves": [],
+    "promos": [],
+    "damage_markers": null,
+    "other": null
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Build & Battle Box contains a 23-card Evolution pack including 1 of 4 promo cards, 4 Booster Packs, and a code card for Pokémon TCG Live.",
+    "id": "fusion-strike-build-battle-box",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247659_in_1000x1000.jpg",
+    "name": "Fusion Strike Build & Battle Box",
+    "other": null,
+    "packs": {
+      "swsh8": 4
+    },
+    "promos": [
+      "swshp-SWSH168 (Set Stamp) or swshp-SWSH169 (Set Stamp) or swshp-SWSH170 (Set Stamp) or swshp-SWSH171 (Set Stamp)",
+      "swsh8-130 (Non Holo)",
+      "swsh1-178 (Non Holo)"
+    ],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "247659",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Build & Battle Box"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Build & Battle Stadium contains 2 Build & Battle Boxes, 4 additional Booster Packs, 121 Energy cards, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 acrylic condition markers, and a collector's box.",
+    "id": "fusion-strike-build-battle-stadium",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247666_in_1000x1000.jpg",
+    "name": "Fusion Strike Build & Battle Stadium",
+    "other": null,
+    "packs": {
+      "swsh8": 12
+    },
+    "promos": [
+      "swshp-SWSH168 (Set Stamp) or swshp-SWSH169 (Set Stamp) or swshp-SWSH170 (Set Stamp) or swshp-SWSH171 (Set Stamp)",
+      "swsh8-130 (Non Holo)",
+      "swsh1-178 (Non Holo)"
+    ],
+    "release_date": "2021-11-26",
+    "sleeves": [],
+    "tcgplayer_id": "247666",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Build & Battle Stadium"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each 3-Pack Blister contains 3 Booster Packs, 1 promo card, 1 coin, and a code card for Pokémon TCG Live.",
+    "id": "fusion-strike-3-pack-blister-eevee",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247667_in_1000x1000.jpg",
+    "name": "Fusion Strike 3 Pack Blister [Eevee]",
+    "other": null,
+    "packs": {
+      "swsh8": "3"
+    },
+    "promos": [
+      "swshp-SWSH175"
+    ],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "247667",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "3-Pack Blister"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each 3-Pack Blister contains 3 Booster Packs, 1 promo card, 1 coin, and a code card for Pokémon TCG Live.",
+    "id": "fusion-strike-3-pack-blister-espeon",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247668_in_1000x1000.jpg",
+    "name": "Fusion Strike 3 Pack Blister [Espeon]",
+    "other": null,
+    "packs": {
+      "swsh8": "3"
+    },
+    "promos": [
+      "swshp-SWSH174"
+    ],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "247668",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "3-Pack Blister"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Single Pack Blister contains 1 Booster Pack, 1 promo card, and a coin.",
+    "id": "fusion-strike-single-pack-blister-tepig",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247669_in_1000x1000.jpg",
+    "name": "Fusion Strike Single Pack Blister [Tepig]",
+    "other": null,
+    "packs": {
+      "swsh8": "1"
+    },
+    "promos": [
+      "swshp-SWSH172"
+    ],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "247669",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Single Pack Blister"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Single Pack Blister contains 1 Booster Pack, 1 promo card, and a coin.",
+    "id": "fusion-strike-single-pack-blister-blitzle",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247670_in_1000x1000.jpg",
+    "name": "Fusion Strike Single Pack Blister [Blitzle]",
+    "other": null,
+    "packs": {
+      "swsh8": "1"
+    },
+    "promos": [
+      "swshp-SWSH173"
+    ],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "247670",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Single Pack Blister"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Elite Trainer Box contains 8 Booster Packs, 65 card sleeves, 45 Energy cards, a player's guide, a rulebook, 6 damage-counter dice, 1 competition-legal coin-flip die, 2 acrylic condition markers, a collector's box with 4 dividers, and a code card for Pokémon TCG Live.",
+    "id": "fusion-strike-elite-trainer-box",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247671_in_1000x1000.jpg",
+    "name": "Fusion Strike Elite Trainer Box",
+    "other": null,
+    "packs": {
+      "swsh8": 8
+    },
+    "promos": [],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "247671",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Elite Trainer Box"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Pokemon Center Elite Trainer Box contains 10 Booster Packs, 130 card sleeves, 45 Energy cards, a player's guide, a rulebook, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 metallic coin, 2 acrylic condition markers, a collector's box with 4 dividers, and a code card for Pokémon TCG Live.",
+    "id": "fusion-strike-pokemon-center-elite-trainer-box-exclusive",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247673_in_1000x1000.jpg",
+    "name": "Fusion Strike Pokemon Center Elite Trainer Box (Exclusive)",
+    "other": null,
+    "packs": {
+      "swsh8": 10
+    },
+    "promos": [],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "247673",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Pokemon Center Elite Trainer Box"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Premium Checklane Blister contains 1 Booster Pack, 3 promo cards, and a coin.",
+    "id": "fusion-strike-premium-checklane-blister-cinderace",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247675_in_1000x1000.jpg",
+    "name": "Fusion Strike Premium Checklane Blister [Cinderace]",
+    "other": null,
+    "packs": {
+      "swsh8": "1"
+    },
+    "promos": [
+      "swsh6-026",
+      "swsh6-027",
+      "swsh6-028"
+    ],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "247675",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Premium Checklane Blister"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Premium Checklane Blister contains 1 Booster Pack, 3 promo cards, and a coin.",
+    "id": "fusion-strike-premium-checklane-blister-rillaboom",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247676_in_1000x1000.jpg",
+    "name": "Fusion Strike Premium Checklane Blister [Rillaboom]",
+    "other": null,
+    "packs": {
+      "swsh8": "1"
+    },
+    "promos": [
+      "swsh6-016",
+      "swsh6-017",
+      "swsh6-018"
+    ],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "247676",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Premium Checklane Blister"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Premium Collection contains 8 Booster Packs, 2 promo cards, 1 foil Special Energy card, 1 jumbo card, and a code card for the Pokémon Trading Card Game Online.",
+    "id": "rapid-strike-urshifu-vmax-premium-collection",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/253454_in_1000x1000.jpg",
+    "name": "Rapid Strike Urshifu VMAX Premium Collection",
+    "other": null,
+    "packs": {},
+    "promos": [
+      "swsh5-087",
+      "swsh5-088",
+      "swsh5-140 (Reverse Holo)",
+      "swsh5-088 (Jumbo)"
+    ],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "253454",
+    "cardmarket_id": "574439",
+    "cardtrader_id": "200839",
+    "type": "Premium Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each V Box contains 4 Booster Packs, 2 promo cards, 1 jumbo card, and a code card for Pokémon TCG Live.",
+    "id": "hisuian-electrode-v-box",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/282721_in_1000x1000.jpg",
+    "name": "Hisuian Electrode V Box",
+    "other": null,
+    "packs": {
+      "swsh11": 2,
+      "swsh10": 1,
+      "swsh9": 1
+    },
+    "promos": [
+      "swshp-SWSH294",
+      "swshp-SWSH294 (Jumbo)",
+      "swsh8-088 (Cosmos Holo)"
+    ],
+    "release_date": "2022-11-04",
+    "sleeves": [],
+    "tcgplayer_id": "282721",
+    "cardmarket_id": "671813",
+    "cardtrader_id": "311088",
+    "type": "V Box"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Premium Collection contains 8 Booster Packs, 2 promo cards, 1 foil Special Energy card, 1 jumbo card, and a code card for the Pokémon Trading Card Game Online.",
+    "id": "single-strike-urshifu-vmax-premium-collection",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/253455_in_1000x1000.jpg",
+    "name": "Single Strike Urshifu VMAX Premium Collection",
+    "other": null,
+    "packs": {},
+    "promos": [
+      "swsh5-085",
+      "swsh5-086",
+      "swsh5-141 (Reverse Holo)",
+      "swsh5-086 (Jumbo)"
+    ],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "253455",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Premium Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Set of 2 contains 1 Single Strike Urshifu VMAX Premium Collection and 1 Rapid Strike Urshifu VMAX Premium Collection.",
+    "id": "urshifu-vmax-premium-collection-set-of-2",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/283851_in_1000x1000.jpg",
+    "name": "Urshifu VMAX Premium Collection [Set of 2]",
+    "other": null,
+    "packs": {},
+    "promos": [
+      "swsh5-085",
+      "swsh5-086",
+      "swsh5-141 (Reverse Holo)",
+      "swsh5-086 (Jumbo)",
+      "swsh5-087",
+      "swsh5-088",
+      "swsh5-140 (Reverse Holo)",
+      "swsh5-088 (Jumbo)"
+    ],
+    "release_date": null,
+    "sleeves": [],
+    "tcgplayer_id": "283851",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Premium Collection"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Pokemon Center Elite Trainer Box Case contains 4 Pokemon Center Elite Trainer Boxes.",
+    "id": "fusion-strike-pokemon-center-elite-trainer-box-case-exclusive",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/557076_in_1000x1000.jpg",
+    "name": "Fusion Strike Pokemon Center Elite Trainer Box Case (Exclusive)",
+    "other": null,
+    "packs": {
+      "swsh8": 40
+    },
+    "promos": [],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "557076",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "Pokemon Center Elite Trainer Box Case"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each 3-Pack Blister Case contains 24 3-Pack Blisters.",
+    "id": "fusion-strike-3-pack-blister-case",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/638064_in_1000x1000.jpg",
+    "name": "Fusion Strike 3-Pack Blister Case",
+    "other": null,
+    "packs": {
+      "swsh8": 72
+    },
+    "promos": [
+      "swshp-SWSH174",
+      "swshp-SWSH175"
+    ],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "638064",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "3-Pack Blister Case"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each V Box contains 4 Booster Packs, 1 promo card, 1 jumbo card, and a code card for the Pokémon Trading Card Game Online. Booster packs vary by product.",
+    "id": "dragonite-v-box",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/245876_in_1000x1000.jpg",
+    "name": "Dragonite V Box",
+    "other": null,
+    "packs": {},
+    "promos": [
+      "swshp-SWSH154",
+      "swshp-SWSH154 (Jumbo)"
+    ],
+    "release_date": "2021-09-24",
+    "sleeves": [],
+    "tcgplayer_id": "245876",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "V Box"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each V Box contains 4 Booster Packs, 1 promo card, 1 jumbo card, and a code card for the Pokémon Trading Card Game Online. Booster packs vary by product.",
+    "id": "hoopa-v-box",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/247817_in_1000x1000.jpg",
+    "name": "Hoopa V Box",
+    "other": null,
+    "packs": {},
+    "promos": [
+      "swshp-SWSH176",
+      "swshp-SWSH176 (Jumbo)"
+    ],
+    "release_date": "2021-11-12",
+    "sleeves": [],
+    "tcgplayer_id": "247817",
+    "cardmarket_id": "574438",
+    "cardtrader_id": "200834",
+    "type": "V Box"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each Set of 2 contains 1 Hoopa V Box and 1 Dragonite V Box.",
+    "id": "hoopa-v-box-dragonite-v-box-set-of-2",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/249619_in_1000x1000.jpg",
+    "name": "Hoopa V Box / Dragonite V Box [Set of 2]",
+    "other": null,
+    "packs": {},
+    "promos": [
+      "swshp-SWSH176",
+      "swshp-SWSH176 (Jumbo)",
+      "swshp-SWSH154",
+      "swshp-SWSH154 (Jumbo)"
+    ],
+    "release_date": null,
+    "sleeves": [],
+    "tcgplayer_id": "249619",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "V Box"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each 2-Pack Blister contains 2 Booster Packs, 3 promo cards, 1 coin, and a code card for the Pokémon Trading Card Game Online. Booster packs vary by product.",
+    "id": "unova-two-pack-blister-forces-of-nature-trio",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/263545_in_1000x1000.jpg",
+    "name": "Unova Two Pack Blister [Forces of Nature Trio]",
+    "other": null,
+    "packs": {},
+    "promos": [
+      "swsh4-142 (Cosmos Holo)",
+      "swsh6-052 (Cosmos Holo)",
+      "swsh8-148 (Cosmos Holo)"
+    ],
+    "release_date": "2022-01-11",
+    "sleeves": [],
+    "tcgplayer_id": "263545",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "2-Pack Blister"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each League Battle Deck contains a ready-to-play 60-card deck including 2 Mew V, 2 Mew VMAX, and 2 Genesect V, 1 deck box, 2 condition markers, 6 damage-counter dice, 1 competition-legal coin-flip die, 1 strategy sheet, and a code card for Pokémon TCG Live.",
+    "id": "league-battle-deck-mew-vmax",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/283599_in_1000x1000.jpg",
+    "name": "League Battle Deck [Mew VMAX]",
+    "other": null,
+    "packs": {},
+    "promos": [
+      "swsh8-113",
+      "swsh8-114",
+      "swsh8-185",
+      "swsh8-120 (Non Holo)",
+      "swsh9-132 (Non Holo)"
+    ],
+    "release_date": "2022-11-11",
+    "sleeves": [],
+    "tcgplayer_id": "283599",
+    "cardmarket_id": "672616",
+    "cardtrader_id": "311235",
+    "type": "League Battle Deck"
+  },
+  {
+    "coins": [],
+    "damage_markers": null,
+    "description": "Each 3 Pack Hanger Box contains 3 Booster Packs.",
+    "id": "fusion-strike-3-pack-hanger-box",
+    "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/635742_in_1000x1000.jpg",
+    "name": "Fusion Strike 3 Pack Hanger Box",
+    "other": null,
+    "packs": {
+      "swsh8": 3
+    },
+    "promos": [],
+    "release_date": null,
+    "sleeves": [],
+    "tcgplayer_id": "635742",
+    "cardmarket_id": null,
+    "cardtrader_id": null,
+    "type": "3 Pack Hanger Box"
   }
 ]
